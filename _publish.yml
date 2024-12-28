@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 0143a51d-1012-4cef-8c7d-157deda171fc
+      url: 'https://lev-feigin.quarto.pub/italian_poetry'

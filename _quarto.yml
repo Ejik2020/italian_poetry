@@ -1,0 +1,54 @@
+project:
+  type: book
+
+book:
+  sidebar:
+    title: "Переводы с итальянского Александра Фейгина"
+    search: false
+    style: floating
+  title: "Современная Итальянская Поэзия"
+  subtitle: "Переводчик и состовитель: Александр Фейгин"
+  chapters:
+    - index.qmd
+    - Говони.qmd
+    - Монтале.qmd
+    - Капрони.qmd
+    - Рабони.qmd
+    - Пекора.qmd
+    - Лолини.qmd
+    - Пьерсанти.qmd
+    - Конте.qmd
+    - Пизану.qmd
+    - Ламарк.qmd
+    - Кавалли.qmd
+    - Вивиани.qmd
+    - Трави.qmd
+    - Фьори.qmd
+    - Мари.qmd
+    - Бенедетти.qmd
+    - Арминио.qmd
+    - Риккарди.qmd
+    - Наццаро.qmd
+    - Корафильо.qmd
+    - Томада.qmd
+    - Нове.qmd
+    - Каталано.qmd
+    - Д'Агостини.qmd
+    - Дженти.qmd
+    - Эван.qmd
+    - Галлони.qmd
+    
+format:
+  html:
+    theme: cosmo
+    linestretch: 1.5
+    number-sections: false
+    toc: true
+    toc-location: right
+    toc-title: Содержание
+    mainfont: monospace
+
+
+
+editor: visual
+
