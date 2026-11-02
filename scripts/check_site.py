@@ -32,6 +32,15 @@ def main():
     config = Path("_quarto.yml").read_text()
     chapters = re.findall(r"^    - (.+\.qmd)\s*$", config, re.M)
     expected = {str(Path(ch).with_suffix(".html")) for ch in chapters}
+    for chapter in chapters:
+        source = Path(chapter).read_text()
+        name = str(Path(chapter).with_suffix('.html'))
+        if name not in files:
+            continue
+        originals = len(re.findall(r'^:::.*italian', source, re.M))
+        paired = files[name].read_text().count('data-paired="true"')
+        if originals != paired:
+            errors.append(f'{name}: {originals} supplied originals but {paired} rendered poem pairs')
     for name in sorted(expected - pages.keys()):
         errors.append(f"Missing chapter: {name}")
     for name in sorted(pages.keys() - expected):

@@ -11,6 +11,8 @@
 .DS_Store
 ._*
 __MACOSX/
+__pycache__/
+*.py[cod]
 /rsconnect/
 
 **/*.quarto_ipynb

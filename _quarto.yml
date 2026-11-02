@@ -1,14 +1,14 @@
 project:
   type: book
+  resources:
+    - edition.js
+
+filters:
+  - filters/literary.lua
 
 book:
   site-url: https://www.alexfeigin.com/
-  navbar:
-    left:
-      - text: "Стихи"
-        href: index.qmd
-      - text: "Купить книгу"
-        href: book.qmd
+  navbar: false
 
   sidebar:
     title: "Переводы с итальянского Александра Фейгина"
@@ -56,11 +56,13 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-before-body: includes/edition.html
     linestretch: 1.5
     number-sections: false
-    toc: true
+    anchor-sections: false
+    toc: false
     toc-location: right
     toc-title: Содержание
-    mainfont: monospace
+    mainfont: Literata
 
 

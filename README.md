@@ -3,14 +3,20 @@
 Quarto book of Alexander Feigin's translations. The November 2026 migration uses
 `Poetry Book.zip` as the content authority: 32 poet chapters, the introduction,
 and the purchase page. Poetry text, punctuation, line breaks, supplied Italian
-originals, and `styles.css` are preserved from that archive.
+originals, and images are preserved from that archive. The v4 literary redesign
+updates the presentation layer; see [review notes](docs/redesign-review.md).
 
 ## Content and appearance
 
 - Poet chapters are the Cyrillic `.qmd` files in the repository root.
 - `index.qmd` is the introduction; `book.qmd` is «Купить книгу».
 - `_quarto.yml` controls chapter order, navigation, and the Cosmo HTML theme.
-- `styles.css` contains custom styles; `images/` contains the supplied images.
+- `styles.css` contains the literary design; `images/` contains the supplied images.
+- `filters/literary.lua` renders poem pairs, titles, stanzas, and hanging line
+  wraps without editing source text. Keep source `.italian` blocks immediately
+  after their matching translations; preserve stanza paragraphs and hard breaks.
+- `edition.js` and `includes/edition.html` provide reading modes, the independent
+  verse/title size control, persistent preferences, and responsive navigation.
 - `_book/` and `.quarto/` are generated and ignored. Do not edit rendered HTML.
 
 To add a poem, edit the relevant `.qmd` file using the existing poem formatting.
@@ -31,6 +37,19 @@ quarto preview
 quarto render
 python3 scripts/check_site.py
 ```
+
+The optional browser checks need `pip install -r requirements-dev.txt` and
+`playwright install chromium`. Serve `_book` with `python3 -m http.server 8766
+--directory _book` in a separate terminal, then run:
+
+```sh
+python3 scripts/check_reading_ui.py --base-url http://127.0.0.1:8766/
+```
+
+To use an existing Chrome installation, set `CHROME_PATH` to its executable.
+For the one-time redesign content audit, run
+`python3 scripts/check_preservation.py`; this compares against the immutable
+`v1.0-pre-redesign` tag and intentionally flags subsequent content edits.
 
 Review the introduction, purchase page and its external purchase link, a short
 chapter such as Пьерсанти, and long chapters such as Каталано and Ламарк.
