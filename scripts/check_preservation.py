@@ -12,7 +12,7 @@ import subprocess
 
 class Content(HTMLParser):
     void = {'area','base','br','col','embed','hr','img','input','link','meta','param','source','track','wbr'}
-    chrome = {'edition-masthead','readingbar','poem-panel','mobile-shade'}
+    chrome = {'edition-masthead','readingbar','poem-panel','mobile-shade','home-reading-action'}
     def __init__(self, html):
         super().__init__(); self.stack=[]; self.text=[]; self.breaks=0; self.feed(html)
     def handle_starttag(self, tag, attrs):

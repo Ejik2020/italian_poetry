@@ -718,7 +718,7 @@ html {
 .chapter-head h1.title {
   font-size:clamp(40px,4.3vw,76px);
   line-height:1.14;
-  margin-bottom:32px;
+  margin-bottom:24px;
 }
 body:not(:has(.reading)) h1.title {
   font-size:clamp(40px,5vw,78px);
@@ -726,14 +726,14 @@ body:not(:has(.reading)) h1.title {
 }
 #quarto-sidebar .sidebar-item-text {padding:6px 0;line-height:1.35;}
 @media(max-width:760px) {
-.chapter-head h1.title {font-size:clamp(36px,8vw,56px);margin-bottom:27px;}
+.chapter-head h1.title {font-size:clamp(36px,8vw,56px);margin-bottom:24px;}
 }
 @media(max-width:360px) {
 .edition-masthead {padding:0 14px;gap:10px;}
 .edition-wordmark {max-width:110px;white-space:normal;}
 .edition-masthead nav {gap:12px;}
 }
-.chapter-head #title-block-header.quarto-title-block.default .quarto-title h1.title {margin-bottom:32px;}
+.chapter-head #title-block-header.quarto-title-block.default .quarto-title h1.title {margin-bottom:24px;}
 
 /* v2.0.1: quiet reading tools, independent of the main navigation. */
 .readingbar {
@@ -773,8 +773,8 @@ body:not(:has(.reading)) h1.title {
 .font-control output {min-width:22px;text-align:center;font-variant-numeric:tabular-nums;}
 .font-control button:disabled {opacity:.4;cursor:default;}
 .chapter-head #title-block-header::before {content:'';display:block;width:56px;height:2px;background:#7d8571;margin:0 0 28px;}
-.chapter-head .bio {font:400 18px/1.58 'Source Serif 4',Georgia,'Times New Roman',serif;color:var(--ink);max-width:680px;margin:0 auto;text-align:left;}
-.chapter-head .bio p {margin:0 0 1.1em;}
+.chapter-head .bio {font:400 18px/1.65 'Source Serif 4',Georgia,'Times New Roman',serif;color:#41483f;max-width:640px;margin:0 auto;text-align:left;}
+.chapter-head .bio p {margin:0 0 1.2em;}
 .chapter-head .bio p:last-child {margin-bottom:0;}
 .poet-page main>.page-navigation {display:flex;align-items:flex-start;justify-content:space-between;gap:36px;width:min(100%,820px);max-width:100%;margin:58px auto 0;padding:22px 0 0;border-top:1px solid var(--hair);}
 .poet-page .page-navigation .nav-page {flex:0 1 46%;min-width:0;}
@@ -798,3 +798,20 @@ body:not(:has(.reading)) h1.title {
   .poet-page .page-navigation .pagination-link {gap:8px;font-size:14px;}
 }
 @media(max-width:360px) {.readingbar {padding:4px 12px;}.reading-modes {gap:12px;}}
+
+/* A quiet invitation to start reading, below the original introduction. */
+.home-reading-action {max-width:800px;margin:32px auto 0;}
+.home-reading-action a {
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  min-height:44px;
+  padding:11px 28px;
+  border:1px solid #c9cec1;
+  border-radius:2px;
+  background:#e6e9df;
+  color:#3f4c3d;
+  font:500 14px/1.4 'Manrope',sans-serif;
+  text-decoration:none;
+}
+.home-reading-action a:hover {background:#dce2d3;border-color:#aab59f;color:#303d2f;}

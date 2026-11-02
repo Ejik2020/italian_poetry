@@ -2,7 +2,7 @@
 import argparse
 import os
 from pathlib import Path
-from urllib.parse import quote
+from urllib.parse import quote, unquote, urlparse
 from playwright.sync_api import sync_playwright
 
 parser = argparse.ArgumentParser()
@@ -25,9 +25,17 @@ with sync_playwright() as p:
     assert not page.locator('#quarto-sidebar').is_visible()
     assert not page.locator('.readingbar').is_visible()
     assert page.locator('img[src*="Gravity-7.jpg"]').evaluate('(e)=>e.complete && e.naturalWidth>0')
+    read_link = page.locator('.home-reading-action a')
+    assert read_link.inner_text() == 'Читать'
+    assert unquote(urlparse(read_link.get_attribute('href')).path).split('/')[-1] == 'Говони.html'
+    read_link.click()
+    page.wait_for_url('**/' + quote('Говони') + '.html')
+    assert page.locator('.reading').is_visible()
+    assert page.locator('.home-reading-action').count() == 0
     page.get_by_role('link', name='Книга', exact=True).click()
     page.wait_for_url('**/book.html')
     assert page.locator('main a[href*="tiptopstreet.com"]').count() == 2
+    assert page.locator('.home-reading-action').count() == 0
     assert not page.locator('.readingbar').is_visible()
     matrix = 0
     for width in [1600, 1100, 820, 430, 375, 320]:
@@ -44,13 +52,13 @@ with sync_playwright() as p:
                 bioFamily:getComputedStyle(e.querySelector('.bio')).fontFamily})''')
             assert 'Source Serif 4' in invariants['bioFamily']
             assert invariants['bio'] == '18px'
-            assert page.locator('.bio').evaluate('(e)=>e.getBoundingClientRect().width') <= 680
+            assert page.locator('.bio').evaluate('(e)=>e.getBoundingClientRect().width') <= 640
             assert page.locator('.font-control').evaluate('(e)=>e.parentElement.classList.contains("readingbar")')
             assert page.locator('.reading-modes svg[aria-hidden="true"]').count() == 3
             assert page.locator('.chapter-head #title-block-header').evaluate('(e)=>getComputedStyle(e,"::before").width') == '56px'
             assert page.locator('.nav-page-previous .chapter-arrow').inner_text() == '←'
             assert page.locator('.nav-page-next .chapter-arrow').inner_text() == '→'
-            assert page.locator('.chapter-head h1').evaluate('(e)=>parseFloat(getComputedStyle(e).marginBottom)') >= 27
+            assert page.locator('.chapter-head h1').evaluate('(e)=>parseFloat(getComputedStyle(e).marginBottom)') == 24
             if width > 760:
                 assert page.locator('#quarto-sidebar').is_visible()
             else:

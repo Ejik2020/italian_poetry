@@ -70,7 +70,15 @@ end
 
 function Pandoc(doc)
   -- Poet chapters all begin with their original biographical blockquote.
-  if #doc.blocks == 0 or doc.blocks[1].t ~= 'BlockQuote' then return doc end
+  if #doc.blocks == 0 or doc.blocks[1].t ~= 'BlockQuote' then
+    -- Add navigation after the Home introduction without editing its source text.
+    if pandoc.path.filename(quarto.doc.input_file) == 'index.qmd' then
+      doc.blocks:insert(pandoc.Div({
+        pandoc.Para({pandoc.Link('Читать', 'Говони.html')})
+      }, pandoc.Attr('', {'home-reading-action'})))
+    end
+    return doc
+  end
   local before = signature(doc.blocks)
   local intro = pandoc.Div(doc.blocks[1].content, pandoc.Attr('', {'bio'}))
   local output = pandoc.Blocks({pandoc.Div({intro}, pandoc.Attr('', {'chapter-head'}))})
