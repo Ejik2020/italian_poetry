@@ -112,8 +112,11 @@ with sync_playwright() as p:
     # Desktop sidebar collapse/reopen and sticky chrome.
     page.set_viewport_size({'width': 1600, 'height': 1080})
     page.goto(base + quote('Капрони') + '.html')
+    open_icon_x = page.locator('.sidebar-heading .menu-icon').bounding_box()['x']
     page.locator('.sidebar-heading').click()
     assert not page.locator('#quarto-sidebar').is_visible()
+    assert abs(page.locator('.sidebar-switch .menu-icon').bounding_box()['x'] - open_icon_x) < 1
+    assert page.locator('.sidebar-switch').evaluate('(e)=>getComputedStyle(e).outlineStyle') == 'none'
     assert page.locator('.font-control').is_visible()
     page.locator('.font-up').click()
     assert page.locator('.font-control output').inner_text() == '21'

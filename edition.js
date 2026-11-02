@@ -44,7 +44,11 @@
       if (['index.html','book.html'].includes(decodeURIComponent(new URL(a.href).pathname.split('/').pop()))) a.closest('li')?.remove();
     });
     const heading = document.createElement('button'); heading.type = 'button';
-    heading.className = 'sidebar-heading'; heading.textContent = '☰ Поэты';
+    heading.className = 'sidebar-heading';
+    const icon=document.createElement('span');icon.className='menu-icon';
+    icon.textContent='☰';icon.setAttribute('aria-hidden','true');
+    const label=document.createElement('span');label.textContent='Поэты';
+    heading.append(icon,label);
     heading.setAttribute('aria-label','Свернуть список поэтов'); heading.setAttribute('aria-expanded','true');
     heading.setAttribute('aria-controls','quarto-sidebar'); sidebar.prepend(heading);
     heading.addEventListener('click',() => {
@@ -95,11 +99,11 @@
       if(open) $('.sidebar-heading')?.focus();
     } else {side=!side;storage.set('edition-side',side?'open':'closed');applySide();}
   });
-  function openPoets() {
+  function openPoets(focusHeading=true) {
     if(mobile.matches) {
       body.classList.add('sidebar-mobile-open');shade.hidden=false;opener.setAttribute('aria-expanded','true');
     } else {side=true;storage.set('edition-side','open');applySide();}
-    $('.sidebar-heading')?.focus();
+    if(focusHeading) $('.sidebar-heading')?.focus();
   }
   $('.edition-masthead [data-section="poets"]').addEventListener('click',e => {
     e.preventDefault();openPoets();
@@ -117,5 +121,5 @@
   });
   mobile.addEventListener('change',applySide);new ResizeObserver(reflow).observe(reading);
   setMode(mode);setFont(size,false);applySide();
-  if(showPoets) openPoets();
+  if(showPoets) openPoets(mobile.matches);
 })();

@@ -6,7 +6,8 @@
   --muted:#6c746d;
   --hair:#d8d8d0;
   --font-size:17px;
-  --sidebar-width:258px
+  --sidebar-width:258px;
+  --poet-nav-inset:clamp(18px,3vw,45px)
 }
 * {
   box-sizing:border-box
@@ -420,8 +421,10 @@ html {
   margin:0 0 5px;
   cursor:pointer
 }
-/* Keep keyboard focus visible without boxing in the poet-navigation heading. */
-.sidebar-heading:focus-visible {
+/* Suppress native pointer/programmatic focus boxes too (including Safari).
+   Keyboard focus keeps an underline instead of a rectangular outline. */
+.sidebar-heading:focus, .sidebar-switch:focus {outline:none;box-shadow:none;}
+.sidebar-heading:focus-visible, .sidebar-switch:focus-visible {
   outline:none;
   text-decoration:underline;
   text-decoration-thickness:1px;
@@ -825,3 +828,18 @@ body:not(:has(.reading)) h1.title {
   text-decoration:none;
 }
 .home-reading-action a:hover {background:#dce2d3;border-color:#aab59f;color:#303d2f;}
+
+/* Keep the menu icon on the same left guide in both navigation states. */
+#quarto-sidebar {padding-left:var(--poet-nav-inset);}
+.readingbar {padding-left:var(--poet-nav-inset);}
+.sidebar-switch {text-align:left;}
+.sidebar-heading .menu-icon, .sidebar-switch .menu-icon {
+  display:inline-flex;
+  align-items:center;
+  justify-content:flex-start;
+  width:18px;
+  height:22px;
+  flex-shrink:0;
+  font:400 20px/1 'Literata',Georgia,serif;
+}
+@media(max-width:1000px) {:root {--poet-nav-inset:22px;}}
