@@ -21,6 +21,7 @@ with sync_playwright() as p:
     page.on('pageerror', lambda e: errors.append(str(e)))
     page.goto(base)
     assert page.locator('.edition-masthead').is_visible()
+    assert page.locator('.edition-wordmark').inner_text() == 'Итальянская поэзия'
     assert not page.locator('#quarto-sidebar').is_visible()
     assert not page.locator('.readingbar').is_visible()
     assert page.locator('img[src*="Gravity-7.jpg"]').evaluate('(e)=>e.complete && e.naturalWidth>0')
@@ -35,6 +36,8 @@ with sync_playwright() as p:
             page.goto(base + quote(poet) + '.html')
             page.wait_for_selector('.poet-page')
             await_fonts = page.evaluate('()=>document.fonts.ready.then(()=>true)')
+            if matrix == 0:
+                assert page.locator('.font-control output').inner_text() == '17'
             invariants = page.locator('.chapter-head').evaluate('''e=>({
                 heading:getComputedStyle(e.querySelector('h1')).fontSize,
                 bio:getComputedStyle(e.querySelector('.bio')).fontSize,
@@ -100,10 +103,7 @@ with sync_playwright() as p:
     page.wait_for_timeout(120)
     assert abs(page.locator('.readingbar').bounding_box()['y'] - 66) < 1
     assert page.locator('.chapter-head').bounding_box()['y'] < 0
-    page.locator('.poem-index').click()
-    assert page.locator('#poem-panel a').count() == 25
-    page.locator('#poem-panel a').nth(3).click()
-    assert not page.locator('#poem-panel').is_visible()
+    assert page.locator('.poem-index, #poem-panel').count() == 0
     # Persistence across pages and refresh.
     page.locator('.reading-modes [data-mode="translation"]').click()
     page.locator('.font-up').click()

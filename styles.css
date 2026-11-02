@@ -6,7 +6,7 @@
   --ink:#282c29;
   --muted:#6c746d;
   --hair:#d8d8d0;
-  --font-size:20px;
+  --font-size:17px;
   --sidebar-width:258px
 }
 * {
@@ -1128,4 +1128,69 @@ main img {
   font:400 19px/1.68 'Source Serif 4',Georgia,serif;
   margin:0 0 42px;
   max-width:810px
+}
+
+/* Approved reading refinements: compact navigation and independent reading dock. */
+.chapter-head h1.title {
+  font-size:clamp(40px,4.3vw,76px);
+  line-height:1.14;
+  margin-bottom:32px;
+}
+body:not(:has(.reading)) h1.title {
+  font-size:clamp(40px,5vw,78px);
+  line-height:1.16;
+}
+#quarto-sidebar .sidebar-item-text {padding:6px 0;line-height:1.35;}
+.readingbar {justify-content:center;}
+.reading-modes {
+  flex:0 1 auto;
+  gap:2px;
+  padding:3px;
+  border:1px solid var(--hair);
+  border-radius:6px;
+  background:#eeeee7;
+}
+.reading-modes button {
+  padding:7px 14px;
+  border:0;
+  border-radius:3px;
+  font-size:12px;
+  color:#596258;
+}
+.reading-modes button[aria-pressed=true] {
+  background:#dce2d8;
+  color:#263629;
+  border:0;
+}
+body>.font-control {
+  position:fixed;
+  bottom:18px;
+  left:calc(var(--sidebar-width) + 24px);
+  z-index:45;
+  margin:0;
+  padding:6px 12px;
+  gap:12px;
+  background:var(--paper);
+  border:1px solid var(--hair);
+}
+body>.font-control button {padding:5px;min-width:30px;border:0;background:none;}
+body.sidebar-closed>.font-control {left:24px;}
+body:not(:has(.reading))>.font-control {display:none;}
+@media(max-width:760px) {
+  .chapter-head h1.title {font-size:clamp(36px,8vw,56px);margin-bottom:27px;}
+  .readingbar {height:56px;display:flex;gap:14px;padding:6px 18px;}
+  .reading-modes {justify-content:center;margin:auto;gap:2px;}
+  .reading-modes button {padding:6px 10px;min-height:32px;font-size:11px;}
+  .sidebar-switch {flex:0 0 24px;}
+  #quarto-sidebar {top:113px!important;}
+  .mobile-shade:not([hidden]) {top:113px;}
+  body>.font-control,body.sidebar-closed>.font-control {left:auto;right:16px;bottom:12px;padding:4px 10px;}
+  body>.font-control button {min-height:36px;}
+}
+@media(max-width:360px) {
+  .edition-masthead {padding:0 14px;gap:10px;}
+  .edition-wordmark {max-width:110px;white-space:normal;}
+  .edition-masthead nav {gap:12px;}
+  .readingbar {padding:6px 12px;gap:8px;}
+  .reading-modes button {padding:6px 8px;}
 }

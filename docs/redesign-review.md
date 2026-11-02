@@ -1,7 +1,7 @@
 # V4 literary redesign review
 
-The existing `main` branch contains the review candidate. Production publication
-and a new release tag are held until the owner approves the redesign.
+The owner approved the redesign with the reading refinements below. Publication
+uses the existing `main` branch and GitHub Pages workflow.
 
 ## Protected baseline
 
@@ -25,8 +25,7 @@ Do not modify, delete, or move this tag.
   collection note remains a note between poems, with its full wording intact.
 - `styles.css` applies the v4 paper, typography, spacing, and Quarto integration.
   The main image is the original local `images/Gravity-7.jpg`, without cropping.
-- `edition.js` controls persistent reading mode, font size, sidebar, and jump
-  navigation. Russian and Italian both use Literata; biographies use Source
+- `edition.js` controls persistent reading mode, font size and sidebar navigation. Russian and Italian both use Literata; biographies use Source
   Serif 4 at 18–20 px / 1.68. Serif fallbacks remain available without Google Fonts.
 - The 16–30 px verse control changes titles at exactly 1.25×, independently of
   the poet heading, biography, navigation, and browser zoom.
@@ -34,7 +33,7 @@ Do not modify, delete, or move this tag.
   the verse size. The saved `parallel` preference is preserved during reflow.
   Every subsequent poem starts below the taller language version.
 - Desktop has a visible poet list by default with a single `☰ Поэты` control.
-  Mobile uses a closed drawer and a two-row toolbar so controls stay readable.
+  Mobile uses a closed drawer and a compact reading-mode toolbar.
   Home and the real purchase page have no poet sidebar or reading toolbar.
 - Latin display names are taken from the source biographies. Five names absent
   there have separate display metadata in `edition.js`; no biography is edited.
@@ -52,7 +51,7 @@ Do not modify, delete, or move this tag.
 - Verified exact title/verse ratio, unchanged heading/biography size, responsive
   reflow, no horizontal overflow or poem overlap, desktop collapse/reopen,
   mobile drawer and Escape behavior, sticky chrome, 32-poet navigation,
-  in-chapter jumps, purchase navigation, and persistence across pages/reloads.
+  purchase navigation and persistence across pages/reloads.
 - All 34 pages remain accessible at phone width with no JavaScript exceptions.
 - Specifically located all nine named acceptance poems, including long lines
   in Catalano, Lamarque, and Montale and short/uneven pairs in Caproni.
@@ -64,9 +63,18 @@ the Russian side contains three death narratives; the supplied Italian side
 contains the first narrative only. Both are reproduced exactly. No missing
 Italian text has been reconstructed, added, or removed.
 
-## Review and release
+## Approved refinements
 
-Review Home and the four acceptance poets in the local preview. Once approved,
-push the candidate from `main`, verify the GitHub Actions deployment and both
-domain names, then create and push a new annotated release tag. The protected
-pre-redesign tag must remain unchanged throughout.
+- Home wordmark: «Итальянская поэзия».
+- Smaller poet/Home headings, with additional clearance before the Latin name.
+- Default verse size: 17 px; explicit saved size preferences still persist.
+- Compact segmented reading modes, visually separate from main navigation.
+- The «Стихи» dropdown is removed. Size controls use a small bottom reading dock.
+- Tighter spacing in the desktop poet list.
+- Text, punctuation, stanza boundaries, line breaks, links, and images remain unchanged.
+
+## Release
+
+After local validation, publish from `main`, verify the GitHub Actions deployment
+and both domain names, and create the annotated `v2.0.0` release tag for that
+published commit. The protected pre-redesign tag remains unchanged.

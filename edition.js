@@ -5,7 +5,8 @@
   const body = document.body, reading = $('.reading');
   // Quarto's book template puts include-before-body inside <main>. Move the
   // global chrome out so it spans the viewport and stays sticky independently.
-  body.prepend($('.edition-masthead'), $('.readingbar'), $('#poem-panel'), $('.mobile-shade'));
+  body.prepend($('.edition-masthead'), $('.readingbar'), $('.mobile-shade'));
+  body.append($('.font-control'));
   const book = /\/book\.html$/.test(location.pathname);
   body.classList.add(reading ? 'poet-page' : book ? 'book-page' : 'home-page');
   $(`.edition-masthead [data-section="${reading ? 'poets' : book ? 'book' : 'home'}"]`)?.setAttribute('aria-current', 'page');
@@ -16,12 +17,11 @@
   };
   let mode = storage.get('edition-mode');
   if (!['parallel','translation','stacked'].includes(mode)) mode = 'parallel';
-  const saved = Number(storage.get('edition-size') || 20);
-  let size = Number.isFinite(saved) ? Math.max(16,Math.min(30,Math.round(saved))) : 20;
+  const saved = Number(storage.get('edition-size') || 17);
+  let size = Number.isFinite(saved) ? Math.max(16,Math.min(30,Math.round(saved))) : 17;
   let side = storage.get('edition-side') !== 'closed';
   const mobile = matchMedia('(max-width:760px)'), sidebar = $('#quarto-sidebar');
   const opener = $('.sidebar-switch'), shade = $('.mobile-shade');
-  const panel = $('#poem-panel'), index = $('.poem-index');
   $('.readingbar').hidden = false;
   const head = $('.chapter-head'), block = $('#title-block-header');
   if (block) head.prepend(block);
@@ -46,11 +46,6 @@
       else {side = false;storage.set('edition-side','closed');applySide();opener.focus();}
     });
   }
-  $$('.poem').forEach((poem,i) => {
-    const a = document.createElement('a'); a.href = '#'+poem.id;
-    a.textContent = `${i+1}. ${(poem.querySelector('h3') || poem.querySelector('.verse'))?.textContent || '***'}`;
-    a.addEventListener('click',closeIndex); panel.append(a);
-  });
   function reflow() {reading.dataset.reflow = String(mode === 'parallel' && reading.clientWidth < size*39);}
   function setMode(value,persist=true) {
     mode=value;reading.dataset.mode=mode;
@@ -62,33 +57,29 @@
     $('.font-control output').textContent=size;$('.font-down').disabled=size===16;$('.font-up').disabled=size===30;
     if(persist) storage.set('edition-size',String(size));reflow();
   }
-  function closeIndex() {panel.hidden=true;index.setAttribute('aria-expanded','false');}
   function closeDrawer() {
     body.classList.remove('sidebar-mobile-open');shade.hidden=true;
     opener.setAttribute('aria-expanded',String(!mobile.matches && side));
   }
   function applySide() {body.classList.toggle('sidebar-closed',!mobile.matches && !side);closeDrawer();reflow();}
   opener.addEventListener('click',() => {
-    closeIndex();
     if(mobile.matches) {
       const open=body.classList.toggle('sidebar-mobile-open');shade.hidden=!open;opener.setAttribute('aria-expanded',String(open));
       if(open) $('.sidebar-heading')?.focus();
     } else {side=!side;storage.set('edition-side',side?'open':'closed');applySide();}
   });
   $('.edition-masthead [data-section="poets"]').addEventListener('click',e => {
-    e.preventDefault(); closeIndex();
+    e.preventDefault();
     if(mobile.matches) {
       body.classList.add('sidebar-mobile-open');shade.hidden=false;opener.setAttribute('aria-expanded','true');
     } else {side=true;storage.set('edition-side','open');applySide();}
     $('.sidebar-heading')?.focus();
   });
   shade.addEventListener('click',closeDrawer);
-  index.addEventListener('click',() => {const open=panel.hidden;closeDrawer();panel.hidden=!open;index.setAttribute('aria-expanded',String(open));});
   $$('.reading-modes button').forEach(b => b.addEventListener('click',() => setMode(b.dataset.mode)));
   $('.font-down').addEventListener('click',() => setFont(size-1));$('.font-up').addEventListener('click',() => setFont(size+1));
-  document.addEventListener('pointerdown',e => {if(!panel.contains(e.target) && !index.contains(e.target)) closeIndex();});
   document.addEventListener('keydown',e => {
-    if(e.key==='Escape') {closeIndex();if(body.classList.contains('sidebar-mobile-open')){closeDrawer();opener.focus();}}
+    if(e.key==='Escape') {if(body.classList.contains('sidebar-mobile-open')){closeDrawer();opener.focus();}}
     if(e.key==='Tab' && mobile.matches && body.classList.contains('sidebar-mobile-open')) {
       const items=[...sidebar.querySelectorAll('button,a[href]')].filter(x => x.getClientRects().length);
       if(e.shiftKey && document.activeElement===items[0]) {items.at(-1).focus();e.preventDefault();}

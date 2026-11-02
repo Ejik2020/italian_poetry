@@ -1,5 +1,5 @@
 <header class="edition-masthead">
-  <a class="edition-wordmark" href="index.html">Александр Фейгин <span> / Итальянская поэзия</span></a>
+  <a class="edition-wordmark" href="index.html">Итальянская поэзия</a>
   <nav aria-label="Разделы">
     <a href="index.html" data-section="home">Главная</a>
     <a href="Говони.html" data-section="poets">Поэты</a>
@@ -9,17 +9,15 @@
 <div class="readingbar" aria-label="Настройки чтения" hidden>
   <button class="sidebar-switch" type="button" aria-controls="quarto-sidebar" aria-expanded="true" aria-label="Открыть список поэтов">☰</button>
   <div class="reading-modes" role="group" aria-label="Режим чтения">
-    <button type="button" data-mode="parallel" aria-pressed="true">Рядом</button>
-    <button type="button" data-mode="translation" aria-pressed="false">Перевод</button>
-    <button type="button" data-mode="stacked" aria-pressed="false">Друг за другом</button>
+    <button type="button" data-mode="parallel" title="Русский и итальянский рядом" aria-pressed="true">Рядом</button>
+    <button type="button" data-mode="translation" title="Только русский перевод" aria-pressed="false">Перевод</button>
+    <button type="button" data-mode="stacked" title="Перевод, затем итальянский оригинал" aria-pressed="false">Друг за другом</button>
   </div>
-  <button class="poem-index" type="button" aria-controls="poem-panel" aria-expanded="false">Стихи <span aria-hidden="true">⌄</span></button>
   <div class="font-control" role="group" aria-label="Размер стихотворного шрифта">
     <button type="button" class="font-down" aria-label="Уменьшить стихотворный шрифт">−A</button>
-    <output aria-live="polite" aria-label="Размер шрифта в пикселях">20</output>
+    <output aria-live="polite" aria-label="Размер шрифта в пикселях">17</output>
     <button type="button" class="font-up" aria-label="Увеличить стихотворный шрифт">A+</button>
   </div>
 </div>
-<nav id="poem-panel" class="poem-panel" aria-label="Стихотворения" hidden></nav>
 <div class="mobile-shade" hidden></div>
 <script src="edition.js" defer></script>
