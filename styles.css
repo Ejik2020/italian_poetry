@@ -1,6 +1,5 @@
 /* v4 reference typography and reading layout; adapted to Quarto below. */
 @import url('https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,500;7..72,600&family=Manrope:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap');
-
 :root {
   --paper:#f7f6f1;
   --ink:#282c29;
@@ -25,7 +24,7 @@ button {
   cursor:pointer;
   color:inherit
 }
-button:focus-visible,a:focus-visible {
+button:focus-visible, a:focus-visible {
   outline:2px solid #78877b;
   outline-offset:4px
 }
@@ -85,58 +84,6 @@ button:focus-visible,a:focus-visible {
   background:none;
   font-size:22px
 }
-.readingbar {
-  position:sticky;
-  top:66px;
-  z-index:48;
-  background:rgba(247,246,241,.975);
-  border-bottom:1px solid var(--hair);
-  height:56px;
-  display:flex;
-  align-items:center;
-  gap:24px;
-  padding:0 clamp(20px,4vw,68px);
-  backdrop-filter:blur(9px)
-}
-.sidebar-switch,.poem-index {
-  font:500 12px 'Manrope',sans-serif;
-  background:none;
-  border:0;
-  padding:10px 0;
-  white-space:nowrap;
-  color:#596258
-}
-.sidebar-switch {
-  min-width:120px;
-  text-align:left
-}
-.reading-modes {
-  display:flex;
-  gap:31px;
-  justify-content:center;
-  flex:1
-}
-.reading-modes button {
-  font:500 13px 'Manrope',sans-serif;
-  border:0;
-  background:none;
-  padding:17px 0 14px;
-  color:var(--muted);
-  border-bottom:2px solid transparent;
-  white-space:nowrap
-}
-.reading-modes button.active {
-  color:var(--ink);
-  border-bottom-color:#323b34
-}
-.poem-index {
-  min-width:80px;
-  text-align:right
-}
-.poem-index span {
-  font-size:17px;
-  padding-left:4px
-}
 .layout {
   display:flex;
   min-height:calc(100vh - 122px)
@@ -180,32 +127,6 @@ button:focus-visible,a:focus-visible {
 .nav-poet:not(.has-demo) {
   color:#737a72
 }
-.font-control {
-  display:flex;
-  align-items:center;
-  gap:16px;
-  font:500 15px 'Manrope',sans-serif;
-  margin-top:auto;
-  padding-top:38px;
-  white-space:nowrap
-}
-.font-control button {
-  border:0;
-  background:none;
-  font:500 16px 'Literata',serif;
-  padding:5px 0
-}
-.font-control output {
-  min-width:20px;
-  text-align:center;
-  font-variant-numeric:tabular-nums
-}
-.bar-font {
-  display:none;
-  margin:0;
-  padding:0;
-  gap:13px
-}
 .main {
   flex:1;
   min-width:0
@@ -236,12 +157,6 @@ button:focus-visible,a:focus-visible {
   font:500 clamp(24px,2.5vw,36px)/1.35 'Literata',Georgia,serif;
   color:#747c74;
   margin:0 0 54px
-}
-.chapter-head .bio {
-  max-width:850px;
-  font:400 clamp(20px,1.65vw,24px)/1.68 'Literata',Georgia,serif;
-  margin:0;
-  text-align:left
 }
 .poem {
   padding:6px 0 66px;
@@ -280,44 +195,19 @@ button:focus-visible,a:focus-visible {
   display:block;
   max-width:920px
 }
-.reading[data-mode=stacked] .bilingual,.reading[data-reflow=true] .bilingual {
+.reading[data-mode=stacked] .bilingual, .reading[data-reflow=true] .bilingual {
   display:block
 }
-.reading[data-mode=stacked] .italian,.reading[data-reflow=true] .italian {
+.reading[data-mode=stacked] .italian, .reading[data-reflow=true] .italian {
   margin-top:56px
 }
-.reading[data-mode=stacked] .language,.reading[data-reflow=true] .language {
+.reading[data-mode=stacked] .language, .reading[data-reflow=true] .language {
   max-width:920px
 }
 .end-note {
   font:12px 'Manrope',sans-serif;
   color:var(--muted);
   margin-top:35px
-}
-.poem-panel {
-  position:fixed;
-  z-index:56;
-  top:125px;
-  right:clamp(20px,4vw,68px);
-  width:min(340px,calc(100vw - 40px));
-  background:var(--paper);
-  border:1px solid var(--hair);
-  padding:20px 24px;
-  max-height:68vh;
-  overflow-y:auto
-}
-.poem-panel p {
-  font:600 10px 'Manrope',sans-serif;
-  letter-spacing:.17em;
-  color:var(--muted)
-}
-.poem-panel a {
-  display:block;
-  text-decoration:none;
-  color:var(--ink);
-  font:15px/1.5 'Literata',serif;
-  padding:8px 0;
-  border-bottom:1px solid var(--hair)
 }
 .home {
   max-width:1180px;
@@ -362,7 +252,7 @@ button:focus-visible,a:focus-visible {
   margin-top:36px;
   font-style:italic
 }
-.intro a,.book-link {
+.intro a, .book-link {
   color:inherit;
   text-underline-offset:4px
 }
@@ -383,13 +273,13 @@ button:focus-visible,a:focus-visible {
   font-size:14px!important;
   color:var(--muted)
 }
-body.home-page .readingbar,body.home-page #quarto-sidebar,body.book-page .readingbar,body.book-page #quarto-sidebar {
+body.home-page #quarto-sidebar, body.book-page #quarto-sidebar {
   display:none
 }
-body.home-page .layout,body.book-page .layout {
+body.home-page .layout, body.book-page .layout {
   display:block
 }
-body.home-page .reading,body.book-page .reading {
+body.home-page .reading, body.book-page .reading {
   display:none
 }
 body:not(.homepage) .home {
@@ -401,9 +291,6 @@ body:not(.books-page) .books-view {
 body.sidebar-closed #quarto-sidebar {
   display:none
 }
-body.sidebar-closed .bar-font {
-  display:flex
-}
 body.sidebar-closed .reading {
   max-width:1570px
 }
@@ -411,71 +298,39 @@ body.sidebar-closed .reading {
   display:none
 }
 @media(max-width:1000px) {
-  #quarto-sidebar {
+#quarto-sidebar {
     width:225px;
     flex-basis:225px;
     padding-left:22px
   }
-  .nav-poet {
+.nav-poet {
     font-size:15px
   }
-  .reading {
+.reading {
     padding-left:32px;
     padding-right:32px
-  }
-  .reading-modes {
-    gap:17px
-  }
-  .readingbar {
-    gap:13px
-  }
-  .sidebar-switch {
-    min-width:86px
   }
 
 }
 @media(max-width:760px) {
-  .edition-masthead {
+.edition-masthead {
     height:57px;
     padding:0 18px
   }
-  .edition-wordmark {
+.edition-wordmark {
     font-size:12px;
     white-space:normal
   }
-  .edition-wordmark span {
+.edition-wordmark span {
     display:none
   }
-  .edition-masthead nav {
+.edition-masthead nav {
     gap:17px
   }
-  .edition-masthead nav button {
+.edition-masthead nav button {
     font-size:11px
   }
-  .readingbar {
-    top:57px;
-    height:55px;
-    padding:0 14px
-  }
-  .sidebar-switch {
-    min-width:0
-  }
-  .sidebar-switch span {
-    display:none
-  }
-  .poem-index {
-    min-width:0
-  }
-  .poem-index span {
-    display:none
-  }
-  .reading-modes {
-    gap:13px
-  }
-  .reading-modes button {
-    font-size:11px
-  }
-  #quarto-sidebar {
+#quarto-sidebar {
     display:none;
     position:fixed;
     top:112px;
@@ -487,101 +342,70 @@ body.sidebar-closed .reading {
     box-shadow:none;
     border-right:1px solid var(--hair)
   }
-  body.sidebar-mobile-open #quarto-sidebar {
+body.sidebar-mobile-open #quarto-sidebar {
     display:flex
   }
-  .mobile-shade.active {
+.mobile-shade.active {
     display:block;
     position:fixed;
     inset:112px 0 0;
     background:#0005;
     z-index:55
   }
-  .reading {
+.reading {
     padding:0 25px 75px
   }
-  .chapter-head {
+.chapter-head {
     padding:50px 0 45px
   }
-  .chapter-head h1 {
+.chapter-head h1 {
     font-size:clamp(45px,10vw,78px)
   }
-  .chapter-head .latin {
+.chapter-head .latin {
     margin-bottom:30px
   }
-  .chapter-head .bio {
-    font-size:19px;
-    line-height:1.6
-  }
-  .home {
+.home {
     padding:56px 24px 80px
   }
-  .home .byline {
+.home .byline {
     font-size:19px
   }
-  .intro {
+.intro {
     font-size:17px
   }
-  .bilingual {
+.bilingual {
     gap:26px
-  }
-  .poem-panel {
-    top:113px;
-    right:12px
   }
 
 }
 @media(max-width:580px) {
-  .reading[data-mode=parallel] .bilingual {
+.reading[data-mode=parallel] .bilingual {
     display:block
   }
-  .reading[data-mode=parallel] .italian {
+.reading[data-mode=parallel] .italian {
     margin-top:48px
   }
-  .reading-modes {
-    gap:12px
-  }
-  .reading-modes button {
-    font-size:10px
-  }
-  .sidebar-switch {
-    font-size:17px
-  }
-  .poem-index {
-    font-size:11px
-  }
-  .home h1 {
+.home h1 {
     font-size:54px
   }
 
 }
 @media(prefers-reduced-motion:reduce) {
-  html {
+html {
     scroll-behavior:auto
   }
 
 }
-
-/* v3 editorial refinements */
 .chapter-head h1 {
   font-size:clamp(48px,5.35vw,94px);
   letter-spacing:-.052em
 }
-
-.chapter-head .bio {
-  font-size:clamp(18px,1.42vw,21px);
-  line-height:1.72;
-  max-width:810px
-}
-
 .chapter-head .latin {
   font-size:clamp(23px,2.2vw,32px)
 }
-
 #quarto-sidebar {
   padding-top:23px
 }
-
 .sidebar-heading {
   display:flex;
   gap:11px;
@@ -596,113 +420,20 @@ body.sidebar-closed .reading {
   margin:0 0 5px;
   cursor:pointer
 }
-
 .sidebar-heading span {
   font:500 17px/1.4 'Literata',Georgia,serif
 }
 
-.sidebar-switch {
-  display:none;
-  min-width:25px;
-  flex:0 0 auto;
-  font:500 20px/1 'Literata',Georgia,serif;
-  padding:9px 0;
-  color:var(--ink)
-}
-
-body.sidebar-closed .sidebar-switch {
-  display:block
-}
-
-.bar-font {
-  display:flex;
-  margin-left:auto;
-  padding:0 0 0 14px;
-  border-left:1px solid var(--hair);
-  flex:0 0 auto
-}
-
-#quarto-sidebar>.font-control {
-  display:none
-}
-
-body.sidebar-closed .bar-font {
-  display:flex
-}
-
-.reading-modes {
-  flex:1;
-  justify-content:center
-}
-
 @media(max-width:760px) {
-  .sidebar-switch {
-    display:block
-  }
-  .bar-font {
-    gap:8px;
-    padding-left:9px
-  }
-  .bar-font button {
-    font-size:14px
-  }
-  .sidebar-heading {
+.sidebar-heading {
     font-size:17px
   }
-  .chapter-head h1 {
+.chapter-head h1 {
     font-size:clamp(43px,9vw,68px)
   }
-  .chapter-head .bio {
-    font-size:18px
-  }
 
 }
-
-@media(max-width:480px) {
-  .reading-modes {
-    gap:9px
-  }
-  .reading-modes button {
-    font-size:10px
-  }
-  .readingbar {
-    gap:7px
-  }
-  .bar-font {
-    gap:6px
-  }
-  .bar-font button {
-    font-size:12px
-  }
-  .bar-font output {
-    font-size:12px
-  }
-  .poem-index {
-    font-size:11px
-  }
-
-}
-
-
-/* v4: separate editorial prose typography from the poetry, while retaining serif continuity. */
-.chapter-head .bio  {
-
-  font-family: 'Source Serif 4', Georgia, 'Times New Roman', serif;
-
-  font-size: clamp(18px, 1.45vw, 20px);
-
-  font-weight: 400;
-
-  line-height: 1.68;
-
-  letter-spacing: 0;
-
-
-}
-
-/* The numeric −A / A+ preference changes verse and poem titles together.
-   Title = 1.25 × verse size; chapter heading and biography stay unchanged. */
-.language h3  {
+.language h3 {
 
   font-family: 'Literata', Georgia, serif;
 
@@ -716,65 +447,30 @@ body.sidebar-closed .bar-font {
 
 
 }
-
-.verses  {
+.verses {
    font-family: 'Literata', Georgia, serif;
 
 }
-
-
-/* Quarto integration: native book routes and all chapter content are retained. */
 [hidden] {
   display:none!important
 }
-
 .edition-masthead a {
   text-decoration:none;
   color:inherit
 }
-
 .edition-masthead nav {
   display:flex;
   gap:32px;
   align-items:center
 }
-
 .edition-masthead nav a {
   font:500 13px 'Manrope',sans-serif;
   padding:14px 0;
   border-bottom:1px solid transparent
 }
-
 .edition-masthead nav a[aria-current] {
   border-bottom-color:var(--ink)
 }
-
-.readingbar[hidden] {
-  display:none!important
-}
-
-.readingbar button {
-  color:inherit
-}
-
-.reading-modes button[aria-pressed=true] {
-  color:var(--ink);
-  border-bottom-color:#323b34
-}
-
-.font-control button:disabled {
-  opacity:.4;
-  cursor:default
-}
-
-.readingbar .font-control {
-  display:flex;
-  margin:0 0 0 auto;
-  padding:0 0 0 14px;
-  border-left:1px solid var(--hair);
-  gap:13px
-}
-
 #quarto-content {
   display:block!important;
   width:100%;
@@ -782,7 +478,6 @@ body.sidebar-closed .bar-font {
   margin:0!important;
   padding:0!important
 }
-
 #quarto-content>main.content {
   width:auto;
   max-width:1480px;
@@ -790,13 +485,11 @@ body.sidebar-closed .bar-font {
   padding:0 clamp(25px,4.4vw,78px) 100px;
   min-width:0
 }
-
 .reading {
   padding:0;
   max-width:none;
   margin:0
 }
-
 #quarto-sidebar {
   position:fixed!important;
   top:122px!important;
@@ -809,19 +502,15 @@ body.sidebar-closed .bar-font {
   box-shadow:none;
   overflow-y:auto
 }
-
-#quarto-sidebar .sidebar-header,#quarto-sidebar .sidebar-title,#quarto-sidebar .sidebar-tools-main,#quarto-sidebar .sidebar-item-toggle,#quarto-sidebar .chapter-number {
+#quarto-sidebar .sidebar-header, #quarto-sidebar .sidebar-title, #quarto-sidebar .sidebar-tools-main, #quarto-sidebar .sidebar-item-toggle, #quarto-sidebar .chapter-number {
   display:none!important
 }
-
 #quarto-sidebar .sidebar-menu-container {
   padding:0
 }
-
 #quarto-sidebar .sidebar-item {
   padding:0
 }
-
 #quarto-sidebar .sidebar-item-text {
   display:block;
   font:400 16px/1.4 'Literata',Georgia,serif;
@@ -829,7 +518,6 @@ body.sidebar-closed .bar-font {
   padding:10px 0;
   text-decoration:none
 }
-
 #quarto-sidebar .sidebar-item-text.active {
   color:#1f2822;
   font-weight:600;
@@ -837,25 +525,20 @@ body.sidebar-closed .bar-font {
   padding-left:12px;
   margin-left:-14px
 }
-
-#quarto-margin-sidebar,#quarto-search,#quarto-header,.quarto-secondary-nav,.quarto-title-meta,.quarto-title .quarto-categories {
+#quarto-margin-sidebar, #quarto-search, #quarto-header, .quarto-secondary-nav, .quarto-title-meta, .quarto-title .quarto-categories {
   display:none!important
 }
-
 body.sidebar-closed #quarto-sidebar {
   display:none!important
 }
-
 body.sidebar-closed #quarto-content>main.content {
   margin-left:auto!important;
   max-width:1570px
 }
-
 .chapter-head #title-block-header {
   margin:0;
   padding:0
 }
-
 .chapter-head h1.title {
   font:500 clamp(48px,5.35vw,94px)/1.075 'Literata',Georgia,serif;
   letter-spacing:-.052em;
@@ -863,97 +546,72 @@ body.sidebar-closed #quarto-content>main.content {
   color:var(--ink);
   overflow-wrap:break-word
 }
-
-.chapter-head .bio {
-  margin:0 auto;
-  text-align:left
-}
-
 .bio p {
   margin:0 0 1em
 }
-
 .bio p:first-child {
   color:var(--muted)
 }
-
 .bio em {
   font-style:normal
 }
-
 .language h3 strong {
   font-weight:500
 }
-
 .stanza {
   font:400 var(--font-size)/1.73 'Literata',Georgia,serif
 }
-
 .verse {
   display:block
 }
-
 .stanza br {
   display:none
 }
-
 .source-spacing {
   display:none
 }
-
 .stanza+.source-spacing+.stanza {
   margin-top:1.4em
 }
-
 .bilingual {
   align-items:start
 }
-
 .bilingual:has(>:only-child) {
   display:block
 }
-
 .bilingual:has(>:only-child) .language {
   max-width:920px
 }
-
-body:not(:has(.reading)) #quarto-sidebar,body:not(:has(.reading)) .readingbar {
+body:not(:has(.reading)) #quarto-sidebar {
   display:none!important
 }
-
 body:not(:has(.reading)) #quarto-content>main.content {
   margin:0 auto!important;
   max-width:1180px;
   padding:78px clamp(24px,6vw,95px) 100px
 }
-
 body:not(:has(.reading)) h1.title {
   font:500 clamp(48px,6.1vw,96px)/1.12 'Literata',Georgia,serif;
   letter-spacing:-.055em;
   margin:0 0 20px
 }
-
 body:not(:has(.reading)) .subtitle {
   font:400 24px/1.5 'Literata',Georgia,serif;
   color:var(--muted);
   margin-bottom:42px
 }
-
 body:not(:has(.reading)) main.content>p {
   max-width:800px;
   margin:0 auto 24px;
   font:19px/1.85 'Source Serif 4',Georgia,serif
 }
-
 .quarto-figure {
   margin:0 auto 60px
 }
-
 .quarto-figure figure {
   margin:auto;
   max-width:100%
 }
-
 .quarto-figure img {
   display:block;
   margin:auto;
@@ -963,23 +621,19 @@ body:not(:has(.reading)) main.content>p {
   height:auto;
   object-fit:contain
 }
-
 .quarto-figure figcaption {
   font:11px/1.5 'Manrope',sans-serif;
   text-align:center;
   color:var(--muted);
   margin-top:11px
 }
-
 main img {
   max-width:100%;
   height:auto
 }
-
 .nav-page {
   font:14px/1.6 'Literata',Georgia,serif
 }
-
 .mobile-shade:not([hidden]) {
   display:block;
   position:fixed;
@@ -989,10 +643,10 @@ main img {
 }
 
 @media(max-width:1000px) {
-  :root {
+:root {
     --sidebar-width:225px
   }
-  #quarto-content>main.content {
+#quarto-content>main.content {
     padding-left:32px;
     padding-right:32px
   }
@@ -1000,117 +654,50 @@ main img {
 }
 
 @media(max-width:760px) {
-
- .edition-masthead {
+.edition-masthead {
     height:57px;
     padding:0 18px;
     gap:16px
   }
-
- .edition-masthead nav {
+.edition-masthead nav {
     gap:17px
   }
-  .edition-masthead nav a {
+.edition-masthead nav a {
     font-size:11px
   }
-
- .readingbar {
-    top:57px;
-    height:92px;
-    display:grid;
-    grid-template-columns:28px minmax(0,1fr) auto;
-    grid-template-rows:44px 40px;
-    gap:0 14px;
-    padding:4px 18px
-  }
-
- .sidebar-switch {
-    display:block;
-    grid-row:1;
-    grid-column:1
-  }
-
- .reading-modes {
-    grid-row:1;
-    grid-column:2/4;
-    justify-content:flex-end;
-    gap:14px
-  }
-
- .reading-modes button {
-    font-size:11px;
-    min-height:44px;
-    padding:10px 0
-  }
-
- .poem-index {
-    grid-row:2;
-    grid-column:1/3;
-    text-align:left;
-    min-height:40px
-  }
-
- .readingbar .font-control {
-    grid-row:2;
-    grid-column:3;
-    gap:13px;
-    padding-left:10px
-  }
-
- .font-control button {
-    min-height:40px;
-    min-width:30px
-  }
-
- .font-control output {
-    font-size:14px
-  }
-
- #quarto-sidebar {
+#quarto-sidebar {
     display:none!important;
     top:149px!important;
     z-index:60;
     width:min(315px,84vw);
     padding-left:22px
   }
-
- body.sidebar-mobile-open #quarto-sidebar {
+body.sidebar-mobile-open #quarto-sidebar {
     display:flex!important
   }
-
- #quarto-content>main.content {
+#quarto-content>main.content {
     margin-left:0!important;
     padding:0 25px 75px
   }
-
- .reading {
+.reading {
     padding:0
   }
-
- .chapter-head h1.title {
+.chapter-head h1.title {
     font-size:clamp(43px,9vw,68px)
   }
-
- .reading .bilingual {
+.reading .bilingual {
     display:block
   }
-  .reading .italian {
+.reading .italian {
     margin-top:48px
   }
-
- .mobile-shade:not([hidden]) {
+.mobile-shade:not([hidden]) {
     top:149px
   }
-
- .poem-panel {
-    top:152px
-  }
-
- body:not(:has(.reading)) #quarto-content>main.content {
+body:not(:has(.reading)) #quarto-content>main.content {
     padding:50px 24px 80px
   }
-
- body:not(:has(.reading)) .subtitle {
+body:not(:has(.reading)) .subtitle {
     font-size:19px
   }
 
@@ -1118,19 +705,16 @@ main img {
 }
 
 @media(prefers-reduced-motion:reduce) {
-  html {
+html {
     scroll-behavior:auto
   }
 
 }
-
 .collection-note {
   font:400 19px/1.68 'Source Serif 4',Georgia,serif;
   margin:0 0 42px;
   max-width:810px
 }
-
-/* Approved reading refinements: compact navigation and independent reading dock. */
 .chapter-head h1.title {
   font-size:clamp(40px,4.3vw,76px);
   line-height:1.14;
@@ -1141,71 +725,76 @@ body:not(:has(.reading)) h1.title {
   line-height:1.16;
 }
 #quarto-sidebar .sidebar-item-text {padding:6px 0;line-height:1.35;}
-.readingbar {justify-content:center;}
-.reading-modes {
-  flex:0 1 auto;
-  gap:2px;
-  padding:3px;
-  border:1px solid var(--hair);
-  border-radius:6px;
-  background:#eeeee7;
-}
-.reading-modes button {
-  padding:7px 14px;
-  border:0;
-  border-radius:3px;
-  font-size:12px;
-  color:#596258;
-}
-.reading-modes button[aria-pressed=true] {
-  background:#dce2d8;
-  color:#263629;
-  border:0;
-}
-body>.font-control {
-  position:fixed;
-  bottom:18px;
-  left:calc(var(--sidebar-width) + 24px);
-  z-index:45;
-  margin:0;
-  padding:6px 12px;
-  gap:12px;
-  background:var(--paper);
-  border:1px solid var(--hair);
-}
-body>.font-control button {padding:5px;min-width:30px;border:0;background:none;}
-body.sidebar-closed>.font-control {left:24px;}
-body:not(:has(.reading))>.font-control {display:none;}
 @media(max-width:760px) {
-  .chapter-head h1.title {font-size:clamp(36px,8vw,56px);margin-bottom:27px;}
-  .readingbar {height:56px;display:flex;gap:14px;padding:6px 18px;}
-  .reading-modes {justify-content:center;margin:auto;gap:2px;}
-  .reading-modes button {padding:6px 10px;min-height:32px;font-size:11px;}
-  .sidebar-switch {flex:0 0 24px;}
-  #quarto-sidebar {top:113px!important;}
-  .mobile-shade:not([hidden]) {top:113px;}
-  body>.font-control,body.sidebar-closed>.font-control {left:auto;right:16px;bottom:12px;padding:4px 10px;}
-  body>.font-control button {min-height:36px;}
+.chapter-head h1.title {font-size:clamp(36px,8vw,56px);margin-bottom:27px;}
 }
 @media(max-width:360px) {
-  .edition-masthead {padding:0 14px;gap:10px;}
-  .edition-wordmark {max-width:110px;white-space:normal;}
-  .edition-masthead nav {gap:12px;}
-  .readingbar {padding:6px 12px;gap:8px;}
-  .reading-modes button {padding:6px 8px;}
+.edition-masthead {padding:0 14px;gap:10px;}
+.edition-wordmark {max-width:110px;white-space:normal;}
+.edition-masthead nav {gap:12px;}
 }
-
-/* Keep desktop size controls within the poet navigation, clear of the verse. */
-body.poet-page #quarto-sidebar>.font-control {
-  display:flex;
-  position:static;
-  flex:0 0 auto;
-  margin:0 0 14px;
-  padding:0 0 12px;
-  border:0;
-  border-bottom:1px solid var(--hair);
-  gap:14px;
-}
-#quarto-sidebar>.font-control button {padding:5px;min-width:30px;}
-/* Quarto's title-block rule has higher specificity than ordinary h1 rules. */
 .chapter-head #title-block-header.quarto-title-block.default .quarto-title h1.title {margin-bottom:32px;}
+
+/* v2.0.1: quiet reading tools, independent of the main navigation. */
+.readingbar {
+  position:sticky;
+  top:66px;
+  z-index:48;
+  height:56px;
+  display:grid;
+  grid-template-columns:32px minmax(0,1fr) auto;
+  align-items:center;
+  gap:24px;
+  padding:0 clamp(20px,4vw,68px);
+  background:var(--paper);
+  border-bottom:1px solid var(--hair);
+}
+.sidebar-switch {display:none;border:0;background:none;font:20px 'Literata',serif;padding:8px 0;}
+.sidebar-closed .sidebar-switch {display:block;}
+.reading-modes {grid-column:2;display:flex;justify-content:center;gap:26px;min-width:0;}
+.reading-modes button {
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  gap:7px;
+  border:0;
+  border-bottom:1px solid transparent;
+  border-radius:0;
+  background:none;
+  padding:12px 0 10px;
+  font:500 12px/1.3 'Manrope',sans-serif;
+  color:var(--muted);
+  white-space:nowrap;
+}
+.reading-modes svg {width:18px;height:18px;flex-shrink:0;stroke:currentColor;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round;fill:none;}
+.reading-modes button[aria-pressed=true] {color:#3d4c3e;border-bottom-color:#7d8571;}
+.readingbar .font-control {grid-column:3;display:flex;align-items:center;gap:12px;margin:0;padding:0 0 0 20px;border-left:1px solid var(--hair);font:500 14px 'Manrope',sans-serif;}
+.font-control button {border:0;background:none;padding:8px 2px;min-width:30px;font:500 16px 'Literata',serif;}
+.font-control output {min-width:22px;text-align:center;font-variant-numeric:tabular-nums;}
+.font-control button:disabled {opacity:.4;cursor:default;}
+.chapter-head #title-block-header::before {content:'';display:block;width:56px;height:2px;background:#7d8571;margin:0 0 28px;}
+.chapter-head .bio {font:400 18px/1.58 'Source Serif 4',Georgia,'Times New Roman',serif;color:var(--ink);max-width:680px;margin:0 auto;text-align:left;}
+.chapter-head .bio p {margin:0 0 1.1em;}
+.chapter-head .bio p:last-child {margin-bottom:0;}
+.poet-page main>.page-navigation {display:flex;align-items:flex-start;justify-content:space-between;gap:36px;width:min(100%,820px);max-width:100%;margin:58px auto 0;padding:22px 0 0;border-top:1px solid var(--hair);}
+.poet-page .page-navigation .nav-page {flex:0 1 46%;min-width:0;}
+.poet-page .page-navigation .pagination-link {display:flex;align-items:center;gap:12px;text-decoration:none;color:#4c584d;font:400 15px/1.5 'Literata',Georgia,serif;}
+.poet-page .page-navigation .nav-page-previous {display:block;text-align:left;}
+.poet-page .page-navigation .nav-page-next {display:block;text-align:right;margin-left:auto;}
+.poet-page .nav-page-next .pagination-link {justify-content:flex-end;}
+.chapter-arrow {flex-shrink:0;font:400 25px/1 'Literata',serif;}
+@media(max-width:1000px) {.readingbar {gap:14px;}.reading-modes {gap:18px;}}
+@media(max-width:760px) {
+  .readingbar {top:57px;height:92px;grid-template-columns:28px minmax(0,1fr) auto;grid-template-rows:44px 40px;gap:0 12px;padding:4px 18px;}
+  .reading-modes {grid-row:1;grid-column:1/4;gap:18px;}
+  .reading-modes button {gap:5px;font-size:11px;padding:8px 0;min-height:40px;}
+  .reading-modes svg {width:16px;height:16px;}
+  .sidebar-switch {display:block;grid-row:2;grid-column:1;}
+  .readingbar .font-control {grid-row:2;grid-column:3;padding-left:14px;gap:12px;}
+  .font-control button {min-height:40px;}
+  #quarto-sidebar {top:149px!important;}
+  .mobile-shade:not([hidden]) {top:149px;}
+  .poet-page main>.page-navigation {gap:20px;margin-top:38px;}
+  .poet-page .page-navigation .pagination-link {gap:8px;font-size:14px;}
+}
+@media(max-width:360px) {.readingbar {padding:4px 12px;}.reading-modes {gap:12px;}}

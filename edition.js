@@ -6,7 +6,6 @@
   // Quarto's book template puts include-before-body inside <main>. Move the
   // global chrome out so it spans the viewport and stays sticky independently.
   body.prepend($('.edition-masthead'), $('.readingbar'), $('.mobile-shade'));
-  body.append($('.font-control'));
   const book = /\/book\.html$/.test(location.pathname);
   body.classList.add(reading ? 'poet-page' : book ? 'book-page' : 'home-page');
   $(`.edition-masthead [data-section="${reading ? 'poets' : book ? 'book' : 'home'}"]`)?.setAttribute('aria-current', 'page');
@@ -46,6 +45,24 @@
       else {side = false;storage.set('edition-side','closed');applySide();opener.focus();}
     });
   }
+  // Retain Quarto's authoritative chapter links, but bring both directions
+  // into the reading column and use explicit arrows independent of icon fonts.
+  const pageNavigation=$('.page-navigation');
+  if(pageNavigation) {
+    pageNavigation.setAttribute('aria-label','Предыдущая и следующая страницы');
+    for(const direction of ['previous','next']) {
+      const link=pageNavigation.querySelector('.nav-page-'+direction+' a');
+      if(!link) continue;
+      link.querySelector('.bi')?.remove();
+      const arrow=document.createElement('span');
+      arrow.className='chapter-arrow';arrow.setAttribute('aria-hidden','true');
+      arrow.textContent=direction==='previous'?'←':'→';
+      if(direction==='previous') link.prepend(arrow);else link.append(arrow);
+      const label=link.getAttribute('aria-label') || link.textContent.trim();
+      link.setAttribute('aria-label',(direction==='previous'?'Предыдущая страница: ':'Следующая страница: ')+label);
+    }
+    $('main').append(pageNavigation);
+  }
   function reflow() {reading.dataset.reflow = String(mode === 'parallel' && reading.clientWidth < size*39);}
   function setMode(value,persist=true) {
     mode=value;reading.dataset.mode=mode;
@@ -63,9 +80,6 @@
   }
   function applySide() {
     body.classList.toggle('sidebar-closed',!mobile.matches && !side);
-    const controls=$('.font-control');
-    if(!mobile.matches && side && sidebar) $('.sidebar-heading').after(controls);
-    else body.append(controls);
     closeDrawer();reflow();
   }
   opener.addEventListener('click',() => {
