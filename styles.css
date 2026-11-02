@@ -621,6 +621,9 @@ body:not(:has(.reading)) main.content>p {
   height:auto;
   object-fit:contain
 }
+/* Gravity is 590 px wide at its native size; enlarge it by 15% on Home.
+   The existing max-width keeps it inside narrow viewports. */
+body:not(:has(.reading)) img[src="images/Gravity-7.jpg"] {width:679px;}
 .quarto-figure figcaption {
   font:11px/1.5 'Manrope',sans-serif;
   text-align:center;
