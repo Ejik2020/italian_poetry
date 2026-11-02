@@ -1,8 +1,11 @@
-## Эуджинио Монтале {style="gray"}
+# Эудженио Монтале {style="gray"}
 
-> Эуджинио Монтале (Eugenio Montale) - Нобелевский лауреат по литературе 1975 года, по праву считается одним из основателей герметизма - направления в итальянской поэзии, базирующегося на абстрагировании от «непоэтической» реальности. Приведенные ниже стихотворения были опубликованы в сборнике “Quaderno di Quatro Anni 91974-1977)”, Mondadori, Milano. Стихотворение ‘Аспазия’ названо по имени греческой гетеры пятого века до нашей эры, подруги Перикла, необыкновенной красавицы, державшей салон, который посещали такие выдающиеся люди как Сократ, Платон, Еврипид, Геродот и другие замечательные жители Афин того времени. Правда героиня стихотворения несколько отличается от своей предшественницы.
+> 1896–1981
 >
-> (1896 - 1981)
+> *Эуджинио Монтале - Нобелевский лауреат по литературе 1975 года, по праву считается одним из основателей герметизма - направления в итальянской поэзии, базирующегося на абстрагировании от «непоэтической» реальности.  Приведенные ниже стихотворения были опубликованы в сборнике “Quaderno di Quatro Anni 1974-1977)”. Стихотворение ‘Аспазия’ названо по имени греческой гетеры пятого века до нашей эры, подруги Перикла, необыкновенной красавицы, державшей салон, который посещали такие выдающиеся люди как Сократ, Платон, Еврипид, Геродот и другие замечательные жители Афин того времени. Правда героиня стихотворения несколько отличается от своей предшественницы.*
+
+
+<br/>
 
 **Аспазия**
 
@@ -21,13 +24,35 @@
 a та, естественно, пройдет мимо.\
 Так мы и не узнаем, кем же она была,\
 та бабочка, легко откликавшаяся на имя, которое\
-я ей выбрал.\
+я ей выбрал.
+
 <br/>
+
+::: italian
+**Aspasia**
+
+A tarda notte gli uomini\
+entravano nella sua stanza\
+dalla finestra. Si era a pianterreno.\
+L’avevo chiamata Aspasia e n’era contenta.\
+Poi ci lasciò. Fu barista, parrucchiera, e altro.\
+Raramente accadeva d’incontrarla.\
+Chiamavo allora Aspasia! a gran voce\
+e lei senza fermarsi sorrideva.\
+Eravamo coetanei, sarà morta da un pezzo.\
+Quando entrerò nell’inferno, quasi per abitudine\
+griderò Aspasia alla prima ombra che sorrida.\
+Lei tirerà di lungo naturalmente.\
+Mai sapremo chi fu e chi non fu\
+quella farfalla che aveva appena un nome\
+scelto da me
+:::
+
+------------------------------------------------------------------------
 
 **Поэт**
 
-**\
-**Немного жить мне осталось, но надеюсь\
+Немного жить мне осталось, но надеюсь\
 найти повод посвятить следующему тирану\
 мои скромные вирши. И не прикажет он\
 чтоб я перерезал себе вены, как Нерон повелел Лукану.\
@@ -35,4 +60,58 @@ a та, естественно, пройдет мимо.\
 и получит его в избытке. К тому же\
 смогу оставить незабываемый след.\
 Ведь в поэзии ценится не содержание,\
-а Форма.\
+а Форма.
+
+<br/>
+
+::: italian
+**Un poeta**
+
+Poco filo mi resta, ma spero che avrò modo\
+di dedicare al prossimo tiranno\
+i miei poveri carmi. Non mi dirà di svenarmi\
+come Nerono a Lucano. Vorrà una lode spontanea\
+scaturita da un cuore riconoscente\
+e ne avrà ad abbondanza. Potrò egualmente\
+lasciare orma durevole. In poesia\
+quello che conta non è il contenuto\
+ma la Forma.
+:::
+
+------------------------------------------------------------------------
+
+\*\*\*
+
+Я спускался, подавая тебе руку, по крайней мере, по миллиону лестниц,\
+а теперь, когда тебя нет, пустота на каждой ступени.\
+Но и так, наш долгий путь был коротким.\
+Мой все еще длится и мне безразличны\
+совпадения, оговорки, ловушки,\
+презрение тех, кто верит,\
+что реальность — это то, что мы видим.\
+
+Я спускался по миллионам лестниц, протягивая тебе руку,\
+не потому, что, наверное, четырьмя глазами мы видим больше.\
+Я спускался по ним с тобою, потому что знал, что на двоих у нас\
+единственными правдивыми, хоть и затуманенными зрачками\
+были твои.
+
+<br/>
+
+::: italian
+\*\*\*
+
+Ho sceso, dandoti il braccio, almeno un milione di scale\
+e ora che non ci sei è il vuoto ad ogni gradino.\
+Anche così è stato breve il nostro lungo viaggio.\
+Il mio dura tuttora, né più mi occorrono\
+le coincidenze, le prenotazioni,\
+le trappole, gli scorni di chi crede\
+che la realtà sia quella che si vede.\
+
+Ho sceso milioni di scale dandoti il braccio\
+non già perché con quattr’occhi forse si vede di più.\
+Con te le ho scese perché sapevo che di noi due\
+le sole vere pupille, sebbene tanto offuscate,\
+erano le tue.
+:::

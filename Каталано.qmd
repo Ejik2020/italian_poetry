@@ -1,8 +1,11 @@
-# Гвидо Каталано
+# Гвидо Каталано {style="gray"}
 
-Гвидо Каталано (Guido Catalano) родился и всегда жил в Турине, городе, к которому сильно привязан. Писать он начал еще в школьные годы. Он посещал классическую среднюю школу, в 17 лет он был фронтменом сумасшедшей рок-группы Pikkia Froid, для которой писал тексты. Когда группа распалась, он начал читать тексты песен и обнаружил, что они «напоминают стихи». После окончания средней школы он поступил в университет на факультет современной литературы. Прежде чем стать профессиональным поэтом, он брал на себя самую разную работу: корректор в издательстве Эйнауди, швейцар в доме, художник-зарисовщик. В 2000 году опубликовал свой первый сборник “I canni hanno sempre ragioni” («Собаки всегда правы»); в 2005 году он открыл свой блог, который разбогател вместе с социальными сетями, чтениями и поэтическими слэмами. В 2016 году он опубликовал свой первый роман «D’amore si mori ma io no» (Ты умираешь от любви, а я нет) , частично автобиографический. Ниже представлены мои переводы его стихов из сборника “Piuttosto che morire m’ammazo, Mondadori, 2024 (“Скорее я убью себя, чем умру”).
+> род. 1971
+>
+> *Гвидо Каталано (Guido Catalano) родился и всегда жил в Турине, городе, к которому сильно привязан. Писать он начал еще в школьные годы. Он посещал классическую среднюю школу, в 17 лет он был фронтменом сумасшедшей рок-группы Pikkia Froid, для которой писал тексты. Когда группа распалась, он начал читать тексты песен и обнаружил, что они «напоминают стихи». После окончания средней школы он поступил в университет на факультет современной литературы. Прежде чем стать профессиональным поэтом, он брал на себя самую разную работу: корректор в издательстве Эйнауди, швейцар в доме, художник-зарисовщик. В 2000 году опубликовал свой первый сборник “I canni hanno sempre ragioni” («Собаки всегда правы»); в 2005 году он открыл свой блог, который разбогател вместе с социальными сетями, чтениями и поэтическими слэмами. В 2016 году он опубликовал свой первый роман «D’amore si mori ma io no» (Ты умираешь от любви, а я нет) , частично автобиографический. Ниже представлены мои переводы его стихов из сборника “Piuttosto che morire m’ammazo, Mondadori, 2024 (“Скорее я убью себя, чем умру”).*
 
-\
+<br/>
+
 **Ты знала всё**
 
 Я помню,\
@@ -10,13 +13,13 @@
 «Почему бы тебе не съесть её просто с ветчиной?» я спрашивал тебя каждый раз.\
 «Почему ты не занимаешься своими делами?» ты отвечала мне\
 и улыбалась.\
-\
+
 Я помню,\
 что мы встретились весной,\
 ты любила стрелять в голубей из своей забавной пневматической винтовки.\
 «Попробуй!» ты сказала мне,\
 А я сказал: «нет, для меня это слишком».\
-\
+
 Я влюбился в тебя\
 еще и потому, что\
 в разговоре ты могла вставлять маленькие подсознательные фразы\
@@ -26,37 +29,81 @@
 и она говорит, что ей очень весело»\
 или:\
 «Вчера отвезла машину к электрику, ты устроил мне чертовский секс,\
-он взял с меня сто пятьдесят евро за два отсоединенных проводкa»\
-\
+он взял с меня сто пятьдесят евро за два отсоединенных проводкà»\
+
 а может быть это была\
 твоя безусловная любовь к пластилину,\
 мы могли играть с ним часами\
 в тишине\
 голые, прямо\
 на паркете твоего дома\
-\
+
 «Я хотела бы жить с тобой в пластилиновом доме» — ты сказала мне.\
 «И слепить малышей из пластилина?» спросил я тебя,\
 «да, — ответила ты, — и готовить вкусные блюда из пластилина»\
-\
+
 ты никогда не повышала голос,\
 ты очень хорошо умела ненавидеть глазами,\
 у тебя была очень белая кожа в веснушках,\
 мы и встретились весной.\
-\
+
 «Пока ты меня любишь, ты никогда не напишешь обо мне», — сказала ты.\
-«А вот и напишу», - сказал я.\
+«А вот и напишу», — сказал я.\
 «Вот увидишь» сказала ты\
 и улыбнулась,\
-\
+
 и, как всегда, была права,\
-ты знала всё.**\
-**
+ты знала всё.\
 
-### **Три смерти**
+<br/>
 
-**человек, который умер от изумления**
+::: {.italian}
+**Sapevi tutto**
 
+ricordo\
+che la tua pizza preferita era al prosciutto e funghi senza funghi\
+“perché non la prendi al prosciutto e basta?” ti chiedevo ogni volta\
+“perché non ti fai gli affari tuoi?” mi rispondevi\
+e sorridevi\
+ricordo\
+che ci conoscemmo a primavera\
+amavi sparare ai piccioni con quel tuo buffo fucile ad aria compressa\
+“dai prova!” mi dicevi\
+“no, mi fa impressione”\
+m’innamorai di te\
+anche perché\
+eri in grado d’inserire piccole frasi subliminali\
+in mezzo ad un discorso qualsiasi\
+tipo:\
+“quest’estate mi piacerebbe fare un corso di tiro con l’arco, una mia amica lo ha iniziato sei bello e dice che si diverte molto”\
+oppure:\
+“ieri ho portato la macchina dall’elettrauto mi fai un sesso della madonna, mi ha preso centocinquanta euro per due fili staccati”\
+o forse fu\
+il tuo amore incondizionato per il pongo\
+potevamo giocarci per ore\
+in silenzio\
+nudi\
+sul parquet di casa tua\
+“vorrei vivere con te in una casa di pongo” mi dicevi\
+“e fare bambini di pongo?” ti chiedevo\
+“sì” rispondevi “e cucinarti squisite pietanze di pongo”\
+non alzavi mai la voce\
+sapevi odiare benissimo con gli occhi\
+pelle bianchissima\
+ci conoscemmo a primavera, lentiggini\
+“finché mi ami non scriverai mai di me” dicevi\
+“e invece sì” dicevo\
+“vedrai” dicevi\
+e sorridevi\
+e avevi sempre ragione\
+sapevi tutto\
+:::
+
+---
+
+**Три смерти**
+
+человек, который умер от изумления\
 человек, который умер от изумления,\
 незадолго до смерти от изумления\
 находился в комнате с двумя дверями,\
@@ -65,88 +112,133 @@
 открытая была та, через которую он вошел,\
 закрытая же была та, которая открылась позже,\
 и когда он открыл её, он увидел то, что сразило его намертво.\
-\
+
 это была ошеломляющая вещь,\
 настолько ошеломляющая, что мужчина был так сильно поражен\
-невероятным изумлением, что, как указано в заголовке \
-(мы полагаем - возможно, ошибочно),\
+невероятным изумлением, что, как указано в заголовке\
+(мы полагаем — возможно, ошибочно),\
 от изумления умер.\
-\
+
 но по какой такой причине мы не можем сказать,\
 что было такого изумляющего, что привело человека к катастрофе,\
 и даже если бы мы это раскрыли, объяснение потерялось бы из-за\
 атмосферы загадочности, несомненно присутствующей\
 в этом кратком описании.\
-\
-вот единственная подсказка, которую, по совести говоря, мы хотим дать - просто в комнате не было:\
+
+вот единственная подсказка, которую, по совести говоря, мы хотим дать — просто в комнате не было:\
 ничего голого\
 ничего мертвого\
 ничего мягкого\
-ничего синего.
+ничего синего.\
 
-**\
-человек, умерший из-за кретина**
-
+человек, умерший из-за кретина\
 не как кретин,\
 в том смысле, что у него не было идиотской смерти,\
 но по какой-то неясной причине\
 все, абсолютно все,\
 постоянно называли его кретином\
-\
+
 он встал утром,\
 «кретин» сказала ему жена,\
 он почистил зубы,\
 «кретин», сказала ему дочурка,\
 он пошел в бар,\
-«кретин», - обратился к нему бармен,\
+«кретин», — обратился к нему бармен,\
 подавая ему капучино,\
 пришёл на работу и все, от вахтёра до офис-менеджера,\
-обзывали его "кретином",\
+обзывали его «кретином»,\
 как будто шёл кретинский дождь,\
 ей богу.\
-\
+
 человек, умерший из-за кретина,\
 умер из-за кретина одним зимним вечером,\
-последнего "кретина" выдал ему\
+последнего «кретина» выдал ему\
 двадцатисемилетний служащий заправочной станции,\
 человек, умерший из-за кретина,\
 рухнул на руль\
 и умер\
 от разрыва сердца,\
 мы этому верим?\
-да, верим.
+да, верим.\
 
-\
-**человек, умерший от сицилийской кассаты**[^каталано-1]**\
-\
-**из трех смертей, составляющих этот смертельный триптих,\
+человек, умерший от сицилийской кассаты*\
+из трех смертей, составляющих этот смертельный триптих,\
 эта самая простая и объяснимая.\
-\
+
 человек, умерший от сицилийской кассаты,\
 умер после того, как съел девять кило сицилийской кассаты\
 менее чем за два часа,\
 мы не знаем, почему он это сделал,\
 но мы знаем, благодаря надежному свидетелю,\
 что его последними словами были:\
-«в любом случае, что бы вы ни думали, я наконец полностью оценил её вкус».
+«в любом случае, что бы вы ни думали, я наконец полностью оценил её вкус».\
 
-[^каталано-1]: *сицилийская кассата – действительно очень вкусный традиционный сицилийский пасхальный сладкий пирог с риккотой, фруктами, марципанами, фисташками и шоколадом*
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\*сицилийская кассата – традиционный сицилийский пасхальный сладкий пирог с риккотой, фруктами, марципанами, фисташками и шоколадом\
 
-*\
-***SBR**[^каталано-2]
+<br/>
 
-[^каталано-2]: "SBR" - сокрашение означяюшее "вкус поцелуя девушки" (Sapore di Bacio di Ragazzа).
+::: {.italian}
+**Tre morti**
 
-что мне нравится,**\
-**так это вкус поцелуя молодой девушки,\
-почти всегда вкус поцелуя молодой девушки -\
+l’uomo che morì di stupore\
+l’uomo che morì di stupore\
+poco prima di morire di stupore\
+si trovava in una stanza con due porte\
+una aperta\
+una chiusa\
+quella aperta era quella dalla quale era entrato\
+quella chiusa era quella che aprì poi\
+e quando l’aprì vide la cosa che l’ammazzò secco\
+era una cosa stupenda\
+così stupenda che l’uomo fu colto da uno stupore\
+di così immani proporzioni che\
+come crediamo di aver – forse sbagliando – premesso nel titolo\
+egli morì di stupore\
+ciò che non possiamo raccontare per nessun motivo al mondo\
+è che cosa fosse la cosa così stupenda da far schiantare l’uomo\
+in quanto, se lo rivelassimo\
+si perderebbe l’indubbia atmosfera di mistero insita\
+in questo breve scritto\
+l’unico indizio che ci sentiamo di dare in coscienza\
+è che dentro la stanza non c’era\
+nulla di nudo\
+nulla di morto\
+nulla di molle\
+nulla di blu\
+
+l’uomo che morì di cretino\
+non da cretino, di\
+nel senso che non ebbe una morte cretina\
+ma per una qualche oscura ragione\
+tutti, ma proprio tutti\
+gli davano in continuazione del cretino\
+s’alzava la mattina\
+“cretino”, gli diceva la moglie\
+si lavava i denti\
+“cretino”, gli diceva la figliola\
+andava al bar\
+“cretino”, l’apostrofava il barista\
+servendogli il cappuccino\
+arrivava al lavoro e, dall’usciere al capoufficio\
+era una pioggia di “cretino”\
+cretino come se piovesse\
+sì\
+l’uomo che morì di cretino\
+:::
+
+**SBR\***
+
+что мне нравится,\
+так это вкус поцелуя молодой девушки,\
+почти всегда вкус поцелуя молодой девушки —\
 это одна из самых прекрасных вещей,\
 вкус поцелуя молодой девушки\
 сделан из тумана и цветка,\
 я не знаю, какого цветка,\
 может быть, этого цветка и вовсе не существует,\
 он, поцелуй, влажный, мягкий и сладкий,\
-он - дикий,\
+он — дикий,\
 да,\
 есть что-то дикое, туманное и сладкое\
 во вкусе поцелуя молодой девушки,\
@@ -166,9 +258,9 @@
 фрукт, состоящий сразу из множества фруктов,\
 фрукт,\
 который тебе не найти на рынке\
-\
-виноград? - спрашивал бы тебя зеленщик,\
-гранат? - спрашивал бы он тебя,\
+
+виноград? — спрашивал бы тебя зеленщик,\
+гранат? — спрашивал бы он тебя,\
 яблоко?\
 нет, фрукт на вкус, как поцелуй молодой девушки,\
 но фрукт, который ты, зеленщик, не можешь найти,\
@@ -179,7 +271,66 @@
 дней, если тебе повезёт,\
 вкус девичьего поцелуя,\
 он тебе никогда не надоест,\
-лучшего вкуса нет на свете
+лучшего вкуса нет на свете.\
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\*SBR — sapore di bacio di ragazza, вкус поцелуя молодой девушки\
+
+<br/>
+
+::: {.italian}
+**SBR**
+
+una cosa che mi piace\
+è il sapore di bacio di ragazza\
+quasi sempre\
+il sapore di bacio di ragazza\
+è una cosa tra le più belle\
+il sapore di bacio di ragazza\
+è fatto di nebbia e di fiore\
+non so quale fiore\
+forse non è un fiore che esiste\
+è umido e morbido e dolce\
+è selvatico\
+ecco, sì\
+c’è qualcosa di selvatico e nebbioso e dolce\
+nel sapore di bacio di ragazza\
+e poi c’è un profumo\
+è un profumo anche di caramella\
+ma non è una caramella che esiste dal caramellaio\
+è un profumo di caramella che puoi trovare\
+solo sulle labbra di bacio di ragazza\
+bisogna chiudere i tuoi occhi\
+per sentirlo bene\
+il sapore di bacio di ragazza\
+tu devi chiudere i tuoi occhi\
+e lo senti\
+il sapore di bacio di ragazza non sa di miele\
+neanche di zucchero o latte\
+semmai di un frutto\
+un frutto che è molti frutti insieme\
+un frutto\
+che al mercato non lo trovi\
+il fruttivendolo\
+uva?, ti chiederebbe\
+melograno?, ti chiederebbe\
+mela?\
+no, il sapore di bacio di ragazza\
+sa di frutto\
+ma un frutto che tu non puoi trovare dal\
+fruttivendolo\
+il sapore di bacio di ragazza\
+ti rimane sulle labbra\
+anche dopo\
+anche dopo molti minuti\
+anche dopo molte ore\
+giorni, se sei fortunato\
+il sapore di bacio di ragazza\
+non ti stanca mai esso\
+è il sapore più buono di tutto il mondo.\
+:::
+
+---
 
 **Без названия**
 
@@ -191,22 +342,22 @@
 а ещё гора\
 и лошадь,\
 они смеются,\
-\
-прислоняюсь к стене -\
+
+прислоняюсь к стене —\
 она смеётся,\
 вилка смеётся, когда я накручиваю на нее спагетти,\
 и даже спагетти смеётся,\
-\
+
 я смотрю на солнце,\
 солнце смеётся и облака смеются,\
 птицы смеются,\
 хлеб смеётся, когда я отламываю кусок,\
-\
+
 смеётся бездомная собака,\
 смеётся собака на поводке,\
 смеётся охотничья собака,\
 кот смеётся, когда я глажу ему спину,\
-\
+
 я завязываю шнурок и тот смеётся,\
 смеётся туфля,\
 сигарета смеётся, когда я зажигаю её спичкой,\
@@ -215,7 +366,7 @@
 мои зубы смеются, пока я их чищу,\
 зеркало смеётся, когда я смотрю в него,\
 твои глаза смеются,\
-\
+
 улица смотрит на меня,\
 смеётся,\
 светофор смотрит на меня,\
@@ -224,8 +375,55 @@
 тоска\
 и стакан,\
 он тоже смеётся,\
-\
+
 я не смеюсь.\
+
+<br/>
+
+::: {.italian}
+**Senza titolo**
+
+l’albero mi guarda\
+ride\
+il fiume mi guarda\
+ride\
+ride il cielo guardandomi\
+ed anche il monte\
+ed il cavallo\
+ridono\
+mi appoggio al muro\
+ride\
+ride la forchetta mentre ci arrotolo gli spaghetti\
+ed anche gli spaghetti ridono\
+alzo gli occhi al sole\
+ride il sole e ridono le nuvole\
+ridono gli uccelli\
+ride il pane mentre lo spezzo\
+ride il cane randagio\
+ride il cane al guinzaglio\
+ride il cane da caccia\
+ride il gatto mentre gli carezzo la schiena\
+mi allaccio una scarpa e ride\
+ride la scarpa\
+ride la sigaretta mentre l’accendo con il cerino\
+ed il cerino ride pure lui, ride\
+mi ridono gli occhiali\
+mi ridono i denti mentre li lavo\
+ride lo specchio mentre mi ci guardo dentro\
+ridono i tuoi occhi\
+la strada mi guarda\
+ride\
+il semaforo mi guarda\
+ride\
+ride la notte guardandomi\
+ed anche l’angoscia\
+ed il bicchiere\
+ridono\
+
+io no.\
+:::
+
+---
 
 **Волшебное стихотворение, чтобы заставить тебя снова развеселиться**
 
@@ -239,7 +437,7 @@
 однако желтого цвета избегай,\
 но если у тебя есть только желтые шляпы,\
 они тоже отлично подойдут\
-\
+
 Это волшебное стихотворение,\
 его следует читать вслух\
 очень громко, если можешь,\
@@ -249,13 +447,13 @@
 Если у тебя есть собака,\
 скажи ей, чтобы притворилась кошкой.\
 Она тебя любит и для тебя это сделает,\
-поэтому тебе придется иметь  на голове шляпу,\
+поэтому тебе придется иметь на голове шляпу,\
 цвет по твоему выбору,\
 кошку на плече\
 или собаку, которая притворяется кошкой.\
 Если твоя собака страдает ожирением,\
 подожди, приспособь её к шее.\
-\
+
 Тебе понадобится свежее, не жареное, но сваренное не вкрутую, а всмятку, яйцо.\
 Если тебе не нравится всмятку, то можно и вкрутую,\
 имей в виду, что кошки не любят яичницу,\
@@ -266,7 +464,7 @@
 или с фальшивой кошко-собакой, свернувшейся калачиком у тебя на шее,\
 без яичницы в правой руке,\
 иди за жареной едой.\
-\
+
 Это волшебное стихотворение, которое снова сделает тебя счастливой,\
 так что тебе должно быть удобно,\
 пока ты очень громко его читаешь\
@@ -280,28 +478,107 @@
 или собакой, притворяющейся кошкой, свернувшейся у тебя на шее,\
 с цветной шляпой на, возможно, зеленой голове,\
 на одной ноге,\
-с жареным яйцом в правой руке...\
-н-да...\
+с жареным яйцом в правой руке…\
+н-да…\
 Ты тоже пойми, девочка, сегодня проснувшаяся грустной,\
 что твой день\
 может иметь не очень веселое развитие,\
 типа: сначала принудительное лечение,\
-потом я должен  приехать и забрать тебя из сумасшедшего дома,\
+потом я должен приехать и забрать тебя из сумасшедшего дома,\
 не говоря уже о собаке в питомнике\
 и кошке под машиной,\
 и это совсем\
 не то,\
 чего\
 нам хотелось бы\
-\
+
 Нам хотелось бы, чтобы ты улыбалась\
 прямо сейчас,\
 это стихотворение волшебное,\
 вот для чего оно нужно\
-\
+
 и знаешь, оно ведь\
 может это сделать.\
-\
+
+<br/>
+
+::: {.italian}
+**Poesia magica per farti tornare allegra**
+
+questa poesia è magica\
+non è una poesia logica\
+légila stando su un piede solo\
+quello destro\
+tenendo il foglio con la tua mano sinistra\
+indossando un cappello blu\
+possibilmente rosso\
+evita comunque il giallo\
+ma se hai solo cappelli gialli\
+andrà benissimo\
+questa poesia magica\
+va letta ad alta voce\
+altissima se ce la fai\
+urlala\
+stando su un piede solo\
+possibilmente con un gatto su una spalla\
+se hai un cane\
+digli di fare finta di essere un gatto\
+lui ti vuole bene e lo farà per te\
+dovrai dunque avere un cappello sulla testa\
+il colore a tua scelta\
+un gatto sulla spalla\
+o un cane che si finge gatto\
+se il tuo cane è obeso\
+tieni duro\
+acciambellatelo intorno al collo\
+dovrai avere un uovo fresco non sodo non fritto\
+ma alla coque nella tua mano destra\
+se non ti piace alla coque va bene sodo\
+considera che i gatti non amano le uova fritte\
+i cani che si fingono gatti per farti un favore neanche\
+ma se non sopporti l’idea di stare su un piede solo\
+con un cappello colorato sulla testa\
+e un gatto sulla spalla\
+o un finto gatto cane acciambellato intorno al collo\
+senza un uovo fritto nella mano destra\
+vada per il fritto\
+questa è una poesia magica per farti tornare allegra\
+dunque devi essere a tuo agio\
+mentre la leggi ad altissimissima voce\
+al centro della stanza\
+è importante che tu sia dentro una stanza\
+non all’aperto\
+poiché se la gente ti vedesse\
+urlare questa poesia\
+in mezzo alla via\
+con un gatto su una spalla\
+o un cane che si finge gatto acciambellato intorno al collo\
+un cappello colorato sulla testa possibilmente verde\
+su un piede solo\
+con un uovo fritto nella mano destra\
+beh\
+capirai anche tu, ragazza che oggi ti sei svegliata triste,\
+che la tua giornata\
+potrebbe avere uno sviluppo non allegrissimo\
+tipo trattamento sanitario obbligatorio\
+e poi\
+dovrei venire a prenderti al reparto dei pazzerelloni\
+senza considerare il cane in canile\
+e il gatto sotto un auto\
+e non è\
+questo\
+che\
+vogliamo\
+vogliamo che tu sorrida\
+adesso\
+questa poesia è magica\
+serve a questo\
+e sai che ti dico?\
+ci riesce\
+:::
+
+---
+
 **Иду, иду**
 
 Ночью мне не уснуть, я смотрю, как ты спишь,\
@@ -336,140 +613,331 @@
 тихо тихо иду,\
 иду, прихожу на кухню\
 и варю нам\
-кофе.
+кофе.\
 
-\
+<br/>
+
+::: {.italian}
+**Cammina cammina**
+
+Ti guardo di notte dormire che non prendo sonno\
+che penso che son fortunato che sono dannato\
+ad averti nel letto che sei tutta bianca\
+sei gnuda e profumi di frutta e di pane e sapone\
+coi capelli neri che se m’avvicino mi fanno il solletico\
+al naso che sanno di buono pure i tuoi capelli.\
+E mentre che dormi tu parli nel sonno\
+ma io non capisco il sogno che fai\
+sussurri parole che sembra la lingua degli elfi del bosco.\
+Ti guardo raggomitolata nel letto\
+mi sembra un buon sogno\
+se diventa brutto ti sveglio di baci\
+non ti preoccupare ti veglio che io non ho sonno\
+e mi piace guardarti tra queste lenzuola che son tutte rosse\
+e fanno un contrasto che mi garba assai\
+col tuo corpo bianco e gnudo nel letto di notte.\
+Ed ecco la luce\
+la luce del giorno che inizia\
+la luce e gli uccelli\
+gli uccelli che cantano il giorno che arriva\
+che arriva e saluta la notte che va.\
+Il primo mattino ci entra nel letto\
+c’accende di luce\
+la tua pelle chiara\
+m’abbaglia.\
+Ti giri nel sogno nel sonno\
+ti do\
+un piccolo bacio\
+in punta di labbra sul naso.\
+Mi alzo facendo silenzio\
+facendo attenzione e silenzio\
+cammina cammina\
+arrivo in cucina\
+preparo\
+il caffè.\
+:::
+
+---
+
 **14 минут**
 
 когда солнце погаснет\
 внезапно\
 нам понадобится 8 минут, чтобы это заметить\
-\
+
 это напоминает мне о том, как ты\
 тогда посмотрела мне в лицо\
 и сказала «знай, я тебя больше не люблю»\
-\
+
 мне потребовалось 14 минут, чтобы это понять\
 прошло 13 минут 59 секунд\
 прежде чем наступила темнота\
 и холод\
-\
+
 значит к этому моменту\
 ты была уже дальше, чем солнце\
-\
+
 непонятно, как мне выжить\
 непонятно, как тебя снова\
 разжечь\
-\
-следовало бы спросить Маргариту Хак[^каталано-3]\
+
+следовало бы спросить Маргариту Хак*\
 но у нее, скорее всего, есть дела поважнее.\
 
-[^каталано-3]: Маргаритa Хак - Знаменитaя итальянскaя астрофизик.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\* Маргаритa Хак — знаменитая итальянская астрофизик\
 
-**диалог между женщиной и мужчиной недостижимой печали с безнадежным финалом\
-\
-**– когда ты перестал?\
-- перестал что?\
-- любить меня\
+<br/>
+
+::: {.italian}
+**14 minuti**
+
+quando il sole si spegnerà\
+di colpo\
+impiegheremo 8 minuti ad accorgercene\
+mi ricorda quella volta che mi guardasti in faccia\
+e mi dicesti\
+“sappi che non ti amo più”\
+impiegai 14 minuti a capire\
+passarono 13 minuti e 59 secondi\
+prima che calasse il buio\
+e il freddo\
+eri già più lontana del sole, allora\
+non è chiaro come sopravvissi\
+non è chiaro come ti riaccendesti\
+bisognerebbe chiedere a Margherita Hack\
+ma probabilmente c’ha di meglio da fare\
+:::
+
+---
+
+**Диалог между женщиной и мужчиной недостижимой печали с безнадежным финалом**
+
+– когда ты перестал?\
+– перестал что?\
+– любить меня\
 – я никогда не любил тебя\
 – когда ты это заметил?\
-- заметил что?\
+– заметил что?\
 – что ты никогда не любил меня\
-- в первый же раз, когда мы спали вместе\
+– в первый же раз, когда мы спали вместе\
 – ночью?\
-- нет, когда ты проснулась\
+– нет, когда ты проснулась\
 – это очень печально\
-- да, правда\
+– да, правда\
 – ты можешь представить себе что-нибудь более печальное?\
-- честно говоря, могу, но признаю, что и это очень печально,\
-и Рождество,\
-и то что я допил Маaлокс[^каталано-4]\
+– честно говоря, могу, но признаю, что и это очень печально,\
+    и Рождество,\
+    и то что я допил Малокс*\
 – извини, я не поняла\
-- ничего, я разговаривал сам с собой\
+– ничего, я разговаривал сам с собой\
 – а что теперь?\
-- ну, я бы сказал, теперь каждый сам за себя, а Бог за всех\
+– ну, я бы сказал, теперь каждый сам за себя, а Бог за всех\
 – это всегда так заканчивается?\
-- не знаю, хочешь амаретто?\
+– не знаю, хочешь амаретто?\
 – я ведь не буду тебя ждать\
-- я знаю\
-- ты плачешь?\
+– я знаю\
+– ты плачешь?\
 – нет, аллергический конъюнктивит\
 – как ты можешь быть таким бесчувственным?\
 – просто в детстве я упал в бочку, полную волшебного супа бесчувствия\
-- ты всегда заставляешь меня смеяться\
-- я рад\
+– ты всегда заставляешь меня смеяться\
+– я рад\
 – тогда до свидания?\
-- тогда пока
+– тогда пока\
 
-[^каталано-4]: Mаaлокс – средство от изжоги.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\* Малокс — средство от изжоги.\
 
-**Любовный контракт\
-**\
-Как и договорились я разлюбил тебя и\
-согласно контракту начиная с сегодняшнего дня\
-я больше не буду мечтать о тебе\
-я больше не буду думать о тебе вздыхая под луной\
+<br/>
+
+::: {.italian}
+**dialogo tra una donna e un uomo di una tristezza inarrivabile con finale senza speranza**
+
+– quando hai smesso?\
+– di far cosa?\
+– di amarmi\
+– non ti ho mai amata\
+– quando te ne sei accorto?\
+– di cosa?\
+– che non mi avresti mai amata\
+– la prima volta che abbiamo dormito assieme\
+– di notte?\
+– no, al risveglio\
+– è una cosa tristissima\
+– sì, lo è\
+– riesci a immaginare qualcosa di più triste?\
+– a dir la verità sì, ma ammetto che è una cosa molto triste\
+– ed è pure Natale\
+– sì, e ho anche finito il Malox\
+– scusa?\
+– niente, parlavo tra me e me\
+– quindi adesso?\
+– mah, direi ognun per sé e dio per tutti?\
+– finisce così?\
+– non so, gradisci un amaro?\
+– sappi che non ti aspetterò\
+– lo so\
+– stai piangendo?\
+– macché, congiuntivite allergica\
+– come fai ad essere così insensibile?\
+– sono caduto da piccolo in una botte piena di zuppa magica dell’insensibilità\
+– mi sai far ridere sempre\
+– me ne compiaccio\
+– allordunque addio?\
+– addiodunque allora\
+:::
+
+---
+
+**Любовный контракт**
+
+Как и договорились, я разлюбил тебя, и,\
+согласно контракту, начиная с сегодняшнего дня\
+я больше не буду мечтать о тебе,\
+я больше не буду думать о тебе, вздыхая под луной,\
 а луна, в свою очередь перестанет смеяться надо мной.\
-Я не буду мучить бедные беззащитные ромашки\
-срывая их мягкие белые лепестки\
-я не буду просто гулять по городу\
-боясь и надеясь случайно встретить тебя\
+Я не буду мучить бедные беззащитные ромашки,\
+срывая их мягкие белые лепестки,\
+я не буду просто гулять по городу,\
+боясь и надеясь случайно встретить тебя,\
 возвращаясь к местам наших первых поцелуев.\
 Согласно нашему договору\
-я буду добр и спокоен\
+я буду добр и спокоен,\
 я улыбнусь, когда кто-нибудь расскажет мне о тебе\
-и не буду покушаться на жизнь отъявленных ублюдков\
+и не буду покушаться на жизнь отъявленных ублюдков,\
 которые уже начали за тобой ухаживать.\
-Согласно договоренности\
-я обязуюсь, подчиняясь действующим правилам\
+Согласно договоренности,\
+я обязуюсь, подчиняясь действующим правилам,\
 перестать писать тебе стихи о любви\
 или хотя бы уменьшить\
 их поток, становящийся опасным.\
 Кроме того я перестану желать\
 твое тело, мягкое и ароматное.\
 Наконец, я клянусь, что буду твоим другом\
-мудрым и верным, как говорится\
-вроде собаки\
+мудрым и верным, как говорится,\
+вроде собаки,\
 ты увидишь, что у меня это получится.\
-\
+
 Я только прошу тебя\
 не верь ни одному слову\
 из того, что ты только что прочитала.\
-\
-**Светлая\
-** *\
-*Она любила спать допоздна\
-ей нравились стихи о любви\
-особенно поэтов девятнадцатого века\
-умерших молодыми, возможно\
-из-за болезни легких\
-а еще хрустящая еда\
-кладбища\
-устрицы\
-короткие платья\
-моя борода\
-мой живот\
-изготовление сигарет вручную\
+
+<br/>
+
+::: {.italian}
+**Contratto d’amore**
+
+Come da accordi ho smesso d’amarti\
+come da contratto a partire da oggi\
+non ti sognerò più\
+non penserò più a te sospirando alla luna\
+la luna a sua volta smetterà di ridermi in faccia\
+non tormenterò povere indifese margherite\
+strappando loro i morbidi petali bianchi\
+non camminerò solo per la città\
+temendo e sperando di incontrarti per caso\
+riandando ai luoghi dei nostri primi baci.\
+Come da accordo contrattuale\
+sarò gentile e pacato\
+sorriderò quando qualcuno mi parlerà di te\
+e non attenterò alla vita dei bastardi infami\
+che già ora hanno iniziato a corteggiarti.\
+Contrattualisticamente in accordo\
+con le leggi vigenti mi impegno\
+a smettere di scriverti poesie d’amore\
+o almeno diminuire\
+a scalare\
+che tutto in un colpo è pericoloso.\
+Smetterò poi di desiderare\
+il tuo corpo morbido e profumato.\
+Giuro infine che ti farò da amico\
+saggio e fedele che detta così\
+sembra un cane\
+ma vedrai funzionerà.\
+A te solo chiedo\
+di non credere a una parola\
+di ciò che hai appena letto\
+:::
+
+---
+
+**Бьянка**
+
+Она любила спать допоздна,\
+ей нравились стихи о любви,\
+особенно поэтов девятнадцатого века,\
+умерших молодыми, возможно,\
+из-за болезни легких,\
+а еще хрустящая еда,\
+кладбища,\
+устрицы,\
+короткие платья,\
+моя борода,\
+мой живот,\
+изготовление сигарет вручную,\
 а когда я спросил её:\
-хочешь быть моей маленькой рыжеволосой девочкой?\
+Хочешь быть моей маленькой рыжеволосой девочкой?\
 она ответила:\
-сначала мне нужно покраситься в рыжий цвет, а потом\
+Сначала мне нужно покраситься в рыжий цвет, а потом\
 тебе нужно стать более застенчивым со мной.\
 А что, я не кажусь тебе достаточно застенчивым?\
 спросил я,\
 совсем не кажешься,\
 но ведь у меня круглая голова, сказал я,\
-правда, признала она, но тебе не хватает бешенной собаки.\
-Мы много болтали\
+правда, признала она, но в тебе не хватает бешенной собаки.\
+Мы много болтали,\
 особенно в ночное время.\
 Она терпеть не могла сахара в кофе и\
-отсутствия доброты в людях\
-она всегда хотела играть в настольный футбол\
+отсутствия доброты в людях,\
+она всегда хотела играть в настольный футбол,\
 хотя играла очень плохо и сердилась на меня.\
 Она говорила, что я ей нравлюсь, потому что я забавный парень.\
 Я притворялся злым, но был счастлив.\
-Она любила спать допоздна\
-ей нравились стихи о любви\
+Она любила спать допоздна,\
+ей нравились стихи о любви,\
 особенно, когда в стихах говорилось о ней.\
-\
-\
+
+<br/>
+
+::: {.italian}
+**Bianca**
+
+Le piaceva dormire fino a tardi\
+le piacevano le poesie d’amore\
+soprattutto quelle di poeti dell’ottocento\
+morti giovani\
+possibilmente di polmoni\
+i cibi croccanti\
+i cimiteri\
+le ostriche\
+i vestitini corti\
+la mia barba\
+la mia pancia\
+farsi le sigarette a mano\
+e quando le dicevo\
+vuoi essere la mia ragazzina dai capelli rossi?\
+mi rispondeva\
+prima dovrei farmi i capelli rossi e poi tu\
+dovresti essere molto più timido con me\
+non ti sembro abbastanza timido?\
+chiedevo\
+affatto\
+però ho la testa tonda, dicevo\
+vero, ammetteva, ma ti manca un cane pazzo.\
+Chiacchieravamo tanto\
+soprattutto la notte.\
+Non sopportava lo zucchero nel caffè\
+la mancanza di gentilezza nella gente\
+voleva giocare sempre a calcio balilla\
+giocava malissimo e si arrabbiava con me.\
+Diceva che le piacevo perché ero un tipo buffo\
+io fingevo di arrabbiarmi ma ero contento.\
+Le piaceva dormire fino a tardi\
+le piacevano le poesie d’amore\
+soprattutto quando raccontavano di lei.\
+:::
+
+---
+
+

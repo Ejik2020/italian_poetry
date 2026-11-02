@@ -1,8 +1,8 @@
 # Коррадо Говони {style="gray"}
 
-> Коррадо Говони (Corrado Govoni), впервые опубликовал свои стихи еще до первой мировой войны. Его считают отцом литературного движения «Kрепускуларизм», буквально означающего «Сумерки» и занимающегося скромными предметами, меланхолией и самоанализом. О себе он писал «Я всегда любил грустн ые вещи, бродячую музыку, песни о любви, которые поют старики в тавернах, молитвы монахинь, пестрых оборванных и больных нищих, инвалидов, грустную осень, полную прощаний... все грусти любви, грусти работы, грусти пустяков».
+> 1884–1965
 >
-> (1884-1965)
+> *Коррадо Говони, впервые опубликовал свои стихи ещё до Первой мировой войны. Его считают отцом литературного движения «Крепускуларизм», буквально означающего «Сумерки» и занимающегося скромными предметами, меланхолией и самоанализом. О себе он писал: «Я всегда любил грустные вещи, бродячую музыку, песни о любви, которые поют старики в тавернах, молитвы монахинь, пёстрых оборванных и больных нищих, инвалидов, грустную осень, полную прощаний... все грусти любви, грусти работы, грусти пустяков».*
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 Тёплый запах хлеба, пекущегося в духовке.\
 Петушиная песня из курятника.\
-Пенье канареек, доносящееяся из окон.\
+Пенье канареек, доносящееся из окон.\
 Скрип вóрота и стук ведра о стенки колодца.\
 Бельё, разбросанное на траве.\
 Солнечные блики на подоконниках.\
@@ -48,36 +48,99 @@
 Голуби воркующие на крыше.\
 Миндаль, цветущий на монастырском дворе.\
 Розовые олеандры в прихожих.\
-Белые шторы, трепыхающиеся на ветру.
+Белые шторы, трепыхающиеся на ветру.\
 
 <br/>
+
+::: {.italian}
+**Le cose che fanno la domenica**
+
+L’odore caldo del pane che si cuoce dentro il forno.\
+Il canto del gallo nel pollaio.\
+Il gorgheggio dei canarini alle finestre.\
+L’urto dei secchi contro il pozzo e il cigolìo della puleggia.\
+La biancheria distesa nel prato.\
+Il sole sulle soglie.\
+La tovaglia nuova nella tavola.\
+Gli specchi nelle camere.\
+I fiori nei bicchieri.\
+Il girovago che fa piangere la sua armonica.\
+Il grido dello spazzacamino.\
+L’elemosina.\
+La neve.\
+Il canale gelato.\
+Il suono delle campane.\
+Le donne vestite di nero.\
+Le comunicanti.\
+Il suono bianco e nero del pianoforte.\
+Le suore bianche bendate come ferite.\
+I preti neri.\
+I ricoverati grigi.\
+L’azzurro del cielo sereno.\
+Le passeggiate degli amanti.\
+Le passeggiate dei malati.\
+Lo stormire degli alberi.\
+I gatti bianchi contro i vetri.\
+Il prillare delle rosse ventarole.\
+Lo sbattere delle finestre e delle porte.\
+Le bucce d’oro degli aranci sul selciato.\
+I bambini che giuocano nei viali al cerchio.\
+Le fontane aperte nei giardini.\
+Gli aquiloni librati sulle case.\
+I soldati che fanno la manovra azzurra.\
+I cavalli che scalpitano sulle pietre.\
+Le fanciulle che vendono le viole.\
+Il pavone che apre la ruota sopra la scalèa rossa.\
+Le colombe che tubano sul tetto.\
+I mandorli fioriti nel convento.\
+Gli oleandri rosei nei vestibuli.\
+Le tendine bianche che si muovono al vento.\
+:::
+
+---
 
 **Кораблекрушение**
 
 На моей потерпевшей кораблекрушение голове,\
 ухватившись за сломанный стол,\
 как за материнскую колыбель,\
-плыву по черному морю жизни.\
-Я вижу, как качаются звезды, словно\
+плыву по чёрному морю жизни.\
+Я вижу, как качаются звёзды, словно\
 нежные ветки миндального дерева.\
 Свет из внешнего мира\
 или головокружение от\
-чарующих бездн небытия?
+чарующих бездн небытия?\
 
 <br/>
 
-**Сладость**
+::: {.italian}
+**Naufragio**
+
+Sul mio capo di naufrago\
+galleggiante sul mare nero della vita\
+afferrato a una tavola sfasciata\
+materna culla\
+vedo ancora ondeggiare le stelle\
+come un tenero ramo di mandorlo.\
+Luce di fuori mondo\
+o vertigine\
+degli abissi incantevoli del nulla?\
+:::
+
+---
+
+**Сладости**
 
 Синие воскресенья весны.\
 Снег на домах, как белый парик.\
-Прогулки влюбленных по каналу.\
-Хлеб, выпекаемый воскресеным утром.\
+Прогулки влюблённых по каналу.\
+Хлеб, выпекаемый воскресным утром.\
 Мартовский дождь, стучащий по серым плиткам.\
 На стене расцветающая глициния.\
 Белые занавески на окнах монастыря.\
 Субботние колокола.\
-Свечи зажжённые перед мощами.\
-Зеркала с подсветкой в ​​комнатах.\
+Свечи, зажжённые перед мощами.\
+Зеркала с подсветкой в комнатах.\
 Красные цветы на белой скатерти.\
 Золотые лампы, которые загораются вечером.\
 Кровавые сумерки, умирающие на стенах.\
@@ -89,5 +152,35 @@
 Мальвы в горшках.\
 Нищие, которые едят на порогах церквей.\
 Больные на солнце.\
-Маленькие девочки в дверях, расчесывающие волосы на солнце.\
-Женщины, поющие у окна.
+Маленькие девочки в дверях, расчёсывающие волосы на солнце.\
+Женщины, поющие у окна.\
+
+<br/>
+
+::: {.italian}
+**Le dolcezze**
+
+Le domeniche azzurre della primavera.\
+La neve sulle case come una parrucca bianca.\
+Le passeggiate degli amanti sul canale.\
+Fare il pane la mattina di domenica.\
+La pioggia di Marzo che batte sui tegoli grigi.\
+Il glicine fiorito su pel muro.\
+Le tende bianche alle finestre del convento.\
+Le campane del sabato.\
+I ceri accesi davanti alle reliquie.\
+Gli specchi illuminati nelle camere.\
+I fiori rossi sopra la tovaglia bianca.\
+Le lampade d'oro che s'accendono la sera.\
+I crepuscoli di sangue che muoion sulle mura.\
+Le rose sfogliate sul letto dei malati.\
+Suonare il pianoforte un giorno di festa.\
+Il canto del cuculo nella campagna.\
+I gatti sopra i davanzali.\
+Le candide colombe sui tetti.\
+Le malve nelle pentole.\
+I mendicanti che mangian sulle soglie delle chiese.\
+I malati al sole.\
+Le bambine che si pettinano l'oro al sole sulle porte.\
+Le donne che cantano alla finestra.\
+:::

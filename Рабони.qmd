@@ -1,66 +1,213 @@
-# Джованни Рабони
+# Джованни Рабони {style="gray"}
 
-> Джованни Рабони (Giovanni Raboni) - эрудит, эссеист, драматург, издатель, ангажированный критик, переводчик Пруста и Бодлера, ключевая фигура культурной жизни нескольких десятилетий и автор потрясающих стихов, сочетающих в себе черты модернизма и нео-реализма.\
-> \
-> (1932-2004)
+> 1932–2004
+>
+> *Джованни Рабони (Giovanni Raboni) - эрудит, эссеист, драматург, издатель, критик, переводчик Пруста и Бодлера, ключевая фигура культурной жизни нескольких десятилетий и автор потрясающих стихов, сочетающих в себе черты модернизма и нео-реализма.*
+
+<br/>
 
 **Страхи Магдалины**
 
-У меня страх древесины и камней,\
+У меня страх древесины и камня,\
 у меня страх тела, страх порвать нерв,\
 страх перерезать сухожилие, у меня страх света,\
 у меня страх камня, который закроет твою дверь,\
-у меня страх ветра и голосов, у меня страх\
-вороны, которая тебя съест, у меня страх волка,\
-я боюсь, что он найдет твои кости,\
-что ты уже мертв и что каждую ночь\
-я буду бояться твоего холодного поцелуя\
-и что ты засунешь ноги мне под простыню.**\
-\
-\
-**Cожаление вице-короля\*\*
+у меня страх ветра и голосов, у меня страх вороны,\
+которая тебя съест, у меня страх волка,\
+я боюсь, что он найдёт твои кости,\
+что ты уже мёртв и что каждую ночь\
+я буду бояться твоего замораживающего поцелуя\
+и что ты засунешь ноги мне под простыню.\
 
-Нет пути ни вперед, ни назад.\
+<br/>
+
+::: {.italian}
+**Timori della Maddalena**
+
+Ho paura del legno e della rupe,\
+ho paura del corpo, del nervo lacerato,\
+dei tendini recisi, ho paura della luce,\
+ho paura del sasso che chiuderà la tua porta,\
+ho paura del vento e delle voci, ho paura\
+del corvo che ti mangerà, ho paura del lupo\
+che troverà le tue ossa, ho paura\
+che tu sia morto e tutte le notti\
+avrò paura che tu mi baci di gelo\
+e mi tiri i piedi sotto il lenzuolo.\
+:::
+
+---
+
+**Сожаление вице-короля**
+
+Нет пути ни вперёд, ни назад.\
 Ты не смотришь ни налево, ни направо,\
-ни ниже, ни выше. Теперь всё будет\
+ни вниз, ни вверх. Теперь всё будет\
 проводиться в соответствии с инструкциями,\
-если бы только не эти дерьмовые апостолы -\
+если бы только не эти дерьмовые апостолы —\
 невероятные двенадцать человек,\
 которые между смертью и жизнью\
 всегда найдут какую-нибудь разницу.\
-\
-\
+
+<br/>
+
+::: {.italian}
+**Rammarico del viceré**
+
+Non si va avanti né indietro.\
+Non si guarda né a destra né a sinistra,\
+né in basso né in alto. Tutto, ormai,\
+filerebbe secondo le istruzioni\
+se non fosse per questi apostoli di merda,\
+per queste incredibili dodici persone\
+che fra essere morti e essere vivi\
+trovano sempre qualche differenza.\
+:::
+
+---
+
 **Война**
 
-Я ровесник своего отца – руки у меня почти его,\
-особенно пальцы, ногти, изогнутые и немного\
-утолщенные, лунообразные (но у меня\
-без коричневых пятен от никотина)\
+Я ровесник своего отца — руки у меня почти его,\
+особенно пальцы, ногти, изогнутые и немного утолщённые,\
+лунообразные (но у меня без коричневых пятен от никотина),\
 когда, помятый и безупречный, он путешествовал\
 на военных поездах и автобусах,\
 привозя к нам в разные сезоны из разных мест\
 мирных отдыхающих,\
-а в красивой легкой сумке\
-странные продукты тех лет, плавленый сыр,\
+а в красивой лёгкой сумке\
+странные продукты тех лет: плавленый сыр,\
 варенье без сахара, бездрожжевой хлеб,\
-образы темного города, разорванного города,\
+образы темного, разорванного города,\
 я помню, такого милого нашим сердцам.\
-Мы со страхом думали о его возрасте и\
-с тех пор, как себя помню, время от времени,\
-снизу вверх, я шептал молитву о его коронарных артериях.\
-Долгое время с момента, как он ушёл в небытие,\
+Мы со страхом думали о его возрасте,\
+и с тех пор, как себя помню,\
+я шептал молитву о его коронарных артериях.\
+Долгое время после его ухода\
 я день за днём становлюсь его братом,\
 и вскоре стану старшим, мудрым братом.\
 И мне бы хотелось знать,\
-молятся ли, хоть иногда, за меня мои дети.\
-Но тотчас же, противореча сам себе, говорю, нет,\
-им не хватало другого, другой пищи, они хотели, чтобы\
-между мной и ними не было никого, кроме меня,\
+молятся ли хоть иногда за меня мои дети.\
+Но сразу же, противореча себе, я говорю: нет,\
+им не хватало другого, другой пищи —\
+они хотели, чтобы между мной и ними не было никого, кроме меня,\
 а то, что я им давал, разве это была пища для них?\
-Как вор я уходил, пищи не было,\
-и возвращался с пустыми руками...\
-Бедная была эта война, простая и мерзкая,\
-Я говорю себе, моя война была такая бедная,\
-война упрямства и послушания. И пусть\
-они это простят, и если к ним придёт\
-желание помолиться, то пусть не за меня.
+Как вор я уходил без пищи,\
+и возвращался с пустыми руками…\
+Бедная была эта война, простая и вялая,\
+я говорю себе: моя война была такой бедной,\
+война упрямства и послушания.\
+И пусть они это простят,\
+и если к ним придёт желание помолиться,\
+то пусть не за меня.\
+
+<br/>
+
+::: {.italian}
+**La Guerra**
+
+Ho gli anni di mio padre — ho le sue mani,\
+quasi: le dita specialmente, le unghie,\
+curve e un po’ spesse, lunate (ma le mie\
+senza il marrone della nicotina)\
+quando, gualcito e impeccabile, viaggiava\
+su mitragliati treni e corriere,\
+portando a noi tranquilli villeggianti\
+fuori tiro e stagione,\
+nella sua bella borsa leggera\
+le strane provviste di quegli anni: formaggio fuso,\
+marmellata senza zucchero, pane senza lievito,\
+immagini della città oscura, della città sbranata,\
+così dolci al nostro cuore.\
+Guardavamo ai suoi anni con spavento.\
+Dal sotto in su, dal basso della mia secondogenitura,\
+per le sue coronarie mormoravo una preghiera.\
+Adesso, dopo tanto che lui è entrato nel niente\
+e gli divento giorno dopo giorno fratello,\
+fra non molto fratello più grande, più sapiente,\
+vorrei sapere se anche i miei figli pregano per me.\
+Ma subito, contraddicendomi, mi dico di no:\
+nessuno meno di me ha viaggiato tra me e loro,\
+e quello che ho dato loro — era davvero cibo?\
+Andare via come un ladro senza pane\
+e tornare a mani vuote…\
+Una povera guerra, piana e vile,\
+mi dico: la mia, così povera\
+d’ostinazione e d’obbedienza.\
+E prego che lascino perdere, che non per me\
+gli venga voglia di pregare.\
+:::
+
+---
+
+**Смертельные песни**
+
+Однажды, в какой-то или в другой день, я покину тебя,\
+душа моя, однажды, в день, следующий после другого дня,\
+я покину тебя.\
+Из старческой ревности, или из страха потерять тебя —\
+или просто потому, что я перестану жить.\
+Но пока что я заколдован,\
+как неподвижная ветка,\
+на которой застыл воробей,\
+я замер, я неподвижен…\
+
+<br/>
+
+::: {.italian}
+**Canzonette mortali**
+
+Un giorno o l’altro ti lascio, un giorno\
+dopo l’altro ti lascio, anima mia.\
+Per gelosia di vecchio, per paura\
+di perderti — o perché\
+avrò smesso di vivere, soltanto.\
+Però sto fermo, intanto,\
+come sta fermo un ramo\
+su cui sta fermo un passero, m’incanto…\
+:::
+
+---
+
+**Раскаяние святого Иоанна Крестителя**
+
+Тихо. Слушайте. Я возвещаю о его смерти,\
+потому что перед вами я — автор\
+его пришествия и дней его мучений.\
+О, если бы я умер раньше, в пустыне,\
+как умирают верблюды,\
+что слишком доверяют своему зобу!\
+Я говорю так о своей памяти,\
+памяти о будущих вещах,\
+дарованной мне Богом.\
+Я не хотел убивать его,\
+но моя вера превратилась в камень или нож,\
+мое крещение — в жестокого скорпиона.\
+Простите меня, если я согрешил слишком мало!\
+Я расцветаю виной,\
+как Дева расцвела им\
+в своей невольной утробе.\
+
+<br/>
+
+::: {.italian}
+**Il rimorso di San Giovanni Battista**
+
+Silenzio. Udite. Io annuncio la sua morte,\
+perché sono di fronte a voi l’autore\
+della sua venuta e dei suoi giorni disastrosi.\
+Oh fossi morto prima, nel deserto,\
+come muoiono i cammelli\
+che si fidano troppo del proprio gozzo!\
+Di me così dice la mia memoria,\
+la memoria che Dio mi concede sulle cose future.\
+Io non volevo ucciderlo,\
+ma la mia fede si è tramutata in pietra o coltello,\
+e il mio battesimo in violento scorpione.\
+Mi perdoni se troppo poco ho peccato!\
+Io fiorisco di colpa,\
+come la Vergine è fiorita in lui\
+nel grembo involontario.\
+:::
+
+---

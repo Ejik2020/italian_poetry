@@ -1,6 +1,16 @@
-.Rproj.user
+# Quarto build output and local caches
+/_book/
+/.quarto/
+*_files/
+
+# R / IDE / operating system files
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
+._*
+__MACOSX/
+/rsconnect/
 
-/.quarto/
+**/*.quarto_ipynb

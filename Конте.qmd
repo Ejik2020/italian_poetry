@@ -1,8 +1,10 @@
 # Джузеппе Конте
 
-> Джузеппе Конте живет в Сан-Ремо. Автор многочисленных сборников стихов, эссе и романов, посвященных природе, эросу и мифам. Ниже приведены переводы его стихов из сборника “L’Oceano e il Ragazzo”, 2002 (Океан и мальчик).**\
-> **\
-> (1945)
+> род. 1945
+>
+> *Джузеппе Конте (Giuseppe Conte) живет в Сан-Ремо. Автор многочисленных сборников стихов, эссе и романов, посвященных природе, эросу и мифам. Ниже приведены переводы его стихов из сборника “L’Oceano e il Ragazzo”, 2002 (Океан и мальчик).*
+
+<br/>
 
 **Этрусские животные**
 
@@ -18,43 +20,120 @@
 дельфинах, на драконах, на квадригах\
 грифòнов.\
 То что вы видите — рассыпаные\
-вокруг чèрепа листья, кору, мусор -\
+вокруг чèрепа листья, кору, мусор —\
 не было «человеком».\
 Была безымянная радость, легкость\
 камня, крыльев, солнца.\
+
+<br/>
+
+::: italian
+**Animali etruschi**
+
+Entrano nella morte con i capelli\
+raccolti dietro la nuca, in un sorriso\
+prosciugato, abbandonati\
+su un fianco, inclini a scendere\
+senza ricordi, hanno mani\
+estranee, cadute; in molti reggono\
+lo specchio dentro la destra.\
+entrano dove non si muore più. Traversano\
+buio e profondità. riaffiorano\
+sugli orli di un mare smosso da delfini\
+volanti, da draghi, da quadrighe\
+di grifoni.\
+Non fu un «uomo» questo che vedi sgretolato\
+in foglie, cortecce, calcinacci, intorno\
+a un teschio. Fu gioia senza nome, leggera,\
+di pietre, di ali, di sole.\
+:::
+
+
+<br/>
+
+\*\*\*
 
 Грифòн с клювом орла, с телом изящным,\
 скорее собачьим чем конским,\
 пожирает нежное мясо оленя,\
 упавшего на спину, выгнутую дугою,\
-ноги его словно палки торчат -\
+ноги его словно палки торчат —\
 упал, но не плачет.\
 У молчащего дерева бег свой закончил\
 олень, а каждое дерево лèсу начало\
 дает, потому будут еще у оленя\
 золотые акации, будут и утра.\
-У грифòна пустые глаза и твердые крылья -\
-бродяга, а как каменный нынче застыл -\
+У грифòна пустые глаза и твердые крылья —\
+бродяга, а как каменный нынче застыл —\
 нет в нем ни ненависти, ни желаний,\
 и почему, сам не знает,\
-страсть убивать в нем неизбывна.
+страсть убивать в нем неизбывна.\
+
+<br/>
+
+::: italian
+\*\*\*
+
+Il grifone dal becco d’aquila, dal corpo\
+smagrito, più di cane che di destriero,\
+calato sul dorso del cervo tenero\
+lo divora.\
+Ha dorso arcuato il cervo, gambe\
+di canna. Cade eppure non piange. La sua corsa\
+finisce davanti al silenzio\
+di un albero – foreste\
+nascono da un solo albero, avrà acacie\
+d’oro e mattini per sé ancora.\
+Il grifone ha occhi vuoti, ali\
+ferme, randagio ma ormai di pietra;\
+non odia, non vuole nulla, non sa\
+perché: uccidere per lui è un sogno\
+inevitabile.\
+:::
+
+<br/>
 
 **Метаморфозы любви**
 
-*Хотя они тонут в море, они воскреснут снова;\
+Хотя они тонут в море, они\
+воскреснут снова;\
 хотя влюбленные пропадут, любовь не погибнет.\
-(Дилан Томас, «И смерть не будет иметь власти»)*
+(Дилан Томас, «И смерть не будет иметь власти»)\
 
 Окрестили меня Джузеппе, но\
 теперь у меня больше нет имени:\
-я - ящерицы и пчелы, я - камни и мимозы,\
-я - море: меня ты не сможешь больше узнать,\
+я — ящерицы и пчелы, я — камни и мимозы,\
+я — море: меня ты не сможешь больше узнать,\
 больше не сможешь сказать мне: любимый.\
-Мы сможем летать вместе с солнечными роями\
-из чужих и соседских ульев, крошиться\
-на скалистых пляжах среди крутых оползней,\
+Незнакомые, но рядом друг с другом,\
+мы сможем вместе летать к солнечным ульям,\
+падать с крутыми оползнями на каменистые пляжи,\
 двумя раковинами лежать в тишине\
-на дне морском.
+на дне морском.\
+
+<br/>
+
+::: italian
+**Metamorfosi d’amore**
+
+Though they sink through the sea they\
+shall rise again;\
+though lovers be lost love shall not.\
+(Dylan Thomas, “And death shall have no dominion”)\
+
+Giuseppe era il mio nome di\
+cristiano, ora non ho più nome: sono\
+api e lucertole, pietre e mimose, il\
+mare: lei non mi potrà riconoscere.\
+Lei non mi potrà più dire: amore.\
+Potremo volare insieme all’alveare\
+del sole, vicini e sconosciuti, rovinare\
+in frane scoscese sulle spiagge\
+rocciose, essere due conchiglie nel silenzio\
+del fondale.\
+:::
+
+<br/>
 
 **Акт обожания молодежи**
 
@@ -86,7 +165,69 @@
 который слишком хорошо знает мою ласку\
 и как феникс возрождается из моего пепла.\
 Оставайся же здесь, чтобы я почитал тебя.\
-\
+
+<br/>
+
+::: italian
+**Atto di adorazione per la giovinezza**
+
+Credevi di andartene, giovinezza\
+come un ospite ingrato\
+che esce da una casa senza salutare\
+come scompare la brina da un prato\
+di montagna col passare del mattino.\
+Invece ti ho ancora vicino.\
+Credevi di fare al furba, di fottermi\
+dopo avermi tanto piagato\
+con la tua nevrastenia torbida\
+con il tuo desiderio inappagato\
+con la tua timidezza vergine\
+che sempre mi storceva la bocca.\
+Invece sei ancora qui, nonostante\
+i capelli, i peli che appassiscono\
+le unghie che si sfarinano e cadono\
+le ossa che faticano, ti tocca\
+restare ancora con me.\
+Ramo d’ulivo, stelo di papavero\
+sei mistero, anima, sorpresa\
+sei la bellezza vagabonda, illusa,\
+piazze di una città sconosciuta\
+percorse all’alba in fretta senza meta.\
+Credevi di andartene, ma io\
+ti ospito troppo bene in un cuore\
+feroce e ragazzo, che niente ha domato,\
+che conosce troppo bene la tua carezza\
+e come rinasci fenice dalle tue ceneri.\
+Resta qui, che io ti veneri.\
+:::
+
+<br/>
+
+**В жизни есть сладость IX**
+
+В жизни есть сладость, которую я ни на что,\
+даже небесное, не променял бы.\
+Это когда, кто знает от чего,\
+между двумя доселе незнакомыми ртами\
+начинаются теплые чудеса рассвета\
+нескольких поцелуев.\
+
+<br/>
+
+::: italian
+**C’è una dolcezza giù nella vita IX**
+
+C’è una dolcezza giù nella vita\
+che non cambierei con niente\
+di ciò che appartiene al cielo.\
+È quando chissà da che, perché cominciano\
+fra due bocche estranee sino ad allora\
+i miracoli tiepidi d’aurora\
+dei baci.\
+:::
+
+<br/>
+
 **Однажды, если кто-то прочитает меня**
 
 Однажды, если кто-то прочитает меня в\
@@ -95,5 +236,19 @@
 были эвкалипты с листьями, как четвертинки луны,\
 и были розы, были те, кто не хотел больше страдать, и те, кто\
 хотел любить всё на свете, а еще были те, кто сами себе\
-в подарок подносили стихи - далекие и жестокие,\
-простые и слабые.
+в подарок подносили стихи — далекие и жестокие,\
+простые и слабые.\
+
+<br/>
+
+::: italian
+**Un giorno se mi legger**                                                                                                                Un giorno se mi leggerà il lettore del\
+terzo millennio, saprà che c’erano gli\
+alberi e i desideri, le palme e i pini, e gli\
+eucalipti dalle foglie a quarto di luna, e le\
+rose: chi non voleva più soffrire, e chi\
+voleva amare tutto, chi di se\
+stesso faceva dono e dei poemi\
+violenti e lontani erano, semplice e\
+deboli.\
+:::

@@ -1,16 +1,28 @@
 # Патриция Кавалли
 
-> Итальянская поэтесса Патриция Кавалли (Patrizia Cavalli) родилась в Тоди, муниципалитете провинции Перуджа в центральной Италии, и жила в Риме. Она является автором многих сборников стихов, включая Con passi giapponesi (2019), My Poems Won’t Change the World: Selected Poems (2013), Datura (2013), Flighty Matters (2012), Pigre divinità e pigra sorte (2006), Sempre aperto teatro (1999) и L’io singolare proprio mio (1992) и лауреатом многих премий.
->
-> (1947-2022)
+> 1947-2022\
+> \
+> *Итальянская поэтесса Патриция Кавалли (Patrizia Cavalli) родилась в Тоди, муниципалитете провинции Перуджа в центральной Италии, и жила в Риме. Она является автором многих сборников стихов, включая Con passi giapponesi (2019), My Poems Won’t Change the World: Selected Poems (2013), Datura (2013), Flighty Matters (2012), Pigre divinità e pigra sorte (2006), Sempre aperto teatro (1999) и L’io singolare proprio mio (1992) и лауреатом многих премий.*
 
 \*\*\*
 
-Не полагайся на мое воображение,\
+Не полагайся на моё воображение,\
 не доверяйся ему, я не буду хранить тебя,\
 не положу на полку и не оставлю на зиму,\
 нет, я открою тебя сразу и съем в один присест.\
-\
+
+<br/>
+
+::: italian
+Non affidarti alla mia immaginazione\
+non ti fidare, io non ti conservo,\
+non ti metto da parte per l’inverno,\
+io ti apro e ti mangio in un boccone.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 \*\*\*
 
@@ -20,66 +32,166 @@
 то сапоги, то перчатки и зонтик.\
 В этот раз ты оставила\
 пару трусов\
-желтых пуэрториканских.\
-\
+жёлтых, пуэрториканских.\
+
+<br/>
+
+::: italian
+Prima quando partivi dimenticavi sempre\
+il tuo profumo, il fazzoletto più bello,\
+i pantaloni nuovi, i regali per gli amici,\
+i guanti, gli stivali e l’ombrello.\
+Questa volta hai lasciato\
+un paio di mutande\
+giallo Portorico.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 \*\*\*
 
-Maрроканцы со своими коврами –\
+Марокканцы со своими коврами –\
 вылитые святые,\
 а на самом деле – просто торговцы.\
-\
+
+<br/>
+
+::: italian
+I marocchini con i tappeti\
+sembrano santi e invece\
+sono mercanti.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 \*\*\*
 
-**Ну чтож, посмотрим, как ты цветёшь**
-
-Ну чтож, посмотрим, как ты цветёшь,\
+Ну что, посмотрим, как ты цветёшь,\
 как раскрываешься,\
 какого цвета лепестки твои\
 и сколько пестиков,\
 какие трюки знаешь, чтобы\
 пыльцу свою разбрасывать\
-и повторять себя, цветешь ты\
+и повторять себя, цветёшь ты\
 вяло или бурно, увидим, как ты подрезан,\
-куда склоняешься, а коль умрёшь,\
+куда склоняешься, а коль умрёшь —\
 засохнешь или скиснешь,\
-ну, вперед, я на тебя смотрю,\
+ну, вперёд, я на тебя смотрю,\
 давай, цвети!\
 
-**Жизнь так утомительна**
+<br/>
+
+::: italian
+Bene, vediamo un po’ come fiorisci,\
+come ti apri, di che colore hai i petali,\
+quanti pistilli hai, che trucchi usi\
+per spargere il tuo polline e ripeterti,\
+se hai fioritura languida o violenta,\
+che portamento prendi, dove inclini,\
+se nel morire infradici o insecchisci,\
+avanti su, io guardo, tu fiorisci.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+\*\*\*
 
 Жизнь так утомительна! Ведь знает,\
 что должна закончиться, что\
 приговорена, но даже умирая,\
 утомляет. Даже урезанная,\
-упрямо делает своё -\
+упрямо делает своё —\
 жить продолжает.\
+
+<br/>
+
+::: italian
+Come fatica la vita! Sa\
+di dover finire, è condannata,\
+e anche nel morire si affatica.\
+Pure diminuita, eccola che si ostina\
+a fare la sua parte, a far la vita.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 **Терапия**
 
 О, дайте мне комнату в гостинице,\
 комнатушку, комнатушку в гостинице,\
 да, комнату, комнату в гостинице,\
-комнатушку, комнатушку в гостинице...\
-(...так всё и будет продолжаться\
+комнатушку, комнатушку в гостинице…\
+(...так всё и будет продолжаться,\
 не останавливаясь,\
 пока уставшая и измученная\
 ты не свалишься полумёртвая\
 на любую койку,\
-хоть не застеленную, хоть грязную.)\
+хоть незастеленную, хоть грязную.)\
+
+<br/>
+
+::: italian
+**Terapia**
+
+Ah, datemi una stanza in un albergo\
+una stanzetta una stanzetta in un albergo\
+sì, una stanza una stanza in un albergo\
+una stanzetta una stanzetta in un albergo…\
+(…E via così di seguito\
+senza fermarsi mai,\
+finché annoiati o esausti\
+si cade tramortiti\
+sopra un qualunque letto\
+anche se sfatto e lercio.)\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 \*\*\*
 
-Как это грустно - щёлканье и скрип суставов!\
+Как это грустно — щёлканье и скрип суставов!\
 Всякий раз напоминают о скелете,\
 пока прикрытом милосердной плотью.\
+
+<br/>
+
+::: italian
+Che tristezza un’ossatura rumorosa.\
+Ricordare ogni momento dello scheletro\
+che la carne, finché può, copre pietosa.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 \*\*\*
 
 Два часа назад я влюбилась.\
 Дрожу от любви и продолжаю дрожать,\
 и не знаю толком, кому я открыться должна.\
+
+<br/>
+
+::: italian
+Due ore fa mi sono innamorata.\
+Tremo d’amore e seguito a tremare,\
+ma non so bene a chi mi devo dichiarare.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 \*\*\*
 
@@ -92,15 +204,17 @@ Maрроканцы со своими коврами –\
 К тому же,\
 я не из тех, кто экономит!\
 
-\*\*\*
+<br/>
 
-**Всё так просто**
+::: italian
+Sono diventata molto saggia\
+dico saggezze una dietro l’altra\
+facilmente molto facilmente\
+le dico e le dimentico\
+posso dimenticarle\
+perché ne ho sempre un’altra.\
+D’altronde io\
+non sono mica il tipo che risparmia!\
+:::
 
-Всё так просто,\
-да, было так просто,\
-так очевидно, что\
-я почти в это не верю -\
-тело предназначено вот для чего:\
-чтобы касаться меня или не касаться,\
-чтобы обнимать меня или отталкивать,\
-а остальное оставим придуркам.
+------------------------------------------------------------------------

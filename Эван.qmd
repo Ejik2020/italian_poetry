@@ -1,12 +1,14 @@
-# Джио Эван
+# Джио Эван {style="gray"}
 
-> Джио Эван (Gio Evan) – многогранный художник, писатель и поэт, философ, юморист, исполнитель, автор песен и уличный художник. В период с 2007 по 2015 год он совершил велосипедное путешествие, в ходе которого объездил большую часть мира: Индию, Южную Америку, Европу. Он начал учиться и жить вместе с местными учителями и шаманами, а в Аргентине хопи крестил его как «Джио Эван». В 2019 опубликовал роман “Сто сердец внутри” (Cento cuori dentro). В 2020 опубликовал сборник стихов “Se c’è un posto bello sei te” (Если и есть красивое место, то это ты).
+> pод. 1988
 >
-> (род. 1988)
+> *Джио Эван (Gio Evan) – многогранный художник, писатель и поэт, философ, юморист, исполнитель, автор песен и уличный художник. В период с 2007 по 2015 год он совершил велосипедное путешествие, в ходе которого объездил большую часть мира: Индию, Южную Америку, Европу. Он начал учиться и жить вместе с местными учителями и шаманами, а в Аргентине хопи крестил его как «Джио Эван». В 2019 опубликовал роман “Сто сердец внутри” (Cento cuori dentro). В 2020 опубликовал сборник стихов “Se c’è un posto bello sei te” (Если и есть красивое место, то это ты).*
 
-**Нам сказали, что мы слишком много бегаем\
-\
-**нам сказали,\
+<br/>
+
+**Нам сказали, что мы слишком много бегаем**
+
+нам сказали,\
 что мы слишком много бегаем,\
 что бегая,\
 ты хорошо узнаёшь ветер,\
@@ -17,17 +19,17 @@
 скамейка одним целым с уличным фонарем,\
 уличный фонарь с тротуаром\
 и так все становится всем,\
-из-за бега\
+из-за бега,\
 падение тоже становится сильнее\
 и вставать после такой пробежки\
 тяжелее.\
-\
+
 шрам никому не делает скидок,\
 вы платите полную цену\
 и он обосновывается тут,\
 на поврежденной коже,\
 навсегда\
-\
+
 они сказали нам, что мы слишком много бегаем,\
 что нам придётся взять\
 более спокойный темп,\
@@ -37,25 +39,81 @@
 выставлять руки вперед,\
 словно возможно\
 дозировать огонь во взгляде,\
-словно любовь -\
+словно любовь —\
 это столовая с порционными блюдами\
-\
+
 они сказали нам,\
 что мы слишком много бегаем,\
 что бегая,\
 мы хорошо узнаём ветер,\
 но остальное рискует размыться\
 и потерять смысл\
-\
+
 но они не знали\
 что нам нравится вот так:\
 бегать,\
 чтоб на нашей стороне был ветер,\
 а все остальное пусть размывается.\
 
-**Дорогая, если тебе грустно\
-\
-**Дорогая,\
+<br/>
+
+::: {.italian}
+**Ci dicevano che correvamo troppo**
+
+ci dicevano\
+che correvamo troppo\
+che a correre\
+si può conoscere bene il vento\
+ma il resto rischia di sfocarsi\
+e di perdere senso\
+l’albero può diventare tutt’uno\
+con la panchina\
+la panchina tutt’uno con il lampione\
+il lampione con il marciapiede\
+e così tutto diventa un po’ di tutto\
+
+che a correre, poi\
+anche la caduta diventa più forte\
+e rialzarsi dopo la corsa\
+costa tanto,\
+la cicatrice non fa sconti a nessuno\
+si paga a prezzo pieno\
+e fa casa lì, sulla pelle urtata\
+nel nome del per sempre\
+
+dicevano che correvamo troppo\
+che dovevamo prenderci\
+con più calma\
+andare lenti\
+a passo d’uomo\
+valutare il rischio\
+mettere le mani avanti\
+come se si potesse\
+dosare il fuoco nello sguardo,\
+come se amare\
+fosse una mensa da razionare\
+
+ci dicevano\
+che correvamo troppo\
+che a correre\
+si può conoscere bene il vento\
+ma il resto rischia di sfocarsi\
+e di perdere senso\
+
+ma non sapevano\
+che a noi piaceva così:\
+correre\
+avere il vento dalla nostra\
+e sfocare tutto resto.\
+:::
+
+---
+
+<br/>
+
+**Дорогая**
+
+Дорогая,\
 если тебе грустно,\
 позвони мне\
 хоть в полдень,\
@@ -64,7 +122,7 @@
 я предпочитаю бодрствовать с тобой,\
 чем без тебя видеть тяжёлый сон,\
 полный страшных предчувствий.\
-\
+
 Дорогая,\
 если ты проиграешь,\
 то позвони мне,\
@@ -76,18 +134,63 @@
 Я напомню тебе, моя дорогая,\
 что всегда есть что-нибудь,\
 заслуживающее отпразднования.\
-\
+
 Моя дорогая, ты позвони мне,\
 ведь мне не нужно много времени,\
 чтобы объяснить тебе,\
 что проиграть не значит потерпеть неудачу,\
 один раз проиграешь,\
 другой раз – выиграешь.\
-\
+
 Моя дорогая,\
 если ты переживаешь дерьмовые времена,\
 трудные времена,\
 грустные дни,\
 позвони мне хоть издалека,\
 в любое время,\
-и мы вместе выпьем вина.
+и мы вместе выпьем вина.\
+
+<br/>
+
+::: {.italian}
+**Amica mia**
+
+Amica mia\
+se ti senti triste\
+chiamami\
+che sia mezzogiorno\
+che sia mezzanotte\
+ricorda,\
+preferisco stare sveglio con te\
+che dormire scomodo\
+tra i presentimenti atroci\
+
+amica mia\
+se perdi\
+tu chiamami\
+che io ti porto a festeggiare qualcos'altro\
+guarda che cielo pulito oggi\
+guarda il mare, sembra una piscina\
+che bella quella madre che abbraccia il figlio\
+guarda quei due, si baciano davanti a un caffè\
+ti ricorderò, amica mia\
+che c'è sempre un punto di vista\
+degno di festa\
+
+tu chiamami, amica mia\
+che io non ci metto tanto\
+a spiegarti\
+che perdere non è fallire,\
+perdere è solo\
+vincere alla prossima\
+
+amica mia\
+se stai vivendo momenti di merda\
+periodi tosti\
+giornate tristi\
+tu chiamami, a qualsiasi ora\
+ci beviamo un vino insieme\
+da lontano.\
+:::
+
+---

@@ -1,15 +1,33 @@
 # Антонио Наззаро
 
-> Антонио Наззаро (Antonio Nazzaro) - журналист, поэт, переводчик, видеохудожник , культурный атташе Италии в Венесуэле. Он является главным редактором нескольких сборников итальянской и латиноамериканской поэзии для разных издательств. Он опубликовал антологии: Migrant Love and the Last Cigarette (RiL Editores, Чили; Arcoiris, Италия, 2018), Corpi Fumanti (Uniediciones, Богота, 2019) и Diario amoroso senza date, Fotoromanzo poetico (Edizioni Carpa Koi, Италия, 2021). ), Диктатура любви (Edizioni Delta 3, коллекция Aelanum, Италия, 2022). Книга рассказов: Odore a… (Edizioni Arcoiris, Италия, 2014) и книга новостей и поэзии: Записки из Венесуэлы, 2017, Жизнь в протестах (Edizioni Arcoiris, Италия, 2017). Его тексты публиковались на разных языках в национальных и международных журналах и антологиях.
+> род. 1963
 >
-> (род. 1963)
+> *Антонио Наззаро (Antonio Nazzaro) - журналист, поэт, переводчик, видеохудожник, культурный атташе Италии в Венесуэле. Он является главным редактором нескольких сборников итальянской и латиноамериканской поэзии для разных издательств. Он опубликовал антологии: Migrant Love and the Last Cigarette (RiL Editores, Чили; Arcoiris, Италия, 2018), Corpi Fumanti (Uniediciones, Богота, 2019) и Diario amoroso senza date, Fotoromanzo poetico (Edizioni Carpa Koi, Италия, 2021), Диктатура любви (Edizioni Delta 3, коллекция Aelanum, Италия, 2022). Книга рассказов: Odore a… (Edizioni Arcoiris, Италия, 2014) и книга новостей и поэзии: Записки из Венесуэлы, 2017, Жизнь в протестах (Edizioni Arcoiris, Италия, 2017). Его тексты публиковались на разных языках в национальных и международных журналах и антологиях.*
 
-\
+<br/>
+
+\*\*\*
+
 Легко узнать эмигранта:\
 даже под полуденным солнцем\
 он отбрасывает\
 две тени.\
-\
+
+<br/>
+
+::: italian
+\*\*\*
+
+L’emigrante lo riconosci\
+perché anche sotto il sole del mezzogiorno\
+disegna\
+due ombre.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
 \*\*\*
 
 За несколько сольди\
@@ -18,34 +36,124 @@
 руки не продаются -\
 к красоте\
 можно только прикaсaться.\
-Hе знаю люблю ли я тебя,\
-но дом и имя у меня появляются\
-только, когда ты мне звонишь.\
 
-\*\*\*\
-\
-Поцелуи\
+<br/>
+
+::: italian
+\*\*\*
+
+Affitto il cuore\
+per pochi soldi\
+e regalo gli occhi\
+le mani non sono in vendita.\
+La bellezza\
+si può solo toccare.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+**Поцелуи**
+
 Ласкаю тебя, словно выдох ветра, что приподымает платья.\
 Улыбками целуют незаметно.\
-Плывут к горизонту любви поцелуи из стихов, написанных на бумажных\
-корабликах.\
-Поцелуй из тех, что ночами бегают по тротуарам и сидят на остановках\
-трамвая, ожидая луну.\
+Плывут к горизонту любви поцелуи из стихов, написанных на бумажных корабликах.\
+Поцелуй из тех, что ночами бегают по тротуарам и сидят на остановках трамвая, ожидая луну.\
 Медленный поцелуй — как рассвет, который\
 мало помалу отнимает у ночи звёзды.\
-Странствует влюбленное сердце бродяги и легки его поцелуи, так трамвай\
-проходит танцуя, чтобы ночь разбудить.\
+Странствует влюбленное сердце бродяги и легки его поцелуи, так трамвай проходит танцуя, чтобы ночь разбудить.\
 Ветер, как поцелуй внезапный, меняет небо.\
 Извилистые поцелуи заползают под кожу.\
 Его поцелуи задирают юбки, как апрельский ветер.\
 
+<br/>
+
+::: italian
+**Baci**
+
+Ti carezzo come un soffio di vento\
+che solleva le vesti.\
+Un bacio di sorrisi scappava dagli occhi.\
+Baci in poesie di barchette di carta\
+navigano verso l’orizzonte amoroso.\
+Un bacio di quelli che scorrono sui marciapiedi\
+nelle notti e si siedono alla fermata del tram\
+ad aspettare la luna.\
+Un bacio lento come il chiarore che a poco a poco sveste la notte dalle stelle.\
+Vagabondo cuore di amori randagi e baci sfiorati, un tram passa danzante a svegliare la notte.\
+La brezza come un bacio improvviso cambia il cielo.\
+Bacetti sinuosi si insinuano sotto la pelle.\
+I suoi baci alzavano le gonne come vento d’aprile.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
 \*\*\*
 
-\
 из-за поэзии носки у меня дырявые\
 ногти грязные\
 борода подстрижена плохо\
 пепельница полная\
 живот втянут\
 я весь исцарапан\
-и окно у меня открыто
+и окно у меня открыто\
+
+<br/>
+
+::: italian
+\*\*\*
+
+della poesia ho i calzini rotti\
+le unghie sporche\
+e la barba mal tagliata\
+un posacenere pieno\
+una pancia appoggiata\
+graffi del grattarsi\
+e una finestra\
+aperta\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+\*\*\*
+
+На моих изрезаных руках эмигранта\
+пятна ран\
+от чужих языков и жизней.\
+Откуда я родом –\
+не знаю.\
+мать и отца помню,\
+но и они корней не имели.\
+Я раскрошусь под дождем и солнцем\
+и не будет у меня приюта.\
+Продвигаюсь вперед упрямо,\
+к земле черной безмолвной,\
+которая накроет имя,\
+что потерял я.\
+
+<br/>
+
+::: italian
+\*\*\*
+
+Ho mani d’emigrante\
+tagliate ferite macchiate\
+da lingue e vite non mie.\
+Da dove vengo\
+non lo so.\
+Ricordo una madre e un padre\
+ma non hanno radici.\
+Mi sgretolo sotto la pioggia e il sole\
+e non avrò riparo.\
+Ostinatamente avanzo\
+verso la terra nera e muta\
+che coprirà un nome\
+perduto.\
+:::
+
+------------------------------------------------------------------------

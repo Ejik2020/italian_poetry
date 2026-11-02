@@ -1,0 +1,8 @@
+.italian {
+  display: block;
+  margin-left: auto;
+  width: fit-content;
+  color: #777777;       /* medium gray */
+  font-size: 0.95em;    /* slightly smaller font */
+  text-align: left;     /* left-justified text even though it's on the right */
+}

@@ -1,68 +1,246 @@
-# Габриэле Галлони
+# Габриэле Галлони {style="gray"}
 
-> Молодой поэт Габриэле Галлони (Gabriele Galloni) ушел из жизни в возрасте 25 лет. Он был провозглашен в Интернете одним из «лучших поэтов своего поколения», несколько писателей и коллег, близко его знавших, помнят его замкнутый образ жизни, его тягу к теме смерти и «хроникам конца».
+
+> 1995–2020
 >
-> (1995-2020)
+> *Молодой поэт Габриэле Галлони (Gabriele Galloni) ушел из жизни в возрасте 25 лет. Он был провозглашен в Интернете одним из «лучших поэтов своего поколения», несколько писателей и коллег, близко его знавших, помнят его замкнутый образ жизни, его тягу к теме смерти и «хроникам конца».*
 
-### **Бестиарий праздничных дней**
+<br/>
 
 **Кошка**
 
 «Не будет у тебя другого Бога, кроме меня»,\
-мяукает кошка. Она рыжая, с белыми крапинками -\
+мяукает кошка. Она рыжая, с белыми крапинками —\
 очень сильно дрожит, не зная почему.
+
+<br/>
+
+::: {.italian}
+**Il gatto**
+
+“Non avrai altro Dio all’infuori di me,”\
+miagola il gatto. È rosso a chiazze bianche.\
+Trema fortissimo; chissà perché.
+:::
+
+---
 
 **Гусь**
 
-Гусь теперь знает, когда придет смерть -\
+Гусь теперь знает, когда придет смерть —\
 в целом он это принимает неплохо.\
 Одну за другой, она закрывает за ним\
 все двери.
 
+<br/>
+
+::: {.italian}
+**L’oca**
+
+L’oca conosce adesso la sua morte —\
+tutto sommato la prende benino.\
+Chiude lei stessa, una ad una, le porte.
+:::
+
+---
+
 **Коза**
 
-Коза играет со святым Себастьяном -\
+Коза играет со святым Себастьяном —\
 зализывает его раны и утешает его.\
 Ласкает всю его руку.
 
+<br/>
+
+::: {.italian}
+**La capra**
+
+La capra gioca con san Sebastiano —\
+gli lecca le ferite e lo consola.\
+Accoglie tutta intera la sua mano.
+:::
+
+---
+
 **Слон**
 
-У слона, знаете ли, есть культ предков -\
+У слона, знаете ли, есть культ предков —\
 все они будут с ним всегда;\
 но во сне он о них понятия не имеет.
+
+<br/>
+
+::: {.italian}
+**L’elefante**
+
+L’elefante, lo sai, ha il culto degli avi —\
+saranno tutti e per sempre con lui;\
+ma se sogna dimentica le chiavi.
+:::
+
+---
 
 **Хамелеон**
 
 Всегда похож на того, кем не является.\
-Иногда на дерево, иногда на другого зверя -\
+Иногда на дерево, иногда на другого зверя —\
 случается, что ночью ты похожа на меня.
 
-### **Из книги “В каком свете они падают”**
+<br/>
+
+::: {.italian}
+**Il camaleonte**
+
+Somiglia sempre a quello che non è.\
+A volte è un albero, a volte un’altra bestia —\
+di notte capita che sembri me.
+:::
+
+---
+
+**Страус**
+
+По всему миру мы всегда движемся вперед,\
+но мир нас забудет. Страус однако предпочитает\
+ходить кругами, круг за кругом.
+
+<br/>
+
+::: {.italian}
+**Lo struzzo**
+
+Andando sempre avanti tutto il mondo\
+ci dimenticherà. Lo struzzo\
+preferisce così girare in tondo.
+:::
+
+---
+
+**Лиса**
+
+В каждой лисе есть немного от Меркурия,\
+бога воров, бога мошенников.\
+Должно быть, это собачья морда, поддельный мех…
+
+<br/>
+
+::: {.italian}
+**La volpe**
+
+Ogni volpe avrà in sé un po’ di Mercurio,\
+il dio dei ladri, il dio dei truffatori.\
+Sarà il muso canino, il pelo spurio…
+:::
+
+---
+
+\*\*\*
 
 Я знал человека, который гадал\
 по руке мертвым. Он предпочитал тех\
 кому меньше двадцати лет:\
 каждое воскресенье в морге\
 он предсказывал им\
-координаты другой жизни.\
-\
-\*\*\*\
-\
-У мертвецов носы становятся тоньше. Когда\
-мертвецы тебе снятся, носы они прикрывают.\
+координаты другой жизни.
+
+<br/>
+
+::: {.italian}
+\*\*\*
+
+Ho conosciuto un uomo che leggeva\
+la mano ai morti. Preferiva quelli\
+sotto i vent’anni; tutte le domeniche\
+nell’obitorio prediceva loro\
+le coordinate per un’altra vita.
+:::
+
+---
+
+\*\*\*
+
+У мертвецов носы становятся тоньше\
+Когда мертвецы тебе снятся,\
+носы они прикрывают.\
 Увидеть, как они проходят мимо с закрытыми лицами\
-из коридора в ванную или на кухню - это нормально.\
-\
-\*\*\*\
-\
-Мертвые пытаются нас утешить,\
+из коридора в ванную или на кухню — это нормально.
+
+<br/>
+
+::: {.italian}
+\*\*\*
+
+Ai morti si assottiglia il naso\
+Quando li sogni se lo coprono. È normale\
+vederli a volto coperto passare\
+dal corridoio al bagno alla cucina
+:::
+
+---
+
+\*\*\*
+
+Мертвые пытаются нас утешить\
 но их попытки непонятны:\
 это промахи, спотыкания, невнятные\
 разговоры. Они знают, как одной рукой любить Нас,\
-а другой – Невидимое.\*\*\
-\
-\*\*\*\
-\
+а другой — Невидимое.
+
+<br/>
+
+::: {.italian}
+\*\*\*
+
+I morti tentano di consolarci\
+ma il loro tentativo è incomprensibile:\
+sono i lapsus, gli inciampi, l’indicibile\
+della conversazione. Sanno amarci\
+con una mano — e l’altra all’Invisibile.
+:::
+
+---
+
+\*\*\*
+
 Мертвые пишут\
 бесконечные любовные письма.\
-Они посылают их ранним утром.\
+Они посылают их ранним утром.
+
+<br/>
+
+::: {.italian}
+\*\*\*
+
+I morti scrivono\
+infinite missive d’amore.\
+Le spediscono nelle prime ore\
+del mattino.
+:::
+
+---
+
+\*\*\*
+
+Мертвые верят в судьбу\
+Глубокой ночью они взбираются на деревья\
+твоего сада; ты находишь их на рассвете\
+не знающих, как слезть с ветвей.\
+Ты их видишь; они тебя — нет. Ты их зовешь —\
+они тебя не слышат. Ты им помогаешь — они спускаются.\
+Каждую ночь они возвращаются и всё забывают.
+
+<br/>
+
+::: {.italian}
+\*\*\*
+
+I morti hanno fiducia nella sorte\
+A notte fonda salgono sugli alberi\
+del tuo giardino; li trovi che all’alba\
+non sanno come scendere dai rami.\
+Li vedi; non ti vedono. Li chiami\
+e non ti sentono. Li aiuti — scendono.\
+Ogni notte ritornano e dimenticano.
+:::
+
+---

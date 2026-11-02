@@ -1,0 +1,12 @@
+---
+title: "Купить книгу"
+listing: false
+sidebar: false
+toc: false
+---
+
+Здесь можно найти информацию о том, как приобрести книгу.
+
+[**Ссылка на покупку**](https://www.tiptopstreet.com/product-page/product-page/каденция-итальянская-поэзия-xx-xxi-веков-в-переводах-александра-фейгина)
+
+[![](images/clipboard-2631945230.png){width="500"}](https://www.tiptopstreet.com/product-page/product-page/каденция-итальянская-поэзия-xx-xxi-веков-в-переводах-александра-фейгина)

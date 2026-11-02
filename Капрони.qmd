@@ -1,10 +1,10 @@
-# Джорджио Капрони
+# Джорджио Капрони {style="gray"}
 
-> Джорджио Капрони (Giorgio Caproni), по роду деятельности школьный учитель, был автором огромного количества замечательных стихов, из которых лишь очень немногие были переведены на русский язык.
+> 1912–1990
 >
-> Один из его главных критиков, Карло Бо, писал о Капрони так: “Поэт солнца, света и моря”. Свои стихи Капрони, в основном, посвящал городам, в которых родился и вырос, Ливорно и Генуе, а также матери и жене Рине.
+> *Джорджио Капрони (Giorgio Caproni), по роду деятельности школьный учитель, был автором огромного количества замечательных стихов, из которых лишь очень немногие были переведены на русский язык.*
 >
-> (1912-1990)
+> *Один из его главных критиков, Карло Бо, писал о Капрони так: “Поэт солнца, света и моря”. Свои стихи Капрони, в основном, посвящал городам, в которых родился и вырос, Ливорно и Генуе, а также матери и жене Рине.*
 
 <br/>
 
@@ -14,24 +14,24 @@
 Много.\
 А что же осталось?\
 Даже ни вздоха.\
-Даже следов от царапин\
+Даже следов от царапин \
 или укусов.\
-Все\
+Все \
 бесследно\
-исчезли, от себя ничего\
+исчезли, от себя ничего \
 не оставив.\
-Как\
+Как \
 не остается следов\
 на мраморе от подувшего ветра.\
-Как\
+Как \
 не остается следов от тени\
 на тротуаре.\
 Всё\
 исчезает в пыли,\
 застилающей зренье.\
-Там,\
-за стеклом,\
-голосов приглушённых шёпот,\
+Там, \
+за стеклом, \
+голосов приглушённых шёпот, \
 будто листья дышат неслышно.\
 Листья, о которых\
 ведaeт только сердце,\
@@ -39,16 +39,68 @@
 
 <br/>
 
+::: {.italian}
+**Foglie**
+
+Quanti se ne sono andati…\
+Quanti.\
+
+Che cosa resta.\
+Nemmeno\
+il soffio.\
+Nemmeno\
+il graffio di rancore o il morso\
+della presenza.\
+Tutti\
+se ne sono andati senza\
+lasciare traccia.\
+Come\
+non lascia traccia il vento\
+sul marmo dove passa.\
+Come\
+non lascia orma l’ombra\
+sul marciapiede.\
+Tutti\
+scomparsi in un polverio\
+confusi d’occhi.\
+Un brusio\
+di voci afone, quasi\
+di foglie controfiato\
+dietro i vetri.\
+Foglie\
+che solo il cuore vede\
+e cui la mente non crede\
+:::
+
+<br/>
+
+---
+
 **Записка, оставленная перед тем, как я не уехал**
 
 Если я не вернусь,\
 знайте, что я никогда\
 и не уезжал.\
 Всё моё путешествие -\
-это пребывание\
+это пребывание \
 здесь, где меня и не было никогда.
 
 <br/>
+
+::: {.italian}
+**Biglietto lasciato prima di non andar via**
+
+Se non dovessi tornare,\
+sappiate che non sono mai\
+partito.\
+Il mio viaggiare\
+È stato tutto un restare\
+qua, dove non fui mai.\
+:::
+
+<br/> 
+
+---
 
 **Рине**
 
@@ -57,22 +109,52 @@
 
 <br/>
 
+::: {.italian}
+**A Rina**
+
+Se il mondo accetta colore e vita,\
+lo devo a te, amore…\
+:::
+
+<br/>  
+
+---
+
 **Возвращение**
 
 Я вернулся туда,\
 где никогда не был.\
 С тех пор, как меня тут не было,\
 ничего не изменилось.\
-На столе, покрытом\
+На столе, покрытом \
 клетчатой клеенкой,\
 нашел стакан, который\
 никогда не наполнял.\
 Всё здесь осталось тeм же,\
-словно никогда это и не покидал.\
+словно никогда это и не покидал.
+
+<br/>
+
+::: {.italian}
+**Ritorno**
+
+Sono tornato là\
+dove non ero mai stato.\
+Nulla, da come non fu, è mutato.\
+Sul tavolo (sull’incerato\
+a quadretti) ammezzato\
+ho ritrovato il bicchiere\
+mai riempito. Tutto\
+è ancora rimasto quale\
+mai l’avevo lasciato.\
+:::
+
+<br/>  
+
+---
 
 **Жизнерадостность**
 
-\
 Было холодно.\
 Ветер резал пальцы.\
 Дыхание перехватывало.\
@@ -80,22 +162,68 @@
 
 <br/>
 
-**Перестаньте мучиться**
+::: {.italian}
+**Allegria**
 
-Xотите со мной встретиться,\
+Faceva freddo. Il vento\
+mi tagliava le dita.\
+Ero senza fiato. Non ero\
+stato mai più contento.\
+:::
+
+<br/>  
+
+---
+
+**Подсказка**
+
+Перестаньте мучиться.\
+Хотите со мной встретиться,\
 ищите меня там, где нет меня.\
 Другого места подсказать не могу.
 
 <br/>
+
+::: {.italian}
+**Indicazione**
+
+Smettetela di tormentarvi.\
+Se volete incontrarmi,\
+cercatemi dove non mi trovo.\
+Non so indicarvi altro luogo.\
+:::
+
+<br/>  
+
+---
 
 **Откровение**
 
 Я решился.\
 Я обернулся.\
 Я быстро, одному за другим,\
-зaглянул в глазамоим убийцам.\
-У каждого из них– у всех – было мое лицо.\
+зaглянул в глаза\
+моим убийцам.\
+У каждого из них\
+– у всех – было мое лицо.
+
 <br/>
+
+::: {.italian}
+**Rivelazione**
+
+Mi sono risolto.\
+Mi sono voltato indietro.\
+Ho scorto\
+uno per uno negli occhi\
+i miei assassini.\
+Hanno\
+– tutti quanti – il mio volto.\
+:::
+
+<br/>
+
+---
 
 **Встреча**
 
@@ -106,57 +234,515 @@ Xотите со мной встретиться,\
 и паника удивления\
 в твоем черном, свеpкающем взгляде\
 словно лён полыхнул на мгновение,\
-так быстро ты мимо прошла.\
+так быстро ты мимо прошла.
+
 <br/>
+
+::: {.italian}
+**Incontro**
+<br/>
+Nell’aria fresca d’odore\
+di calce per nuove case,\
+un attimo: e più non resta\
+del tuo transito breve\
+in me che quella fiamma\
+di lino – quell’istantaneo\
+battito delle ciglia,\
+e il pànico del tuo sorpreso\
+– nero, lucido – sguardo.\
+:::
+
+---
 
 **Почти закончив подъём**
 
--Синьор, возвращайтесь в долину.\
+− Синьор, возвращайтесь в долину.\
 То, что вы ищете перед собой,\
-осталось у вас позади, за спиной.\
+осталось у вас позади, за спиной.
+
 <br/>
+
+::: {.italian}
+**Conclusione quasi al limite della salita**
+
+– Signore, deve tornare a valle.\
+Lei cerca davanti a sé\
+ciò che ha lasciato alle spalle.\
+:::
+
+---
 
 **Каденция**
 
 Тоника, терция, квинта,\
 малая септима. Так и\
 не разрешится\
-жизни моей аккорд?\
+жизни моей аккорд?
+
 <br/>
 
-**Тьмa**
+::: {.italian}
+**Cadenza**
 
+Tonica, terza, quinta,\
+settima diminuita.\
+Rimane così irrisolto\
+l’accordo della mia vita?\
+:::
+
+<br/>  
+
+---
+
+**Тьмa**
+<br/>
 Даже фонаря с собой\
 не возьму. Тьмa\
 там такая тёмная,\
-что eё просто нет.\
+что eё просто нет.
+
 <br/>
+
+::: {.italian}
+**Il buio**
+
+Non potrà nemmeno\
+la lanterna. Là\
+il buio è così buio\
+che non c’è oscurità.\
+:::
+
+<br/>  
+
+---
 
 **Рине II**
 
 Без тебя дерево\
 больше не будет деревом.\
 Ничто без тебя уже\
-не будет тем, что оно есть.\
+не будет тем, что оно есть.
+
 <br/>
 
-**Сердце**
+::: {.italian}
+**A Rina II**
 
-Сердце бьется в центре\
-Парижа. Бьётся\
-на площади Согласия. Бьётся\
-среди деревьев Елисейских Полей.\
-Сердце бьется в сàмом сердце\
-сàмого сердца Парижа.\
-<br/>
+Senza di te un albero\
+non sarebbe più un albero.\
+Nulla senza di te\
+sarebbe quello che è.\
+:::
 
-\
+<br/>  
+
+---
+
 **Геральдика**
 
 Любимая, как больно\
 ранен век, а мы так одиноки\
 - ты и я - в той серости\
-без имени. Время соловья и льва прошло.\
+без имени. Время\
+соловья и льва прошло.\
 Герб сломан. Бесследно\
 единорог оставил этот мир:\
 Тень в сердце у меня.
+
+<br/>
+
+::: {.italian}
+**Araldica**
+
+Amore, com'è ferito\
+il secolo, e come siamo soli\
+– tu, io – nel grigiore\
+che non ha nome. Finito\
+è il tempo dell'usignolo\
+e del leone. Il blasone\
+è infranto. Il liocorno\
+orma non ha lasciato\
+sul suolo: l'Ombra, è in cuore.\
+:::
+
+<br/>  
+
+---
+
+**Нужна помощь**
+
+Я растерялся. Мне было тяжело.\
+Я искал выход.\
+Я спросил одного,\
+а он мне ответил: «Я не местный».
+
+<br/>
+
+::: {.italian}
+**Bisogno di guida**
+
+M’ero sperso. Annaspavo.\
+Cercavo uno sfogo.\
+Chiesi a uno. «Non sono,»\
+mi rispose, «del luogo.»\
+:::
+
+<br/> 
+
+---
+
+**Граница**
+
+Граница - сообщал знак,\
+я поискал глазами таможню,\
+но ее нигде не было.\
+За воротами я не увидел\
+даже тени чужбины.
+
+<br/>
+
+::: {.italian}
+**Confine**
+
+Confine diceva il cartello\
+cercai la dogana, non c’era\
+non vidi dietro il cancello\
+ombra di terra straniera.\
+:::
+
+<br/>  
+
+---
+
+**Молитва увещевания или ободрения**
+
+О, Боже, Боже мой,\
+почему тебя не существует?\
+Всемогущий Боже, попробуй (заставь себя) настоять\
+хотя бы на собственном существовании.
+
+<br/>
+
+::: {.italian}
+**Preghiera d’esortazione o d’incoraggiamento**
+
+Ah, mio dio, Mio Dio,\
+perché non esisti?\
+Dio onnipotente, cerca (sfórzati) a furia di insistere\
+almeno di esistere.\
+:::
+
+<br/>  
+
+---
+
+**Слова**
+
+Слова. Сразу.\
+Они растворяют объект.\
+Как туман деревья,\
+как река: парòм.
+
+<br/>
+
+::: {.italian}
+**Le parole**
+
+Le parole. Già.\
+Dissolvono l’oggetto.\
+Come la nebbia gli alberi,\
+il fiume: il traghetto.\
+:::
+
+<br/>  
+
+---
+
+**Антиметафизическая мысль**
+
+У меня в голове есть идея,\
+Глупая как роза.\
+После нас ничего не будет.\
+Даже ничего того,\
+что чем-то уже было.
+
+<br/>
+
+::: {.italian}
+**Pensatina dell’antimetafisicamente**
+
+Un’idea mi frulla,\
+scema come una rosa.\
+Dopo di noi non c’è nulla.\
+Nemmeno il nulla,\
+che già sarebbe qualcosa.\
+:::
+
+<br/>  
+
+---
+
+**Коротко говоря**
+
+Я это замечал всегда.\
+Правота остается всегда\
+за тем, кто неправ.
+
+<br/>
+
+::: {.italian}
+**Tagliando corto**
+
+da sempre me ne sono accorto.\
+La ragione è sempre\
+dalla parte del torto.\
+:::
+
+<br/>  
+
+---
+
+**Гастрономическoe**
+
+Живые слова,\
+Обжигающие слова.\
+Непроизнесённые слова,\
+застрявшие между зубов.
+
+<br/>
+
+::: {.italian}
+**Gastronomica**
+
+Le parole vive.\
+Le parole ardenti.\
+Le parole mute\
+rimaste tra i denti.\
+:::
+
+<br/>  
+
+---
+
+**Зачем оставаться?**
+
+Кто был первым, не помню.\
+За ним последовал второй. Третий.\
+Затем, один за другим, они все ушли\
+одной и той же дорогой.\
+Теперь никого не осталось.\
+Единственный обитаемый дом —\
+мой.\
+Я стар.\
+Что я могу сделать,\
+здесь, наверху, где, возможно, скоро\
+никого не останется, чтобы составить мне компанию?\
+Лучше, наверное, будет, если я позабочусь о том, чтобы\
+и мне уйти побыстрее.\
+Но я не могу решиться. Отдыхаю.\
+Меня удерживает трава. Лес.\
+Река. Даже если река всего лишь\
+шум и прохлада там,\
+за листьями.\
+Вечерами\
+Я сижу на этом камне и жду.\
+Я чего-то жду, сам не знаю чего, но жду.\
+Сна? Смерти, я бы сказал, если бы она тоже\
+некоторое время назад — если бы она уже не ушла\
+из этих мест.\
+Я жду\
+и я слушаю.\
+(Вода,\
+сколько миллионов лет\
+она всё так же журчит\
+на своих камнях?)\
+Я чувствую себя\
+затерянным во времени.\
+Может быть даже\
+вне времени.\
+Но пока я все еще остаюсь\
+с самим собой. Я не хочу\
+выходить из себя наружу,\
+как медведка из подполья\
+в поисках другой тьмы.\
+В городах зелень для меня слишком густа,\
+там я уже слепой, а здесь я вижу.\
+Я разговариваю, веду диалог,\
+здесь я отвечаю сам себе и у меня есть свой\
+собеседник и я не хочу\
+замуровывать его в глухую тишину\
+пустого шума души,\
+шума слов, у которых души больше нет.
+
+<br/>
+
+::: {.italian}
+**Perché restare**
+
+Chi sia stato il primo, non\
+è certo. Lo seguì un secondo. Un terzo.\
+Poi, uno dopo l’altro, tutti han preso la stessa via.\
+Ora non c’è più nessuno.\
+La mia\
+casa è la sola\
+abitata.\
+Son vecchio\
+Che cosa mi trattengo a fare,\
+quassù, dove tra breve forse\
+nemmeno ci sarò più io\
+a farmi compagnia?\
+Meglio – lo so – è ch’io bada\
+prima che me ne vada anch’io.\
+Eppure, non mi risolvo. Resto.\
+Mi lega l’erba. Il bosco.\
+Il fiume. Anche se il fiume è appena\
+un rumore ed un fresco\
+dietro le foglie.\
+La sera\
+siedo su questo sasso, e aspetto.\
+Aspetto non so che cosa, ma aspetto.\
+Il sonno. La morte direi, se anch’essa\
+da un pezzo – già non se ne fosse andata\
+da questi luoghi.\
+Aspetto\
+e ascolto.\
+(L’acqua,\
+da quanti milioni d’anni, l’acqua,\
+ha questo suo stesso suono\
+sulle sue pietre?)\
+Mi sento\
+perso nel tempo.\
+Fuori\
+del tempo, forse.\
+Ma sono\
+con me stesso. Non voglio\
+lasciare me stesso uscire\
+da me stesso come,\
+dal sotterraneo\
+il grillotalpa in cerca\
+d’altro buio.\
+Il trifoglio\
+della città è troppo\
+fitto. Io son già cieco.\
+Ma qui vedo. Parlo.\
+Qui dialogo. Io\
+qui mi rispondo e ho il mio\
+interlocutore. Non voglio\
+murarlo nel silenzio sordo\
+d’un frastuono senz’ombra\
+d’anima. Di parole\
+senza più anima.\
+:::
+
+<br/>  
+
+---
+
+\*\*\*
+
+Мы – свидетели мира,\
+но все наши свидетельства\
+будут потеряны,\
+как правдивые, так и ложные.\
+Мир реальности и мир искусства,\
+мир видимости и мир истории,\
+мы всех их унесем на дно,\
+под воду, расплывчатую\
+и блестящую, по чьей черной вуали\
+больше не проскользит\
+на своих коньках\
+ни одна водомерка,\
+ни одна стрекоза не пролетит\
+над всей этой пустыней.
+
+<br/>
+
+::: {.italian}
+\*\*\*
+
+Di noi, testimoni del mondo,\
+tutte andranno perdute\
+le nostre testimonianze.\
+Le vere come le false.\
+La realtà come l’arte.\
+Il mondo delle sembianze\
+e della storia, egualmente\
+porteremo con noi\
+in fondo all’acqua, incerta\
+e lucida, il cui velo nero\
+nessun idrometra più\
+pattinerà – nessuna\
+libellula sorvolerà\
+nel deserto, intero.\
+:::
+
+<br/>  
+
+---
+
+Он мне не ответил
+Я писал ему много раз.\
+Он мне так и не ответил.\
+Я верю, что он умер. Я не думаю,\
+что он от меня прячется.
+
+<br/>
+
+::: {.italian}
+Non mi ha risposto
+Gli ho scritto tante volte.\
+Non mi ha mai risposto.\
+Io credo che sia morto. Non penso\
+che si tenga nascosto\
+:::
+
+<br/>  
+
+---
+
+**Состояние**
+
+Человек одинок,\
+он заперт в своей комнате.\
+Со всеми своими доводами.\
+Всеми своими ошибками.\
+Один в пустой комнате,\
+чтобы говoрить.\
+С мертвыми.
+
+<br/>
+
+::: {.italian}
+**Condizione**
+
+Un uomo solo,\
+chiuso nella sua stanza.\
+Con tutte le sue ragioni.\
+Tutti i suoi torti.\
+Solo in una stanza vuota,\
+a parlare. Ai morti\
+:::
+
+<br/>  
+
+---
+
+**Морозной ночью 17 декабря**
+
+....человек, который ночью, один,\
+в «замороженном декабре»,\
+толкает калитку и возвращается обратно,\
+один со своими вздохами.....
+
+<br/>
+
+::: {.italian}
+**In una notte d’un gelido 17 Dicembre**
+
+....l'uomo che di notte, solo,\
+nel "gelido dicembre",\
+spinge il cancello e rientra\
+solo nei suoi sospiri.....\
+:::
+
+

@@ -1,12 +1,12 @@
 # Винченцо Пизану
 
-> Винченцо Пизану (Vincenzo Pisanu) родился 7 мая 1945 года в Урасе, в провинции Ористано, Сардиния. Всегда связанный с культурными событиями Сардинии, он предпринял первые инициативы по защите сардинской поэзии и языка, организуя литературные премии, сольные концерты и дебаты, радиопередачи. Eго стихи (как на сардинском так и на итальянском) неоднократно получали высочайшее одобрение жюри и самые представительные премии.\
-> \
-> (1945)
+> род. 1945
+>
+> *Винченцо Пизану (Vincenzo Pisanu) родился 7 мая 1945 года в Урасе, в провинции Ористано, Сардиния. Всегда связанный с культурными событиями Сардинии, он предпринял первые инициативы по защите сардинской поэзии и языка, организуя литературные премии, сольные концерты и дебаты, радиопередачи. Eго стихи (как на сардинском так и на итальянском) неоднократно получали высочайшее одобрение жюри и самые представительные премии.*
 
 **Как дождь**
 
-Это как дождь внезапный -\
+Это как дождь внезапный –\
 вдруг окатит тебя\
 неожиданно и,\
 медленно просачиваясь, насквозь пропитает.\
@@ -19,9 +19,9 @@
 молчание твоё в моем пенье,\
 и вкус прощания, который мы оба уже ощущаем,\
 и тоска по "люблю тебя", что уже стала болью.\
-Она как дождь -\
+Она как дождь –\
 эта любовь, что еще не созрела,\
-нежная, отвергнутая, запретная -\
+нежная, отвергнутая, запретная –\
 даже попробовать мы её не успели.\
 Это желание бесконечного,\
 скрытое в улетаютающих каплях,\
@@ -31,7 +31,7 @@
 к своему устью, что растворяется в море.\
 Это дождь слёз, что сдерживать надо\
 не показав никому, как тебе больно.\
-Дождь - это в воздухе пыль из любви,\
+Дождь – это в воздухе пыль из любви,\
 что въедается в поры и кожу\
 из воды, которая есть ты сама,\
 из этой жажды моей,\
@@ -39,7 +39,54 @@
 Хочу тебя, хочу бесконечно.\
 Три часа, но ещё я не сплю...\
 Прости же за то\
-что в тебя я влюбился.
+что в тебя я влюбился.\
+
+<br/>
+
+::: {.italian}
+**Come la pioggia**
+
+E’ come la pioggia\
+che cade improvvisa,\
+discende inattesa,\
+penetra lentamente, ti pervade.\
+E’ come la pioggia\
+che cade serena, trascina nella piena\
+di veloci rigagnoli impazziti\
+ciottoli levigati\
+dall’impetuosità della corrente.\
+Un sasso nella mente\
+sarà il silenzio tuo nel canto mio,\
+nel gusto dell’addio che già sentiamo,\
+nei mancati «ti amo» è già dolore.\
+E’ come la pioggia\
+quest’amore immaturo,\
+non cercato, tenero,\
+respinto, proibito.\
+E’ voglia d’infinito\
+nelle gocce che vanno,\
+forse verrà un’altr’anno\
+o forse mai.\
+E’ la pioggia che scorre quando andrai\
+limpida alla tua foce che disperde a mare.\
+E’ pioggia il pianto che devi contenere\
+celato in percezioni di dolore.\
+E’ pioggia\
+questo pulviscolo d’amore\
+penetrato nei pori e nella pelle\
+per l’acqua che tu sei,\
+per questa sete mia\
+voglian tutte le stelle…\
+Lo voglia tu, lo voglia l’infinito.\
+Ore tre,\
+non ho ancora dormito…\
+Scusami se mi sono\
+innamorato di te.\
+:::
+
+---
+
+<br/>
 
 **Подруга**
 
@@ -76,30 +123,73 @@
 первые дожди\
 смешаются с пылью\
 и земля станет\
-просто грязью.
+просто грязью.\
+
+<br/>
+
+::: {.italian}
+**Amica**
+
+Non cogliere\
+con le mani protese\
+l’ultima rosa bianca\
+dal mio ramo,\
+ti pungeresti…\
+Non carezzare\
+con la tua veste rosa\
+le mie fronde ingiallite,\
+sarebbe\
+lacerare un ricamo.\
+Non frugare\
+per gioco crudele\
+sotto la mia terra arsa,\
+troveresti\
+una sorgente di lacrime,\
+ti bagneresti…\
+Non strappare\
+con un attimo fugace\
+l’ultimo velo di dolcezza\
+rimasto, mi lasceresti\
+soltanto l’amarezza\
+di un muro d’ombra,\
+ultima perla nera\
+del mio scrigno.\
+Cammina leggera\
+sopra le mie radici povere\
+e passa…\
+Il profumo che senti\
+non è primavera,\
+svanirebbe nel vento\
+quando le prime piogge\
+bagnano la polvere,\
+e la terra\
+diventerebbe fango.\
+:::
+
+---
+
+<br/>
 
 **Должен же прибыть поезд**
 
 Должен же прибыть\
 поезд\
-откуда-нибудь.
-
+откуда-нибудь.\
 Поезд, что мчится\
 навстречу ветру,\
 между дюн\
 щёгольски извиваясь.\
 Только я увижу его\
 в этой гуще пьес,\
-где мы все играем.
-
-Расписанием для него будет солнце,\
+где мы все играем.\
+Расписанием для него\
+будет солнце,\
 путевым листом будет\
 вечность,\
 меж товарных и скорых\
 он проследует\
 в молчании,\
-куда его душа направит.
-
+куда его душа направит.\
 Должно же быть\
 место, где все\
 пути скрестятся,\
@@ -107,9 +197,43 @@
 мы из снов въедем,\
 где услышим вальс,\
 что больше не играют,\
-и где, может быть, снова
+и где, может быть, снова\
+я смогу танцевать с тобою.\
 
-я смогу танцевать с тобою.
+<br/>
+
+::: {.italian}
+**Ci sarà pure, un treno**
+
+Ci sarà pure,\
+un treno\
+da qualche parte. Un treno per andare\
+incontro al vento\
+che sfila sinuoso\
+tra le dune.\
+Solo io lo vedrò\
+tra teatri\
+e spettacoli di genti. Viaggerà\
+nell’orario del solstizio,\
+sarà foglio di corsa\
+l’eternità,\
+tra convogli e convogli\
+di silenzi\
+addossati\
+alle pareti dell’anima. Ci sarà pure,\
+un punto per incrociare\
+il tutto all’essenziale\
+all’arrivo del sogno,\
+sull’arcata del ponte\
+dove si sente un valzer\
+che non si suona più\
+e che forse si può\
+ballare ancora con te.\
+:::
+
+---
+
+<br/>
 
 **Акварель (только ты)**
 
@@ -136,8 +260,43 @@
 в отчаянии сжатых, переплетенных,\
 чтоб удержать подступившие слезы,\
 закат наступает\
-момент за моментом.
-
+момент за моментом.\
 Только ты\
 в этом дыхании ветра,\
-только ты.
+только ты.\
+
+<br/>
+
+::: {.italian}
+**Acquerello (tu soltanto)**
+
+In questo filo di vento\
+che avvolge, tu soltanto\
+nell’abbraccio invisibile che scioglie\
+freddi pensieri. Al tramenar di foglie,\
+tra danze di fuggenti ombre pastello\
+giocan gocce di sole, cadute sul cancello\
+a formare ricami e chiaroscuri.\
+Tu soltanto, nelle crepe sui muri\
+scritte righe di lettere d’amore.\
+Tra l’edera e il gradino, lieve rossore\
+di coccio, al timido spuntare del trifoglio.\
+Tu soltanto, è solo te che voglio\
+dentro quest’aria fresca che mi stringe\
+tra terra e cielo, al tuo seno che spinge\
+al mio caldi morbidi pani\
+rigonfi e generosi. Sulle mani,\
+sul corpo e dentro il cuore, viva ti sento.\
+Tu soltanto in questo filo di vento\
+tenue come la vita ,\
+grande come la forte stretta delle dita\
+disperata, intrecciata a trattenere\
+nel sapore del pianto,\
+l’andare del tramonto\
+momento per momento.\
+Tu soltanto\
+in questo filo di vento,\
+tu soltanto.\
+:::
+
+---

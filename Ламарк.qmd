@@ -1,9 +1,11 @@
 # Вивиан Ламарк
 
-> Вивиан Ламарк (Vivian Lamarque) известнa не только своими стихами, но и сказками для детей. Онa преподавалa итальянский язык иностранцам и литературу в частных лицеях, переводила на итальянский Лафонтена, Валери, Превера, Бодлера. С 1992 года пишет для газеты Вечерний Курьер. Луреат многочисленных премий за ее поэзию и прозу, в том числе очень престижной премии Стрега за ее последний сборник стихов L’amore da vecchia (Любовь Старухи) и премию Джанни Радари за ее сказки.
+> род. 1946
 >
-> (род. 1946)
+> *Вивиан Ламарк (Vivian Lamarque) известнa не только своими стихами, но и сказками для детей. Онa преподавалa итальянский язык иностранцам и литературу в частных лицеях, переводила на итальянский Лафонтена, Валери, Превера, Бодлера. С 1992 года пишет для газеты Вечерний Курьер. Лауреат многочисленных премий за ее поэзию и прозу, в том числе очень престижной премии Стрега за ее последний сборник стихов L’amore da vecchia (Любовь Старухи) и премию Джанни Радари за ее сказки.*
 
+<br/>\
+\
 **Кондоминиум**
 
 Тихо спускаюсь, внизу\
@@ -23,9 +25,38 @@
 Он был добр, он стоял у окна, у него была канарейка,\
 у него была своя доля в кондоминиуме,\
 смотри, у него пробиваются крылья.\
-\
 
-**Кто знает, будет ли со мной мой любимый...**
+<br/>
+
+::: italian
+**Condomino**
+
+Cammino piano, qua sotto\
+al terzo piano dorme un condomino\
+morto. E’ tornato morto stasera\
+dall’ospedale, gli hanno salito\
+le scale, gli hanno aperto la porta\
+anche senza suonare, ha usato\
+per l’ultima volta il verbo\
+entrare. Ha dormito con noi altri condomini\
+essendo notte sembrava a noi uguale\
+ha dormito otto ore ma poi ancora\
+e ancora e ancora oltre la tromba\
+mattutina dei soldati, oltre il sole\
+alto nel cielo, ora che noi ci muoviamo\
+non è più a noi uguale. E’ un condomino\
+morto. Scenderà senza piedi le scale.\
+Era gentile, stava alla finestra\
+aveva un canarino, aveva i suoi millesimi\
+condominiali, guarda gli stanno spuntando\
+le ali.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+\*\*\*
 
 Кто знает, будет ли со мной мой любимый,\
 когда я окажусь на грани смерти,\
@@ -34,9 +65,26 @@
 ведь это в последний раз,\
 и чтобы он говорил мне какие-то трогательные вещи,\
 например, мне так жалко, что ты умираешь.\
-\
 
-**Мой любимый, кто знает какие фартучки**
+<br/>
+
+::: italian
+\*\*\*
+
+Chissà se l’amore mio ci sarà\
+quando sarò in punto di morte\
+mi piacerebbe tanto di sì\
+e che mi stesse vicino vicino\
+tanto è l’ultima volta\
+e che mi dicesse delle cose commoventi\
+per esempio mi spiace molto che tu muoia.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+\*\*\*
 
 Мой любимый, кто знает, какие фартучки\
 ты носил, когда был маленький,\
@@ -44,7 +92,20 @@
 мой любимый, знать бы мне,\
 когда ты был маленький, где ты,\
 тебя бы украла.\
-\
+
+<br/>
+
+::: italian
+\*\*\*
+
+l’amore mio quando era bambino\
+chissà che grembiulini metteva\
+e se era un bambino buono o così così\
+l’amore mio quando era bambino\
+se sapevo dov’era me lo rubavo\
+:::
+
+------------------------------------------------------------------------
 
 **Господин на дне моря**
 
@@ -54,16 +115,49 @@
 Да, рыбы смотрели на господина даже после того,\
 как он выходил из моря, и даже спустя много лет\
 они его вспоминали.\
-\
 
-**Господин в сердце**\
-Он вошел в ее сердце.\
+<br/>
+
+::: italian
+**Il signore in fondo al mare**
+
+Un signore qualche volta andava in fondo al mare,\
+a vedere i diversissimi pesci che li passavano.\
+I pesci si accorgevano?\
+Sì, i pesci guadavano il signore e anche dopo \
+che era uscito dal mare, anche dopo\
+tanti anni, se lo ricordavano.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+**Господин в сердце**
+
+Он вошел в её сердце.\
 Пройдя сквозь глаза и уши\
 он вошел в её сердце.\
 И что он там делал?\
 Жил.\
 Он жил в её сердце как дома.\
-\
+
+<br/>
+
+::: italian
+**Il Signore nel Cuore**
+
+Le era entrato nel cuore.\
+Passando dalla strada degli occhi e delle orecchie\
+le era entrato nel cuore.\
+E lì cosa faceva?\
+Stava.\
+Abitava il suo cuore come una casa.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 **Господин напротив**
 
@@ -71,19 +165,48 @@
 От них справа/слева было окно, от них слева/справа была дверь.\
 Там не было зеркал, однако в этой комнате\
 они полностью отражались друг в друге.\
-\
+
+<br/>
+
+::: italian
+**Il signore di fronte**
+
+Era un signore seduto di fronte a una signora seduta di fronte a lui.\
+Alla loro destra/sinistra c’era una finestra, alla loro sinistra/destra c’era una porta.\
+Non c’erano specchi, eppure in quella stanza, profondamente, ci si specchiava.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 **Господин точечка**
 
 Не было у неё возможности всегда его видеть,\
 и когда она наконец могла смотреть на него,\
-то смотрела долго долго, до последней минуты,\
+то смотрела долго-долго, до последней минуты,\
 до самой последней секунды, и даже после того,\
 как он отвернулся, как он отвернулся.\
-Господин становился все меньше и меньше, он был\
+Господин становился всё меньше и меньше, он был\
 уже почти нераспознаваем, но она его прекрасно узнавала,\
 даже в виде крошечной точeчки там внизу.\
-\
+
+<br/>
+
+::: italian
+**Il signore puntino**
+
+Non potendolo vedere sempre, quando infine poteva vederlo lo\
+guardava moltissimo, fino all’ultimo minuto, fino all’ultimo\
+secondo, e anche dopo si voltava indietro, si voltava indietro.\
+Il signore diventava sempre più piccolo, ormai era quasi del\
+tutto irriconoscibile, eppure lei lo riconosceva benissimo,\
+anche sottoforma di minuscolo puntino laggiù.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 **Господин спокойной ночи**
 
@@ -91,12 +214,29 @@
 она желала ему спокойной ночи.\
 Была ли луна?\
 О да, и луна, и тысячи звёзд, и ветви деревьев, и\
-спящие воды, все вместе они желалали ему спокойной ночи.\
-A слышал ли их господин?\
+спящие воды — все вместе они желали ему спокойной ночи.\
+А слышал ли их господин?\
 Да, хоть еле-еле и уже засыпая, господин их всё-таки слышал.\
-\
 
-**Господин который ушел**
+<br/>
+
+::: italian
+**Il signore della buonanotte**
+
+Da un letto lontano con tutta la migliore stessa buonanotte\
+gli augurava.\
+C’era la luna?\
+Oh sì, la luna e anche le mille stelle, più le fronde degli alberi e le\
+addormentate acque, con tutto tutto buonanotte gli augurava.\
+E il signore sentiva?\
+Sì, il signore piano piano sentiva, mentre si addormentava.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+**Господин который ушёл**
 
 Он был господин, который ушёл.\
 А ей здесь так его не хватало.\
@@ -104,45 +244,123 @@ A слышал ли их господин?\
 был полон его следами.\
 Вот так перевешанная картина\
 стену помечает навечно.\
-\
+
+<br/>
+
+::: italian
+**Il signore andato via**
+
+Era un signore andato via.\
+A lei qui rimasta tantissimo mancava.\
+La traccia da lui lasciata segnava ovunque\
+intorno a lei l'aria.\
+Come un quadro spostato\
+per sempre segna la parete.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 **Снежная дама**
 
 Снег шёл и шёл, и дама очень любила господина.\
 Снег ложился на город, а любовь дамы ложилась на господина.\
-Днём и ночью шёл снег, a дама днём и ночью укрывала гоподина своей любовью.\
+Днём и ночью шёл снег, а дама днём и ночью укрывала господина своей любовью.\
 Наполовину занесённые город и господин,\
 замученные нескончаемыми снегопадом и любовью,\
 ждали весны.\
-\
+
+<br/>
+
+::: italian
+**La signora della neve**
+
+Nevicava tanto, una signora voleva tanto bene a un signore.\
+La neve si posava sulla città, il bene della signora si posava sul signore.\
+Nevicava di giorno e di notte, di giorno e di notte la signora voleva bene al signore.\
+La città e il signore, semisommersi, subivano la neve e il bene immobili,\
+aspetavano la primavera.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 **Дама в спешке**
 
-Навсегда сталo теперь очень коротким.\
+Навсегда стало теперь очень коротким.\
 Сколько осталось рождественских праздников?\
-Гoрстка.\
-Значит она не должна была терять ни минуты?\
+Горстка.\
+Значит, она не должна была терять ни минуты?\
 Да, ей нужно было торопиться,\
 и из-за этого она поспешно его любила.\
-\
+
+<br/>
+
+::: italian
+**La signora in fretta**
+
+Il per sempre era ormai cortissimo diventato.\
+Quanti Natali erano rimasti?\
+Una manciata.\
+Allora bisognava non sprecare nemmeno un minuto?\
+Sì, bisognava spicciarsi, per questo lei, in fretta,\
+lo adorava.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 **По окончании отпуска**
 
-Отпуск заканчивается, из поездa виднo,\
+Отпуск заканчивается, из поезда видно,\
 как люди на пляже продолжают играть и купаться,\
-их отпуск еще не закончен:\
+их отпуск ещё не закончен:\
 также ли будет, также ли будет при уходе из жизни?\
-\
+
+<br/>
+
+::: italian
+**A vacanza conclusa**
+
+A vacanza conclusa dal treno vedere\
+chi ancora sulla spiaggia gioca si bagna\
+la loro vacanza non è ancora finita:\
+sarà così sarà così lasciare la vita?\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 **Госпожа последнего раза**
 
-Когда он видел ее в последний раз,\
-он не знал, что видит ее в последний раз.\
+Когда он видел её в последний раз,\
+он не знал, что видит её в последний раз.\
 А почему?\
 Потому что таких вещей никогда не знаешь.\
 И что же, он не был к ней добр в последний раз?\
 Был, но на вечность этого не хватает.\
-\
+
+<br/>
+
+::: italian
+**La signora dell’ultima volta**
+
+L’ultima volta che la vide\
+non sapeva che era l’ultima volta che la vedeva.\
+Perché?\
+Perché queste cose non si sanno mai.\
+Allora non fu gentile quell’ultima volta?\
+Sì, ma non a sufficienza\
+per l’eternità.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 **Повелитель сна**
 
@@ -150,8 +368,25 @@ A слышал ли их господин?\
 так подходившие для часа молчания и поцелуев.\
 И эти так подходившие мысли, переползая с крыши на крышу,\
 добирались до него, почти охваченного сном,\
-едва не опоздав, но все-таки вовремя.\
-\
+едва не опоздав, но всё-таки вòвремя.\
+
+<br/>
+
+::: italian
+**Il signore del sonno**
+
+A ogni inizio di notte gli inviava pensieri,\
+adeguati all'ora del silenzio e dei baci.\
+E gli adeguati pensieri,\
+di tetto in tetto scivolando,\
+a lui quasi preso dal sonno giungevano,\
+appena appena in tempo,\
+quasi in ritardo.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 **Господин, который не приезжал**
 
@@ -160,32 +395,57 @@ A слышал ли их господин?\
 Почему же она его поджидала?\
 Потому что она не знала, что господин не приедет,\
 мы знали, а она нет.\
-\
 
-**Господин, у которого не было окна**
+<br/>
 
-Господин, у которого не было окна, не мог знать какая погода на улице.\
-Чтобы это узнать ему нужно было открыть дверь и выйти посмотреть.\
-Или позвонить по телефону одной госпоже и та ему все рассказывала.\
-Какая сегодня погода?\
-Сегодня идет снег, говорила госпожа господину, у которого не было окна.\
-Снежинки готовились упасть с неба тысячами, одна за другой.\
-\
+::: italian
+**Il signore che non arrivava**
+
+Alla finestra di una casa una signora aspettava sempre un signore che non arrivava.\
+E allora perché lo aspettava?\
+Perché la signora non lo sapeva che il signore non arrivava.\
+Questo lo sapevamo noi, non lei.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 **Первая моя любовь**
 
-Первая моя любовь, первая моя любовь\
+Первая моя любовь, первая моя любовь —\
 их было две разом.\
-Потому что у него был близнец – очень\
+Потому что у него был близнец — очень\
 на него похожий, и того я любила тоже.\
-Oдинаковые были первые мои любoви,\
+Одинаковые были первые мои любoви,\
 но один был повеселее, а другой,\
 рядом с братом, смотрел на меня серьёзней.\
 Вечером у окна я всегда была с этим,\
-но первая моя любовь, первая моя любовь\
+но первая моя любовь, первая моя любовь —\
 их было две разом:\
-он и его близнец – с ним рядом.\
-\
+он и его близнец — с ним рядом.\
+
+<br/>
+
+::: italian
+**Il primo mio amore**
+
+Il primo mio amore, il primo mio amore\
+erano due.\
+Perché lui aveva un gemello\
+e io amavo anche quello.\
+Il primo mio amore erano due uguali\
+ma uno più allegro dell’altro\
+e l’altro più serio a guardarmi\
+vicina al fratello.\
+Alla finestra di sera stavo sempre con quello\
+ma il primo mio amore, il primo mio amore\
+erano due: lui e suo fratello gemello.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 **Для моего жениха**
 
@@ -199,9 +459,160 @@ Oдинаковые были первые мои любoви,\
 мы встретимся,\
 на этой дороге\
 мы поцелуемся.\
-\
 
-**Смотри: спящие животные**
+<br/>
+
+::: italian
+**Al mio fidanzato**
+
+Al mio fidanzato\
+preparo una sciarpa\
+ma lunga lunga\
+ma bianca bianca.\
+Preparo una sciarpa\
+come un sentiero\
+su quel sentiero\
+ci incontreremo\
+su quel sentiero\
+ci baceremo.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+**Потерявшиеся дети**
+
+Ночью потерявшиеся\
+в лесу дети кричали,\
+чтобы их нашли.\
+А разве не было звёзд?\
+Звёздами были волчьи глаза.\
+И луны не было?\
+Луной были волчьи челюсти.\
+А потерявшиеся дети были напуганы?\
+Да, они подняли такой крик,\
+что разбудили уснувших зверей.\
+
+<br/>
+
+::: italian
+**I bambini persi**
+
+Nelle notti nei boschi\
+i bambini persi chiamavano\
+per essere trovati.\
+Non c'erano le stelle?\
+Le stelle erano gli occhi dei lupi.\
+Non c'era la luna?\
+La luna era le fauci dei lupi.\
+I bambini persi erano spaventati?\
+Sì, chiamavano tanto.\
+Svegliavano gli animali addormentati.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+**Благословенная госпожа**
+
+О, как благословенна госпожа, всегда-всегда проводящая рождественскую ночь с этим господином.\
+Она — да, а другие-то госпожи, небось, нет?\
+Именно так.\
+Все-все оставались по ту сторону запертых на ключ дверей и окон в рождественскую ночь, принадлежащую только им.\
+
+<br/>
+
+::: italian
+**La signora beata**
+
+Oh beata quella signora che la notte di Natale stava sempre\
+sempre con quel signore.\
+Lei sì e le altre signore no?\
+Proprio così.\
+Tutte tutte erano chiuse a chiave fuori dalle porte e dalle finestre della loro personale notte di Natale.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+**Орешки, орешки**
+
+Этим летом моя дочка\
+торговала орешками,\
+которые выковыривала из шишек,\
+падающих с пиний.\
+Она сидела на земле\
+и повторяла: орешки, орешки, десять лир.\
+
+<br/>
+
+::: italian
+**Pinoli, pinoli**
+
+Mia figlia quest’estate\
+vendeva i pinoli\
+che prendeva dalle pigne\
+che cadevano dai pini\
+si sedeva per terra\
+e diceva pinoli pinoli dieci lire\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+**Господин в лихорадке**
+
+Когда он заболел, его лечила одна старушка, которой было сто лет, но она их никак не демонстрировала.\
+Три раза в день старушка прикладывалась губами к его лбу, чтобы оценить лихорадку и отослать её подальше.\
+Старушка втайне любила господина в лихорадке, но так как ей уже было сто лет, то она скромно эту любовь скрывала.\
+
+<br/>
+
+::: italian
+**Il signore della febbre**
+
+Quando si ammalava, lo curava una vecchina che aveva cento anni ma non li dimostrava.\
+Tre volte al giorno la vecchina gli posava le labbra sulla fronte, per misurargli\
+la febbre e portargliela via.\
+La vecchina voleva segretamente bene al signore della febbre ma, poiché aveva cento anni, pudicamente non lo rivelava.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+**Счастливая госпожа**
+
+Она его очень любила и, когда его видела, была счастлива.\
+А когда не видела?\
+Когда не видела, то думала о том, как его видела или увидела бы, и поэтому была счастлива.\
+А ночью?\
+Ночью он ей снился таким, как есть, таким, как он был бы днём,\
+поэтому она была счастлива.\
+
+<br/>
+
+::: italian
+**La signora felice**
+
+Poiché gli voleva tanto bene, quando lo vedeva era felice.\
+E quando non lo vedeva?\
+Quando non lo vedeva pensava a quando l'aveva o l'avrebbe\
+visto, quindi era felice.\
+E la notte?\
+La notte lo sognava tale e quale, come fosse giorno,\
+quindi era felice.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+\*\*\*
 
 Смотри:\
 спящие животные,\
@@ -209,13 +620,33 @@ Oдинаковые были первые мои любoви,\
 луговой травой.\
 А солнце заметило,\
 что некоторых уже нет?\
-А ты, луна умеешь считать?\
+А ты, луна, умеешь считать?\
 Ты замечаешь, что общее число\
 вернувшихся сегодня вечером\
 другое?\
-\
 
-**Птичьи Домики**
+<br/>
+
+::: italian
+\*\*\*
+
+Guarda:\
+gli animali addormentati\
+sono diventati erba\
+erba di prato.\
+Si è accorto il sole\
+che non ci sono più?\
+E tu luna sai contare?\
+Lo vedi che\
+non torna più questa notte\
+il loro totale?\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+**Птичьи домики**
 
 Птичьи домики не портят пейзаж.\
 Они ничего не весят, у них цвет деревьев\
@@ -226,18 +657,37 @@ Oдинаковые были первые мои любoви,\
 вы складываете крылья, которые ничего не весят,\
 вы отдыхаете, чтобы завтра снова начать –\
 летать.\
-\
+
+<br/>
+
+::: italian
+**Le case degli uccelli**
+
+Le case degli uccelli non nuocciono al paesaggio.\
+Non pesano niente, hanno il colore degli alberi\
+e non perdono mai di vista il cielo\
+né la terra, né il tra cielo e terra.\
+Ci si entra senza chiavi, muniti solo di ali\
+ci si posa, si chiudono piccoli occhi\
+si piegano ali che non pesano niente\
+e ci si riposa, per domani ricominciare –\
+a volare.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
 
 **Если на обратной стороне фотографий**
 
 Если мы не напишем имена и фамилии\
 на обратной стороне фотографий,\
 то уже через два поколения,\
-это все превратится в хор,\
+это всё превратится в хор,\
 бесконечный хор людей,\
 склоняющихся над фотографиями,\
 чтобы восклицать: и этот? а это та? а это\
-ребенок? брат? кузен? но чей?\
+ребёнок? брат? кузен? но чей?\
 Через широко открытые окна\
 бесконечные эхо от вопрошающих\
 восклицаний разнесутся в воздухе —\
@@ -245,20 +695,34 @@ Oдинаковые были первые мои любoви,\
 дальний дядя? дальняя тётя?\
 Но какой дядя и какая тётя?!\
 Это была я, я, я!\
-Я - фотография моя!\
-\
+Я — фотография моя!\
 
-**Это почти легко**
+<br/>
 
-Сочинить стихотворение\
-это почти легко,\
-достаточно взять листок бумаги\
-и карандаш,\
-это также легко, как для земли сотворить\
-травинку или ромашку.\
-\
+::: italian
+**Se dietro le fotografie**
 
-**Эти ракушки**
+Se dietro le fotografie non scriviamo nomi\
+e cognomi, già nel giro di due\
+generazioni sarà tutto un coro\
+un infinito coro di chini sulle foto\
+a dire e questo? e questa? e questo\
+bambino? fratello? cugino? ma di chi?\
+Nelle stagioni delle finestre spalancate\
+usciranno nell’aria infiniti echi\
+di domande, di punti di domande.\
+E questo? e questa? forse uno zio\
+lontano? una lontana zia?\
+Ma quale zio e zia!\
+Ero io io io!\
+Sono io la mia fotografia!\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+\*\*\*
 
 Этими ракушками, что я нашла,\
 станем мы,\
@@ -266,4 +730,51 @@ Oдинаковые были первые мои любoви,\
 уже без разноцветной боли,\
 нами будут накрывать уши,\
 чтобы слушать шум моря.\
-\
+
+<br/>
+
+::: italian
+\*\*\*
+
+Queste conchiglie che ho trovato\
+saremo noi\
+noi acquietati levigati\
+senza più dolori\
+di bei colori\
+poseranno le orecchie su di noi\
+per ascoltare\
+che rumore fa\
+il mare.\
+:::
+
+------------------------------------------------------------------------
+
+<br/>
+
+\*\*\*
+
+Мы ему дали прозвище аквилоне.\
+Его так не звали,\
+но прозвище аквилоне было дано\
+потому, что стоило ему появиться на лугу,\
+как нам казалось, что он качается на волнах,\
+а когда, ещё издали, он видел Марию,\
+то нам казалось, что он сейчас взлетит,\
+подхваченный ветром и эмоциями.\
+
+<br/>
+
+::: italian
+\*\*\*
+
+Era detto aquilone\
+Non si chiamava così\
+ma era detto aquilone\
+perché quando appariva nel campo di erba\
+sembrava ondeggiare\
+e quando vedeva da lontano Maria\
+pareva innalzarsi\
+portato dal vento e dall’emozione.\
+:::
+
+------------------------------------------------------------------------

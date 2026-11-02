@@ -2,20 +2,31 @@ project:
   type: book
 
 book:
+  navbar:
+    left:
+      - text: "Стихи"
+        href: index.qmd
+      - text: "Купить книгу"
+        href: book.qmd
+
   sidebar:
     title: "Переводы с итальянского Александра Фейгина"
     search: false
     style: floating
   title: "Современная Итальянская Поэзия"
-  subtitle: "Переводчик и состовитель: Александр Фейгин"
+  subtitle: "Переводчик и состaвитель: Александр Фейгин"
   chapters:
     - index.qmd
     - Говони.qmd
     - Монтале.qmd
+    - Бертолуччи.qmd
     - Капрони.qmd
+    - Мениканти.qmd
     - Рабони.qmd
     - Пекора.qmd
     - Лолини.qmd
+    - Прете.qmd
+    - Порта.qmd
     - Пьерсанти.qmd
     - Конте.qmd
     - Пизану.qmd
@@ -25,10 +36,11 @@ book:
     - Трави.qmd
     - Фьори.qmd
     - Мари.qmd
-    - Бенедетти.qmd
+    - Пустерла.qmd
     - Арминио.qmd
     - Риккарди.qmd
     - Наццаро.qmd
+    - Скарпа.qmd
     - Корафильо.qmd
     - Томада.qmd
     - Нове.qmd
@@ -37,10 +49,12 @@ book:
     - Дженти.qmd
     - Эван.qmd
     - Галлони.qmd
+    - book.qmd
     
 format:
   html:
     theme: cosmo
+    css: styles.css
     linestretch: 1.5
     number-sections: false
     toc: true
@@ -48,7 +62,4 @@ format:
     toc-title: Содержание
     mainfont: monospace
 
-
-
-editor: visual
 
