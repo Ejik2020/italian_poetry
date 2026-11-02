@@ -2,6 +2,7 @@ project:
   type: book
 
 book:
+  site-url: https://www.alexfeigin.com/
   navbar:
     left:
       - text: "Стихи"

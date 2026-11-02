@@ -55,9 +55,9 @@ One-time repository settings:
    Confirm `main` appears in the allowed list. The historical `gh-pages` rule
    can remain; it does not cause the new workflow to publish from that branch.
 
-Keep the custom domain unset until the repository
-URL has been verified. The site URL is:
-<https://ejik2020.github.io/italian_poetry/>.
+The published site is <https://www.alexfeigin.com/>. The original repository
+URL, <https://ejik2020.github.io/italian_poetry/>, redirects to the custom domain.
+`book.site-url` in `_quarto.yml` records the published address.
 
 `gh-pages` is retained as historical output, but the new workflow does not write
 to it. Do not also run `quarto publish gh-pages` or deploy from a branch. Old
@@ -81,11 +81,17 @@ the workflow. A pending environment approval must be handled in GitHub.
 Use the deployment job's URL and confirm its commit before checking browser
 caches. Never force-push as a publication repair.
 
-## Custom domain (deferred)
+## Custom domain
 
-After verifying the repository URL, connect `www.alexfeigin.com` in Pages
-settings and configure its DNS with the domain provider. First inspect the
-provider, existing records, email records, and any existing website redirects.
-Decide how the bare `alexfeigin.com` should reach `www`, enable HTTPS once the
-certificate is ready, and verify both names. No domain file or DNS change is
-part of the initial migration.
+DNS is managed at IONOS. GitHub Pages settings use `www.alexfeigin.com` as the
+custom domain, with HTTPS enforced. The `www` CNAME points to
+`ejik2020.github.io` (no repository path). The bare domain retains GitHub Pages
+A records: `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, and
+`185.199.111.153`; GitHub redirects it to `www`.
+
+Keep the `_github-pages-challenge-Ejik2020` TXT record used for account-level
+domain verification, and preserve all MX and other email records. With Actions
+publication, GitHub's custom-domain setting controls the binding; a repository
+`CNAME` file is not required. Check both names, the introduction, purchase page,
+and a Cyrillic chapter after domain changes. If a previously failing root URL
+still returns a cached 404 while `/index.html` works, republish and recheck it.
