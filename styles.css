@@ -420,6 +420,13 @@ html {
   margin:0 0 5px;
   cursor:pointer
 }
+/* Keep keyboard focus visible without boxing in the poet-navigation heading. */
+.sidebar-heading:focus-visible {
+  outline:none;
+  text-decoration:underline;
+  text-decoration-thickness:1px;
+  text-underline-offset:5px;
+}
 .sidebar-heading span {
   font:500 17px/1.4 'Literata',Georgia,serif
 }

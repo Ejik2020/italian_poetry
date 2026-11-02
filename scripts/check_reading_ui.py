@@ -142,15 +142,15 @@ with sync_playwright() as p:
     page.locator('.nav-page-previous a').click()
     page.wait_for_url('**/*html')
     assert 'Капрони' in page.title()
-    # Persistence across pages and refresh.
+    # Font size persists; each chapter and refresh starts in parallel mode.
     page.locator('.reading-modes [data-mode="translation"]').click()
     page.locator('.font-up').click()
     page.goto(base + quote('Ламарк') + '.html')
-    assert page.locator('.reading').get_attribute('data-mode') == 'translation'
+    assert page.locator('.reading').get_attribute('data-mode') == 'parallel'
     assert page.locator('.font-control output').inner_text() == '21'
     page.reload()
     assert page.locator('.font-control output').inner_text() == '21'
-    assert page.locator('.reading').get_attribute('data-mode') == 'translation'
+    assert page.locator('.reading').get_attribute('data-mode') == 'parallel'
     assert page.locator('.readingbar').get_attribute('lang') == 'ru'
     # Mobile drawer, keyboard close, and in-chapter navigation.
     page.set_viewport_size({'width': 390, 'height': 844})
@@ -164,12 +164,20 @@ with sync_playwright() as p:
     page.locator('#quarto-sidebar a').filter(has_text='Гвидо Каталано').click()
     page.wait_for_url('**/*html')
     assert 'Каталано' in page.title()
+    # Focus remains visible without the rectangular heading outline.
+    page.locator('.sidebar-switch').click()
+    page.keyboard.press('Tab')
+    page.locator('.sidebar-heading').focus()
+    assert page.locator('.sidebar-heading').evaluate('(e)=>getComputedStyle(e).outlineStyle') == 'none'
+    assert 'underline' in page.locator('.sidebar-heading').evaluate('(e)=>getComputedStyle(e).textDecorationLine')
     # All chapters remain accessible, including translation-only Pusterla.
     for source in Path('.').glob('*.qmd'):
+        page.evaluate("localStorage.setItem('edition-mode','translation')")
         response=page.goto(base + quote(source.stem) + '.html')
         assert response.status == 200, source
         assert page.locator('main').inner_text().strip(), source
         if source.stem not in ['index','book']:
+            assert page.locator('.reading').get_attribute('data-mode') == 'parallel', source
             assert page.locator('.nav-page-previous a').is_visible(), source
             assert page.locator('.nav-page-next a').is_visible(), source
             assert page.locator('.chapter-arrow').count() == 2, source

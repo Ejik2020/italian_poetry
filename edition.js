@@ -14,8 +14,8 @@
     get(k) {try {return localStorage.getItem(k);} catch {return null;}},
     set(k,v) {try {localStorage.setItem(k,v);} catch { /* Preferences are optional. */ }}
   };
-  let mode = storage.get('edition-mode');
-  if (!['parallel','translation','stacked'].includes(mode)) mode = 'parallel';
+  // Every chapter starts side by side; readers can switch modes within it.
+  let mode = 'parallel';
   const saved = Number(storage.get('edition-size') || 17);
   let size = Number.isFinite(saved) ? Math.max(16,Math.min(30,Math.round(saved))) : 17;
   const entryURL = new URL(location.href);
@@ -71,10 +71,10 @@
     $('main').append(pageNavigation);
   }
   function reflow() {reading.dataset.reflow = String(mode === 'parallel' && reading.clientWidth < size*39);}
-  function setMode(value,persist=true) {
+  function setMode(value) {
     mode=value;reading.dataset.mode=mode;
     $$('.reading-modes button').forEach(b => b.setAttribute('aria-pressed',String(b.dataset.mode===mode)));
-    if(persist) storage.set('edition-mode',mode);reflow();
+    reflow();
   }
   function setFont(value,persist=true) {
     size=Math.max(16,Math.min(30,value));document.documentElement.style.setProperty('--font-size',size+'px');
@@ -116,6 +116,6 @@
     }
   });
   mobile.addEventListener('change',applySide);new ResizeObserver(reflow).observe(reading);
-  setMode(mode,false);setFont(size,false);applySide();
+  setMode(mode);setFont(size,false);applySide();
   if(showPoets) openPoets();
 })();
