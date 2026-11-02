@@ -69,7 +69,8 @@ Italian text has been reconstructed, added, or removed.
 - Smaller poet/Home headings, with additional clearance before the Latin name.
 - Default verse size: 17 px; explicit saved size preferences still persist.
 - Compact segmented reading modes, visually separate from main navigation.
-- The «Стихи» dropdown is removed. Size controls use a small bottom reading dock.
+- The «Стихи» dropdown is removed. Size controls sit below the desktop poet-list heading, with a small bottom
+  reading dock on mobile or when the list is collapsed.
 - Tighter spacing in the desktop poet list.
 - Text, punctuation, stanza boundaries, line breaks, links, and images remain unchanged.
 

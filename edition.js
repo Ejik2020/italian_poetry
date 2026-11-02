@@ -61,7 +61,13 @@
     body.classList.remove('sidebar-mobile-open');shade.hidden=true;
     opener.setAttribute('aria-expanded',String(!mobile.matches && side));
   }
-  function applySide() {body.classList.toggle('sidebar-closed',!mobile.matches && !side);closeDrawer();reflow();}
+  function applySide() {
+    body.classList.toggle('sidebar-closed',!mobile.matches && !side);
+    const controls=$('.font-control');
+    if(!mobile.matches && side && sidebar) $('.sidebar-heading').after(controls);
+    else body.append(controls);
+    closeDrawer();reflow();
+  }
   opener.addEventListener('click',() => {
     if(mobile.matches) {
       const open=body.classList.toggle('sidebar-mobile-open');shade.hidden=!open;opener.setAttribute('aria-expanded',String(open));

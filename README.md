@@ -17,8 +17,8 @@ updates the presentation layer; see [review notes](docs/redesign-review.md).
   after their matching translations; preserve stanza paragraphs and hard breaks.
 - `edition.js` and `includes/edition.html` provide reading modes, the independent
   verse/title size control (17 px default), persistent preferences, and responsive
-  navigation. Reading modes use a segmented selector; size controls sit in a
-  small bottom reading dock.
+  navigation. Reading modes use a segmented selector; size controls sit in the
+  desktop poet navigation, with a small bottom dock on mobile.
 - `_book/` and `.quarto/` are generated and ignored. Do not edit rendered HTML.
 
 To add a poem, edit the relevant `.qmd` file using the existing poem formatting.
