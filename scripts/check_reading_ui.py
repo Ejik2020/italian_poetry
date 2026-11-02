@@ -43,6 +43,7 @@ with sync_playwright() as p:
                 bio:getComputedStyle(e.querySelector('.bio')).fontSize,
                 bioFamily:getComputedStyle(e.querySelector('.bio')).fontFamily})''')
             assert 'Source Serif 4' in invariants['bioFamily']
+            assert page.locator('.chapter-head h1').evaluate('(e)=>parseFloat(getComputedStyle(e).marginBottom)') >= 27
             if width > 760:
                 assert page.locator('#quarto-sidebar').is_visible()
             else:

@@ -1207,3 +1207,5 @@ body.poet-page #quarto-sidebar>.font-control {
   gap:14px;
 }
 #quarto-sidebar>.font-control button {padding:5px;min-width:30px;}
+/* Quarto's title-block rule has higher specificity than ordinary h1 rules. */
+.chapter-head #title-block-header h1.title {margin-bottom:32px;}
