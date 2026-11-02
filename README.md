@@ -47,8 +47,15 @@ artifact upload and deployment actions. The workflow can also be run manually
 from **Actions → Render and publish Quarto book → Run workflow** on `main`.
 No Quarto Pub token or personal access token is needed.
 
-One-time repository setting: **Settings → Pages → Build and deployment →
-Source → GitHub Actions**. Keep the custom domain unset until the repository
+One-time repository settings:
+
+1. **Settings → Pages → Build and deployment → Source → GitHub Actions**.
+2. **Settings → Environments → github-pages → Deployment branches and tags**:
+   keep **Selected branches and tags** and add a **Branch** rule named `main`.
+   Confirm `main` appears in the allowed list. The historical `gh-pages` rule
+   can remain; it does not cause the new workflow to publish from that branch.
+
+Keep the custom domain unset until the repository
 URL has been verified. The site URL is:
 <https://ejik2020.github.io/italian_poetry/>.
 
