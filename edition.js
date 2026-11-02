@@ -18,7 +18,14 @@
   if (!['parallel','translation','stacked'].includes(mode)) mode = 'parallel';
   const saved = Number(storage.get('edition-size') || 17);
   let size = Number.isFinite(saved) ? Math.max(16,Math.min(30,Math.round(saved))) : 17;
-  let side = storage.get('edition-side') !== 'closed';
+  const entryURL = new URL(location.href);
+  const showPoets = entryURL.searchParams.get('poets') === 'open';
+  let side = showPoets || storage.get('edition-side') !== 'closed';
+  if (showPoets) {
+    storage.set('edition-side','open');
+    entryURL.searchParams.delete('poets');
+    history.replaceState(history.state,'',entryURL);
+  }
   const mobile = matchMedia('(max-width:760px)'), sidebar = $('#quarto-sidebar');
   const opener = $('.sidebar-switch'), shade = $('.mobile-shade');
   $('.readingbar').hidden = false;
@@ -88,12 +95,14 @@
       if(open) $('.sidebar-heading')?.focus();
     } else {side=!side;storage.set('edition-side',side?'open':'closed');applySide();}
   });
-  $('.edition-masthead [data-section="poets"]').addEventListener('click',e => {
-    e.preventDefault();
+  function openPoets() {
     if(mobile.matches) {
       body.classList.add('sidebar-mobile-open');shade.hidden=false;opener.setAttribute('aria-expanded','true');
     } else {side=true;storage.set('edition-side','open');applySide();}
     $('.sidebar-heading')?.focus();
+  }
+  $('.edition-masthead [data-section="poets"]').addEventListener('click',e => {
+    e.preventDefault();openPoets();
   });
   shade.addEventListener('click',closeDrawer);
   $$('.reading-modes button').forEach(b => b.addEventListener('click',() => setMode(b.dataset.mode)));
@@ -108,4 +117,5 @@
   });
   mobile.addEventListener('change',applySide);new ResizeObserver(reflow).observe(reading);
   setMode(mode,false);setFont(size,false);applySide();
+  if(showPoets) openPoets();
 })();

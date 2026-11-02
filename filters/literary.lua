@@ -74,7 +74,7 @@ function Pandoc(doc)
     -- Add navigation after the Home introduction without editing its source text.
     if pandoc.path.filename(quarto.doc.input_file) == 'index.qmd' then
       doc.blocks:insert(pandoc.Div({
-        pandoc.Para({pandoc.Link('Читать', 'Говони.html')})
+        pandoc.Para({pandoc.Link('Читать', 'Говони.html?poets=open')})
       }, pandoc.Attr('', {'home-reading-action'})))
     end
     return doc

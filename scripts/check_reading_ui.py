@@ -28,9 +28,11 @@ with sync_playwright() as p:
     read_link = page.locator('.home-reading-action a')
     assert read_link.inner_text() == 'Читать'
     assert unquote(urlparse(read_link.get_attribute('href')).path).split('/')[-1] == 'Говони.html'
+    page.evaluate("localStorage.setItem('edition-side','closed')")
     read_link.click()
     page.wait_for_url('**/' + quote('Говони') + '.html')
     assert page.locator('.reading').is_visible()
+    assert page.locator('#quarto-sidebar').is_visible()
     assert page.locator('.home-reading-action').count() == 0
     page.get_by_role('link', name='Книга', exact=True).click()
     page.wait_for_url('**/book.html')

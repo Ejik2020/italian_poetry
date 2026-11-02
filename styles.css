@@ -803,7 +803,7 @@ body:not(:has(.reading)) h1.title {
 @media(max-width:360px) {.readingbar {padding:4px 12px;}.reading-modes {gap:12px;}}
 
 /* A quiet invitation to start reading, below the original introduction. */
-.home-reading-action {max-width:800px;margin:32px auto 0;}
+.home-reading-action {max-width:800px;margin:48px auto 0;text-align:center;}
 .home-reading-action a {
   display:inline-flex;
   align-items:center;
