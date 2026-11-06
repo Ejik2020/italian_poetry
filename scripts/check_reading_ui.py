@@ -123,7 +123,7 @@ with sync_playwright() as p:
     page.locator('.font-down').click()
     page.locator('.sidebar-switch').click()
     assert page.locator('#quarto-sidebar').is_visible()
-    assert page.locator('#quarto-sidebar a.sidebar-item-text').count() == 32
+    assert page.locator('#quarto-sidebar a.sidebar-item-text').count() == len([s for s in Path('.').glob('*.qmd') if s.stem not in ['index','book']])
     page.evaluate('window.scrollTo(0,1600)')
     page.wait_for_timeout(120)
     assert abs(page.locator('.readingbar').bounding_box()['y'] - 66) < 1
@@ -188,5 +188,5 @@ with sync_playwright() as p:
             assert page.locator('.chapter-head').count() == 0, source
         assert not page.evaluate('document.documentElement.scrollWidth>innerWidth'), source
     assert not errors, errors
-    print(f'Passed {matrix} poet/width/size/mode combinations, navigation, persistence, drawer, and all 34 pages.')
+    print(f"Passed {matrix} poet/width/size/mode combinations, navigation, persistence, drawer, and all {len(list(Path('.').glob('*.qmd')))} pages.")
     browser.close()

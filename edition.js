@@ -32,7 +32,7 @@
   const head = $('.chapter-head'), block = $('#title-block-header');
   if (block) head.prepend(block);
   // These are display-name metadata, not replacements for biography text.
-  const names = {'Монтале':'Eugenio Montale','Говони':'Corrado Govoni','Нове':'Aldo Nove','Пьерсанти':'Umberto Piersanti',"Д'Агостини":'Alessandro D’Agostini'};
+  const names = {'Монтале':'Eugenio Montale','Говони':'Corrado Govoni','Нове':'Aldo Nove','Пьерсанти':'Umberto Piersanti','Милите':'Tonino Milite',"Д'Агостини":'Alessandro D’Agostini'};
   const match = $('.bio').textContent.match(/\(([A-Za-zÀ-ž][A-Za-zÀ-ž’' .-]+)\)/);
   const key = decodeURIComponent(location.pathname.split('/').pop()).replace(/\.html$/,'');
   if (match || names[key]) {
