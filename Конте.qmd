@@ -242,7 +242,9 @@ dei baci.\
 <br/>
 
 ::: italian
-**Un giorno se mi legger**                                                                                                                Un giorno se mi leggerà il lettore del\
+**Un giorno se mi legger**
+
+Un giorno se mi leggerà il lettore del\
 terzo millennio, saprà che c’erano gli\
 alberi e i desideri, le palme e i pini, e gli\
 eucalipti dalle foglie a quarto di luna, e le\

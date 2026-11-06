@@ -843,3 +843,9 @@ body:not(:has(.reading)) h1.title {
   font:400 20px/1 'Literata',Georgia,serif;
 }
 @media(max-width:1000px) {:root {--poet-nav-inset:22px;}}
+
+/* Author-requested prose-like wrapping for the marked translations only. */
+.language.flush-left {text-align:left;}
+.language.flush-left .verse {padding-left:0;text-indent:0;}
+.poem-note {font:400 14px/1.6 'Source Serif 4',Georgia,serif;margin-top:18px;}
+.poem-note p {margin:0;}

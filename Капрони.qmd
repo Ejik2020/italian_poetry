@@ -240,7 +240,7 @@ Hanno\
 
 ::: {.italian}
 **Incontro**
-<br/>
+
 Nell’aria fresca d’odore\
 di calce per nuove case,\
 un attimo: e più non resta\
@@ -295,7 +295,7 @@ l’accordo della mia vita?\
 ---
 
 **Тьмa**
-<br/>
+
 Даже фонаря с собой\
 не возьму. Тьмa\
 там такая тёмная,\
@@ -680,7 +680,9 @@ nel deserto, intero.\
 
 ---
 
-Он мне не ответил
+\*\*\*
+
+Он мне не ответил.\
 Я писал ему много раз.\
 Он мне так и не ответил.\
 Я верю, что он умер. Я не думаю,\
@@ -689,7 +691,9 @@ nel deserto, intero.\
 <br/>
 
 ::: {.italian}
-Non mi ha risposto
+\*\*\*
+
+Non mi ha risposto.\
 Gli ho scritto tante volte.\
 Non mi ha mai risposto.\
 Io credo che sia morto. Non penso\
@@ -720,7 +724,7 @@ chiuso nella sua stanza.\
 Con tutte le sue ragioni.\
 Tutti i suoi torti.\
 Solo in una stanza vuota,\
-a parlare. Ai morti\
+a parlare. Ai morti.\
 :::
 
 <br/>  

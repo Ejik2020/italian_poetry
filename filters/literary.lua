@@ -38,6 +38,18 @@ local function stanza(b)
 end
 
 local function language(blocks, lang, poem_index)
+  -- Explicit source wrappers select flush-left wrapping for one translation.
+  -- Unwrap only this presentation marker; retain every literary content node.
+  local prepared, flush_left = pandoc.Blocks({}), false
+  for _, b in ipairs(blocks) do
+    if b.t == 'Div' and b.classes:includes('flush-left') then
+      flush_left = true
+      for _, child in ipairs(b.content) do prepared:insert(child) end
+    else
+      prepared:insert(b)
+    end
+  end
+  blocks = prepared
   local output = pandoc.Blocks({})
   local first = true
   for _, b in ipairs(blocks) do
@@ -52,7 +64,9 @@ local function language(blocks, lang, poem_index)
       first = false
     end
   end
-  return pandoc.Div(output, pandoc.Attr('', {'language', lang == 'it' and 'italian' or 'russian'}, {lang=lang}))
+  local classes = {'language', lang == 'it' and 'italian' or 'russian'}
+  if flush_left then classes[#classes+1] = 'flush-left' end
+  return pandoc.Div(output, pandoc.Attr('', classes, {lang=lang}))
 end
 
 local function signature(blocks)
