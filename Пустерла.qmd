@@ -22,10 +22,33 @@
 внизу нас ждет что,\
 песок или черная скала?\
 Песок, ответил я, песок и,\
-наверное, в твоем сне\
+наверное,  в твоем сне\
 мы спрыгнули.
 
 <br/>
+
+::: italian
+**Sabbia**
+
+Tu non lo sai, ma io spesso mi sveglio di notte,\
+rimango a lungo sdraiato nel buio\
+e ti ascolto dormire lì accanto, come un cane\
+sulla riva di un’acqua lenta da cui salgono\
+ombre e riflessi, farfalle silenziose.\
+Stanotte parlavi nel sonno,\
+con dei lamenti quasi, dicendo di un muro\
+troppo alto per scendere sotto, verso il mare\
+che tu sola vedevi, lontano splendente.\
+Per gioco ti ho mormorato di stare tranquilla,\
+non era poi così alto, potevamo anche farcela.\
+Tu hai chiesto\
+se in basso ci fosse sabbia ad aspettarci,\
+o roccia nera.\
+Sabbia, ho risposto, sabbia. E nel tuo sogno\
+forse ci siamo tuffati.
+:::
+
+------------------------------------------------------------------------
 
 **С берега VIII**
 
@@ -46,12 +69,33 @@ Tех, кто смотрит на море,\
 
 <br/>
 
+::: italian
+**Da una costa VIII**
+
+Di quelli che guardano il mare\
+ne arrivano ogni giorno. Gente in fuga.\
+Spesso rimangono in auto,\
+schiudono a malapena un finestrino.\
+Qualcuno invece scende,\
+fuma adagio appoggiato alla ringhiera.\
+Mezz’ora, un’ora. Dipende. Poi ripartono\
+scuotendo con cura la sabbia dai vestiti. Eppure resta sempre qualche traccia\
+nei luoghi più impensati: sotto il bavero,\
+dietro le orecchie, a volte sulle palpebre.\
+Più tardi, a certi capita\
+di non sapere dove sono andati,\
+né tantomeno perché.
+:::
+
+------------------------------------------------------------------------
+
 **Искусство побега**
 
 Сопротивляйся всему, беги. Делай это не во имя\
 чего-то. Имена оставь\
 очередным создателям флагов.\
-Давай, мышонок: пора.\
+Давай, мышонок: пора.
+
 Смотри: это лес, а это\
 банка консервная. Это река.\
 С моста ты видишь очень белый город\
@@ -63,15 +107,49 @@ Tех, кто смотрит на море,\
 
 <br/>
 
-**\*\*\***
+::: italian
+**Arte delle fuga**
+
+Resisti a tutto, fuggi. Fallo in nome\
+di niente. Lascia i nomi\
+ai nuovi costruttori di bandiere.\
+Dai, topolino: è ora.
+
+Guarda: questo è un bosco, e questa\
+una lattina di carne. Questo è un fiume.\
+Dal ponte vedi una città bianchissima,\
+una polla di sangue raggrumato. E gli anni,\
+gli anni sui loro cavalli neri. La città\
+è fatta di calce e gesso, di silenzio.\
+Il passo è qui, la fuga un’altra strada.
+:::
+
+------------------------------------------------------------------------
+
+\*\*\*
 
 Счета с прошлым? Наверное уже слишком поздно.\
 Всё: переломы, раны, сожаления,\
 сгорело на берегу той последней реки\
-перед бродом, где заканчиваются дороги.\
+перед бродом, где заканчиваются дороги.
+
 Последняя река, последний огонь\
-и в пламени пляшут\
+и в пламени запрыгали\
 удостоверения личности, лица друзей и врагов.\
 Простив простительное, человек идет налегке.
 
 <br/>
+
+::: italian
+\*\*\*
+
+I conti col passato? Forse è tardi. Ogni cosa,\
+fratture, ferite, rimorsi,\
+si è bruciata sulla riva dell’ultimo fiume\
+davanti al guado dove finivano i sentieri.
+
+Ultimo fiume ultimo rogo\
+e nelle fiamme saltellavano\
+lapilli d’identità, volti amici e nemici.\
+Perdonato il perdonabile, si viaggia leggeri.
+:::
