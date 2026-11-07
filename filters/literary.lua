@@ -69,6 +69,43 @@ local function language(blocks, lang, poem_index)
   return pandoc.Div(output, pandoc.Attr('', classes, {lang=lang}))
 end
 
+-- A source-marked cycle keeps one overall poem anchor, but each part has
+-- its own bilingual row. Unequal verse lengths cannot displace later titles.
+-- Source order is already Russian/Italian per part, so preservation stays exact.
+local function cycle(source, poem_index)
+  local function pair(blocks, key)
+    local russian, original = pandoc.Blocks({}), nil
+    for _, b in ipairs(blocks) do
+      if italian(b) then
+        if original then error('A cycle part has more than one Italian original') end
+        original = b
+      else
+        if original then error('A cycle original must follow its translation') end
+        russian:insert(b)
+      end
+    end
+    if not original or #russian == 0 then error('A cycle part needs both languages') end
+    return pandoc.Div({language(russian, 'ru', key), language(original.content, 'it', key)},
+      pandoc.Attr('', {'bilingual'}))
+  end
+  local heading, parts = pandoc.Blocks({}), pandoc.Blocks({})
+  for _, b in ipairs(source.content) do
+    if b.t == 'Div' and b.classes:includes('poem-part') then
+      local key = poem_index..'-part-'..(#parts + 1)
+      parts:insert(pandoc.Div({pair(b.content, key)},
+        pandoc.Attr('', {'poem-part'}, {['data-paired']='true'})))
+    else
+      if #parts > 0 then error('Cycle headings must precede its parts') end
+      heading:insert(b)
+    end
+  end
+  if #parts == 0 then error('A poem cycle needs at least one part') end
+  local output = pandoc.Blocks({pair(heading, poem_index)})
+  for _, part in ipairs(parts) do output:insert(part) end
+  return pandoc.Div(output, pandoc.Attr('poem-'..poem_index, {'poem', 'poem-cycle'},
+    {['data-paired']='true'}))
+end
+
 local function signature(blocks)
   local tokens = {}
   pandoc.Pandoc(blocks):walk({
@@ -119,7 +156,11 @@ function Pandoc(doc)
   end
   for i=2,#doc.blocks do
     local b = doc.blocks[i]
-    if italian(b) then
+    if b.t == 'Div' and b.classes:includes('poem-cycle') then
+      flush(nil)
+      index = index + 1
+      poems:insert(cycle(b, index))
+    elseif italian(b) then
       flush(b)
     elseif b.t == 'HorizontalRule' then
       flush(nil)

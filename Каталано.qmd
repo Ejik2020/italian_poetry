@@ -94,7 +94,15 @@ sapevi tutto\
 
 ---
 
+:::::: {.poem-cycle}
+
 **Три смерти**
+
+::: {.italian}
+**Tre morti**
+:::
+
+::::: {.poem-part}
 
 #### человек, который умер от изумления {.poem-part-title}
 
@@ -124,6 +132,42 @@ sapevi tutto\
 ничего мертвого\
 ничего мягкого\
 ничего синего.
+
+::: {.italian}
+#### l’uomo che morì di stupore {.poem-part-title}
+
+l’uomo che morì di stupore\
+poco prima di morire di stupore\
+si trovava in una stanza con due porte\
+una aperta\
+una chiusa\
+quella aperta era quella dalla quale era entrato\
+quella chiusa era quella che aprì poi\
+e quando l’aprì vide la cosa che l’ammazzò secco
+
+era una cosa stupenda\
+così stupenda che l’uomo fu colto da uno stupore\
+di così immani proporzioni che\
+come crediamo di aver – forse sbagliando – premesso nel titolo\
+egli morì di stupore
+
+ciò che non possiamo raccontare per nessun motivo al mondo\
+è che cosa fosse la cosa così stupenda da far schiantare l’uomo\
+in quanto, se lo rivelassimo\
+si perderebbe l’indubbia atmosfera di mistero insita\
+in questo breve scritto
+
+l’unico indizio che ci sentiamo di dare in coscienza\
+è che dentro la stanza non c’era\
+nulla di nudo\
+nulla di morto\
+nulla di molle\
+nulla di blu
+:::
+
+:::::
+
+::::: {.poem-part}
 
 #### человек, умерший из-за кретина {.poem-part-title}
 
@@ -157,6 +201,42 @@ sapevi tutto\
 
 да, верим.
 
+::: {.italian}
+#### l’uomo che morì di cretino {.poem-part-title}
+
+non da cretino, di\
+nel senso che non ebbe una morte cretina\
+ma per una qualche oscura ragione\
+tutti, ma proprio tutti\
+gli davano in continuazione del cretino
+
+s’alzava la mattina\
+“cretino”, gli diceva la moglie\
+si lavava i denti\
+“cretino”, gli diceva la figliola\
+andava al bar\
+“cretino”, l’apostrofava il barista\
+servendogli il cappuccino\
+arrivava al lavoro e, dall’usciere al capoufficio\
+era una pioggia di “cretino”\
+cretino come se piovesse\
+sì
+
+l’uomo che morì di cretino\
+morì di cretino una sera d’inverno\
+fu un benzinaio ventisettenne a dargli l’ultimo cretino\
+l’uomo che morì di cretino\
+s’accasciò sul volante\
+e morì\
+di crepacuore\
+crediamo\
+sì
+:::
+
+:::::
+
+::::: {.poem-part}
+
 #### человек, умерший от сицилийской кассаты\* {.poem-part-title}
 
 из трех смертей, составляющих этот смертельный триптих,\
@@ -174,58 +254,24 @@ sapevi tutto\
 \* сицилийская кассата – действительно, очень вкусный традиционный сицилийский пасхальный сладкий пирог с риккотой, фруктами, марципанами, фисташками и шоколадом
 :::
 
-<br/>
-
 ::: {.italian}
-**Tre morti**
+#### l’uomo che morì di cassata siciliana {.poem-part-title}
 
-#### l’uomo che morì di stupore {.poem-part-title}
+delle tre morti che compongono questo trittico di morti\
+questa è la più semplice e spiegabile
 
-l’uomo che morì di stupore\
-poco prima di morire di stupore\
-si trovava in una stanza con due porte\
-una aperta\
-una chiusa\
-quella aperta era quella dalla quale era entrato\
-quella chiusa era quella che aprì poi\
-e quando l’aprì vide la cosa che l’ammazzò secco\
-era una cosa stupenda\
-così stupenda che l’uomo fu colto da uno stupore\
-di così immani proporzioni che\
-come crediamo di aver – forse sbagliando – premesso nel titolo\
-egli morì di stupore\
-ciò che non possiamo raccontare per nessun motivo al mondo\
-è che cosa fosse la cosa così stupenda da far schiantare l’uomo\
-in quanto, se lo rivelassimo\
-si perderebbe l’indubbia atmosfera di mistero insita\
-in questo breve scritto\
-l’unico indizio che ci sentiamo di dare in coscienza\
-è che dentro la stanza non c’era\
-nulla di nudo\
-nulla di morto\
-nulla di molle\
-nulla di blu\
-
-#### l’uomo che morì di cretino {.poem-part-title}
-
-non da cretino, di\
-nel senso che non ebbe una morte cretina\
-ma per una qualche oscura ragione\
-tutti, ma proprio tutti\
-gli davano in continuazione del cretino\
-s’alzava la mattina\
-“cretino”, gli diceva la moglie\
-si lavava i denti\
-“cretino”, gli diceva la figliola\
-andava al bar\
-“cretino”, l’apostrofava il barista\
-servendogli il cappuccino\
-arrivava al lavoro e, dall’usciere al capoufficio\
-era una pioggia di “cretino”\
-cretino come se piovesse\
-sì\
-l’uomo che morì di cretino\
+l’uomo che morì di cassata siciliana\
+morì dopo aver mangiato nove chili di cassata siciliana\
+in meno di due ore\
+non sappiamo perché lo fece\
+ma sappiamo, grazie a un testimone affidabile\
+che le sue ultime parole furono:\
+“comunque, checché voi ne pensiate, ne ho apprezzato il sapore fino alla fine”
 :::
+
+:::::
+
+::::::
 
 **SBR\***
 

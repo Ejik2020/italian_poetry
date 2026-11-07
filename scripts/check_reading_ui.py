@@ -88,7 +88,18 @@ with sync_playwright() as p:
                             ruTop:rb.top,ruBottom:rb.bottom,itTop:ib.top,
                             overflow:document.documentElement.scrollWidth>innerWidth,
                             empty:[...document.querySelectorAll('.poem')].some(x=>!x.textContent.trim()),
-                            overlap:[...document.querySelectorAll('.poem')].some((x,i,a)=>i && x.getBoundingClientRect().top<a[i-1].getBoundingClientRect().bottom-1)
+                            overlap:[...document.querySelectorAll('.poem')].some((x,i,a)=>i && x.getBoundingClientRect().top<a[i-1].getBoundingClientRect().bottom-1),
+                            cycleParts:[...document.querySelectorAll('.poem-part > .bilingual')].every(pair=>{
+                                const ru=pair.querySelector('.russian'),it=pair.querySelector('.italian');
+                                const rh=ru.querySelector('h4'),ih=it.querySelector('h4');
+                                if (!rh || !ih) return false;
+                                if (reading.dataset.mode==='translation') return getComputedStyle(it).display==='none';
+                                const rb=ru.getBoundingClientRect(),ib=it.getBoundingClientRect();
+                                if (getComputedStyle(pair).display==='grid') {
+                                    return Math.abs(rh.getBoundingClientRect().top-ih.getBoundingClientRect().top)<1 && rb.left<ib.left;
+                                }
+                                return ib.top>=rb.bottom-1;
+                            })
                         };
                     }''')
                     assert state['size'] == size, state
@@ -97,6 +108,7 @@ with sync_playwright() as p:
                     assert state['bio'] == invariants['bio'], state
                     assert state['mode'] == mode and not state['overflow'], (width, poet, state)
                     assert not state['empty'] and not state['overlap'], (poet, state)
+                    assert state['cycleParts'], (width, poet, size, mode, state)
                     if mode == 'translation':
                         assert not state['original']
                     elif state['reflow'] or mode == 'stacked' or width <= 760:

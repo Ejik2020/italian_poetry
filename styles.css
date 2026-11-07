@@ -859,3 +859,9 @@ body:not(:has(.reading)) h1.title {
   text-transform:none;
 }
 .language h3 + section.poem-part-title > h4 {margin-top:0;}
+
+/* Each cycle part starts a fresh shared row in parallel reading mode. */
+.poem-cycle > .poem-part {margin-top:2.4em;}
+.poem-cycle > .bilingual + .poem-part {margin-top:26px;}
+.poem-part h4.poem-part-title {margin-top:0;}
+.poem-cycle > .bilingual h3 {margin-bottom:0;}

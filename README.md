@@ -25,6 +25,13 @@ To add a poem, edit the relevant `.qmd` file using the existing poem formatting.
 Preserve explicit backslashes at line endings (Markdown hard breaks), blank
 lines between stanzas, and the existing spacing between poems. Do not reflow
 poetry or normalize punctuation. Include Italian originals only when supplied.
+For a multi-part poem such as «Три смерти» in `Каталано.qmd`, keep the
+shared titles inside the `.poem-cycle` wrapper, followed by one `.poem-part`
+wrapper per matched Russian/Italian section. Each part contains its Russian
+subtitle and verses followed by its `.italian` block. These independent rows
+align corresponding subtitles even when translations have different lengths.
+Use longer colon fences for the outer wrappers, as in the existing example.
+
 For a new poet, create a UTF-8 `.qmd` file with the intended Cyrillic filename,
 add it to `book.chapters` in `_quarto.yml`, and check spelling and case exactly.
 The apostrophe in `Д'Агостини.qmd` is part of its filename.
