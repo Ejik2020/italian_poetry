@@ -849,3 +849,13 @@ body:not(:has(.reading)) h1.title {
 .language.flush-left .verse {padding-left:0;text-indent:0;}
 .poem-note {font:400 14px/1.6 'Source Serif 4',Georgia,serif;margin-top:18px;}
 .poem-note p {margin:0;}
+
+/* Subtitles within a multi-part poem, distinct from its overall title. */
+.language h4.poem-part-title {
+  font:italic 400 var(--font-size)/1.55 'Literata',Georgia,serif;
+  margin:2.1em 0 1.1em;
+  letter-spacing:normal;
+  color:var(--ink);
+  text-transform:none;
+}
+.language h3 + section.poem-part-title > h4 {margin-top:0;}

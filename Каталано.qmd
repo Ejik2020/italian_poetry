@@ -96,7 +96,7 @@ sapevi tutto\
 
 **Три смерти**
 
-человек, который умер от изумления
+#### человек, который умер от изумления {.poem-part-title}
 
 человек, который умер от изумления,\
 незадолго до смерти от изумления\
@@ -125,7 +125,7 @@ sapevi tutto\
 ничего мягкого\
 ничего синего.
 
-человек, умерший из-за кретина
+#### человек, умерший из-за кретина {.poem-part-title}
 
 не как кретин,\
 в том смысле, что у него не было идиотской смерти,\
@@ -157,7 +157,7 @@ sapevi tutto\
 
 да, верим.
 
-человек, умерший от сицилийской кассаты\*
+#### человек, умерший от сицилийской кассаты\* {.poem-part-title}
 
 из трех смертей, составляющих этот смертельный триптих,\
 эта самая простая и объяснимая.
@@ -179,7 +179,8 @@ sapevi tutto\
 ::: {.italian}
 **Tre morti**
 
-l’uomo che morì di stupore\
+#### l’uomo che morì di stupore {.poem-part-title}
+
 l’uomo che morì di stupore\
 poco prima di morire di stupore\
 si trovava in una stanza con due porte\
@@ -205,7 +206,8 @@ nulla di morto\
 nulla di molle\
 nulla di blu\
 
-l’uomo che morì di cretino\
+#### l’uomo che morì di cretino {.poem-part-title}
+
 non da cretino, di\
 nel senso che non ebbe una morte cretina\
 ma per una qualche oscura ragione\
@@ -883,7 +885,7 @@ di ciò che hai appena letto\
 спросил я,\
 совсем не кажешься,\
 но ведь у меня круглая голова, сказал я,\
-правда, признала она, но в тебе не хватает бешенной собаки.\
+правда, признала она, но в тебе не хватает бешеной собаки.\
 Мы много болтали,\
 особенно в ночное время.\
 Она терпеть не могла сахара в кофе и\
