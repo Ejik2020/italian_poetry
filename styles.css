@@ -865,11 +865,3 @@ body:not(:has(.reading)) h1.title {
 .poem-cycle > .bilingual + .poem-part {margin-top:26px;}
 .poem-part h4.poem-part-title {margin-top:0;}
 .poem-cycle > .bilingual h3 {margin-bottom:0;}
-
-/* A brief English introduction for readers arriving through English search. */
-.translator-summary {
-  margin-top:2em;
-  max-width:680px;
-  font:400 16px/1.6 'Source Serif 4',Georgia,serif;
-  color:var(--muted);
-}

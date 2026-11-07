@@ -60,6 +60,8 @@ def main():
         html = (root / name).read_text()
         page = Metadata(html)
         assert page.language == 'ru', name
+        assert 'class="description"' not in html, (name, 'visible SEO description')
+        assert 'translator-summary' not in html, (name, 'visible SEO introduction')
         author_name = 'Александр Фейгин' if source == 'book.qmd' else 'Александра Фейгина'
         assert author_name in page.title, (name, page.title)
         assert page.title not in titles, (name, 'duplicate title')
@@ -95,8 +97,6 @@ def main():
     assert paths == {str(Path(s).with_suffix('.html')) for s in sources}, paths
     assert f'Sitemap: {BASE}sitemap.xml' in (root / 'robots.txt').read_text()
     assert not re.search(r'^Disallow:\s*/\s*$', (root / 'robots.txt').read_text(), re.M)
-    home = (root / 'index.html').read_text()
-    assert 'lang="en"' in home and 'Alexander (Alex) Feigin translates modern Italian poetry into Russian.' in home
     print(f'Validated SEO metadata and structured data on {len(sources)} pages, sitemap and robots.txt.')
 
 

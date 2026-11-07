@@ -1,5 +1,7 @@
 -- Search metadata only: visible chapter headings and literary blocks stay intact.
 function Meta(meta)
+  -- Keep descriptions in the document head, never in the visible title block.
+  meta['hide-description'] = true
   local filename = pandoc.path.filename(quarto.doc.input_file)
   local title = pandoc.utils.stringify(meta.title or '')
   if filename == 'index.qmd' then

@@ -130,8 +130,9 @@ still returns a cached 404 while `/index.html` works, republish and recheck it.
 `filters/seo.lua` supplies a unique Russian search title and bilingual description
 for each page without changing its visible literary heading. `includes/seo.html`
 identifies the translator as Александр Фейгин / Alexander Feigin / Alex Feigin
-using Person, WebSite and Book structured data. The Home page also has a short
-visible English introduction; it does not claim the poems are translated into English.
+using Person, WebSite and Book structured data. SEO descriptions are emitted
+only in the HTML head, not as visible title-block descriptions. No additional
+English introduction or hidden keyword text is included in the page body.
 
 `_quarto.yml` sets Russian as the document language, enables canonical links and
 social previews, and supplies the published `book.site-url`. Quarto generates
