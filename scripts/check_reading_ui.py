@@ -45,6 +45,9 @@ with sync_playwright() as p:
         for poet in ['Капрони', 'Каталано', 'Ламарк', 'Монтале']:
             page.goto(base + quote(poet) + '.html')
             page.wait_for_selector('.poet-page')
+            default_mode = 'stacked' if width <= 760 else 'parallel'
+            assert page.locator('.reading').get_attribute('data-mode') == default_mode
+            assert page.locator(f'.reading-modes [data-mode="{default_mode}"]').get_attribute('aria-pressed') == 'true'
             await_fonts = page.evaluate('()=>document.fonts.ready.then(()=>true)')
             if matrix == 0:
                 assert page.locator('.font-control output').inner_text() == '17'
@@ -157,7 +160,7 @@ with sync_playwright() as p:
     page.locator('.nav-page-previous a').click()
     page.wait_for_url('**/*html')
     assert 'Капрони' in page.title()
-    # Font size persists; each chapter and refresh starts in parallel mode.
+    # Font size persists; desktop chapters and refreshes start in parallel mode.
     page.locator('.reading-modes [data-mode="translation"]').click()
     page.locator('.font-up').click()
     page.goto(base + quote('Ламарк') + '.html')
@@ -170,6 +173,11 @@ with sync_playwright() as p:
     # Mobile drawer, keyboard close, and in-chapter navigation.
     page.set_viewport_size({'width': 390, 'height': 844})
     page.goto(base + quote('Капрони') + '.html')
+    assert page.locator('.reading').get_attribute('data-mode') == 'stacked'
+    page.locator('.reading-modes [data-mode="translation"]').click()
+    assert page.locator('.reading').get_attribute('data-mode') == 'translation'
+    page.reload()
+    assert page.locator('.reading').get_attribute('data-mode') == 'stacked'
     assert not page.locator('#quarto-sidebar').is_visible()
     page.locator('.sidebar-switch').click()
     assert page.locator('#quarto-sidebar').is_visible()
@@ -185,14 +193,14 @@ with sync_playwright() as p:
     page.locator('.sidebar-heading').focus()
     assert page.locator('.sidebar-heading').evaluate('(e)=>getComputedStyle(e).outlineStyle') == 'none'
     assert 'underline' in page.locator('.sidebar-heading').evaluate('(e)=>getComputedStyle(e).textDecorationLine')
-    # All chapters remain accessible, including translation-only Pusterla.
+    # All chapters remain accessible and use the phone default.
     for source in Path('.').glob('*.qmd'):
         page.evaluate("localStorage.setItem('edition-mode','translation')")
         response=page.goto(base + quote(source.stem) + '.html')
         assert response.status == 200, source
         assert page.locator('main').inner_text().strip(), source
         if source.stem not in ['index','book']:
-            assert page.locator('.reading').get_attribute('data-mode') == 'parallel', source
+            assert page.locator('.reading').get_attribute('data-mode') == 'stacked', source
             assert page.locator('.nav-page-previous a').is_visible(), source
             assert page.locator('.nav-page-next a').is_visible(), source
             assert page.locator('.chapter-arrow').count() == 2, source

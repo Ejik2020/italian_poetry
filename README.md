@@ -17,7 +17,8 @@ presentation layer; see [review notes](docs/redesign-review.md).
   after their matching translations; preserve stanza paragraphs and hard breaks.
 - `edition.js` and `includes/edition.html` provide reading modes, the independent
   verse/title size control (17 px default), saved font-size/sidebar preferences, and responsive
-  navigation. Each poet chapter opens in «Рядом» mode. Thin icons and text identify the reading modes; size controls stay
+  navigation. Each poet chapter opens in «Друг за другом» mode on phones (up to 760 px)
+  and «Рядом» on larger screens. Readers can switch modes within the chapter. Thin icons and text identify the reading modes; size controls stay
   at the right of the sticky reading toolbar, including when the sidebar is closed.
 - `_book/` and `.quarto/` are generated and ignored. Do not edit rendered HTML.
 

@@ -14,8 +14,9 @@
     get(k) {try {return localStorage.getItem(k);} catch {return null;}},
     set(k,v) {try {localStorage.setItem(k,v);} catch { /* Preferences are optional. */ }}
   };
-  // Every chapter starts side by side; readers can switch modes within it.
-  let mode = 'parallel';
+  const mobile = matchMedia('(max-width:760px)');
+  // Start stacked on phones, side by side on larger screens. Readers can switch.
+  let mode = mobile.matches ? 'stacked' : 'parallel';
   const saved = Number(storage.get('edition-size') || 17);
   let size = Number.isFinite(saved) ? Math.max(16,Math.min(30,Math.round(saved))) : 17;
   const entryURL = new URL(location.href);
@@ -26,7 +27,7 @@
     entryURL.searchParams.delete('poets');
     history.replaceState(history.state,'',entryURL);
   }
-  const mobile = matchMedia('(max-width:760px)'), sidebar = $('#quarto-sidebar');
+  const sidebar = $('#quarto-sidebar');
   const opener = $('.sidebar-switch'), shade = $('.mobile-shade');
   $('.readingbar').hidden = false;
   const head = $('.chapter-head'), block = $('#title-block-header');
