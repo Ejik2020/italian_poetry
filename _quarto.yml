@@ -1,13 +1,24 @@
 project:
   type: book
+  post-render:
+    - python3 scripts/finalize_sitemap.py
   resources:
     - edition.js
 
+lang: ru
+
 filters:
+  - filters/seo.lua
   - filters/literary.lua
 
 book:
   site-url: https://www.alexfeigin.com/
+  description: "Современная итальянская поэзия в переводах на русский язык Александра Фейгина. Italian poetry translated into Russian by Alexander (Alex) Feigin."
+  open-graph:
+    locale: ru_RU
+  twitter-card: true
+  image: images/Gravity-7.jpg
+  image-alt: "Gravity — artwork by Alex Cohen"
   navbar: false
 
   sidebar:
@@ -55,6 +66,8 @@ book:
     
 format:
   html:
+    canonical-url: true
+    include-in-header: includes/seo.html
     theme: cosmo
     css: styles.css
     include-before-body: includes/edition.html

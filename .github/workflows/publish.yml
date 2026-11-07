@@ -25,7 +25,9 @@ jobs:
       - name: Render the book
         run: quarto render
       - name: Validate pages, links, and assets
-        run: python3 scripts/check_site.py
+        run: |
+          python3 scripts/check_site.py
+          python3 scripts/check_seo.py
       - name: Disable Jekyll processing
         run: touch _book/.nojekyll
       - name: Upload website

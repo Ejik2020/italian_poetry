@@ -124,3 +124,31 @@ publication, GitHub's custom-domain setting controls the binding; a repository
 `CNAME` file is not required. Check both names, the introduction, purchase page,
 and a Cyrillic chapter after domain changes. If a previously failing root URL
 still returns a cached 404 while `/index.html` works, republish and recheck it.
+
+## Search visibility
+
+`filters/seo.lua` supplies a unique Russian search title and bilingual description
+for each page without changing its visible literary heading. `includes/seo.html`
+identifies the translator as Александр Фейгин / Alexander Feigin / Alex Feigin
+using Person, WebSite and Book structured data. The Home page also has a short
+visible English introduction; it does not claim the poems are translated into English.
+
+`_quarto.yml` sets Russian as the document language, enables canonical links and
+social previews, and supplies the published `book.site-url`. Quarto generates
+`sitemap.xml` and a `robots.txt` sitemap reference automatically. The post-render
+script `scripts/finalize_sitemap.py` aligns sitemap entries with canonical URLs
+and safely encodes Cyrillic filenames and apostrophes. Russian and
+Italian verse blocks retain their individual language attributes. There are no
+separate English translations of the pages, so do not add English `hreflang`
+links pointing to these same Russian pages.
+
+After publication, verify the domain in Google Search Console, submit
+`https://www.alexfeigin.com/sitemap.xml`, and inspect/request indexing for the
+Home page and representative poet chapters. Domain verification uses the exact
+TXT value provided by Google at IONOS; preserve the GitHub verification and
+all email DNS records. Do not put private account credentials in the repository.
+SEO changes help search engines understand the site; indexing and rankings
+are controlled by the search engines and are not guaranteed.
+
+Run `python3 scripts/check_seo.py` after rendering to check the metadata,
+structured data, sitemap, and crawl access alongside the normal site checks.

@@ -17,3 +17,7 @@ title: "Предисловие"
 *Александр Фейгин*
 
 PS. Вы можете связаться со мной по [электронной почте](mailto:feiginy@aol.com) или в [Facebook](https://www.facebook.com/alexander.feigin.1).
+
+::: {.translator-summary lang="en"}
+Alexander (Alex) Feigin translates modern Italian poetry into Russian. Read his Russian translations alongside the Italian originals.
+:::
