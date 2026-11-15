@@ -26,7 +26,7 @@
 <br/>
 
 ::: italian
-**L’orlogio a muro**
+**L’orologio a muro**
 
 È desolato l’orologio a muro\
 che misura\
@@ -125,7 +125,7 @@ più in là.
 <br/>
 
 ::: italian
-**Vorra sparire**
+**Vorrà sparire**
 
 Un giorno\
 la poesia dell’uomo\
@@ -158,7 +158,7 @@ Non sa il mercantile,\
 vuoto\
 e alla fonda,\
 che il cielo,\
-per I pesci,\
+per i pesci,\
 è pieno\
 di barche\
 e di navi.
@@ -209,5 +209,5 @@ Dalla notte\
 incolumi,\
 c'intenerisce\
 la puntualità\
-del alba.
+dell’alba.
 :::

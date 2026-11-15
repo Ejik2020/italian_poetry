@@ -2,86 +2,7 @@
 
 > род. 1963
 >
-> *Тициано Скарпа (Tiziano Scarpa) родился в Венеции в 1963 году. Он поэт, драматург и эссеист, получал премии за свои произведения. Он написал ряд известных романов, включая «Глаза на бройлере» и «Stabat Mater», которая была удостоена самой престижной литературной награды Италии — премии Стрега. Его радиопьеса «Попкорн» получила международное признание критиков и транслировалась на BBC и других европейских радиостанциях. Скарпа регулярно выступает на конференциях по творческому письму и пишет как журналист для национальных газет, он — один из самых выдающихся и самобытных голосов в итальянской поэзии 21-го века.*
-
-<br/>
-
-это то, что мне повезло иметь\
-это то, что мне повезло иметь\
-это то, что мне повезло иметь\
-это слова мертвых, мне повезло их иметь\
-это они, никогда не оставляющие меня в покое, мне повезло их иметь\
-это слово ‘пир’, мне повезло его иметь\
-это слово ‘чары’, мне повезло его иметь\
-это слово ‘воля’, мне повезло его иметь \
-это слово ‘слово’, мне повезло его иметь\
-это слово ‘  ‘ , мне повезло его иметь \
-это то, что мне повезло иметь\
-это то, что ты хочешь, чтоб мне повезло иметь\
-это мои дорогие мертвые, которых мне повезло иметь\
-они уже жили, мне повезло их иметь\
-это то, что ты вложил в меня, мне повезло это иметь\
-это то, что внутри слов, мне повезло это иметь \
-это то, чего там случайно не было \
-это то, чего тебе случайно не хватало  \
-это то, что мне повезло иметь\
-это то огромное и глубокое, что мне повезло иметь\
-это то, что ты случайно опустошил  \
-это то, что у меня было по счастливой случайности\
-это то, что если вы умерли, то случайно \
-это то что можно забыть случайно\
-это те, которых я не смогу повторно оплодотворить случайно \
-это то, что у меня было случайно \
-это то, что в любом случае не было случайно\
-это то, что я съем свой апельсин случайно\
-это то, что за твое здоровье я выпил случайно \
-это то, что у меня было случайно \
-это то, что у меня было случайно\
-это то, что у меня было случайно\
-это то, что у меня было случайно
-
-<br/>
-
-::: {.italian}
-
-questo e' quello che ho avuto in sorte\
-questo e' quello che ho avuto in sorte\
-questo e' quello che ho avuto in sorte\
-questo le parole dei morti ho avuto in sorte\
-questo non mi lasciano mai solo ho avuto in sorte\
-questo  la parola festa avuto in sorte\
-questo  la parola incanto avuto in sorte\
-questo  la parola volonta avuto in sorte\
-questo  la parola parola avuto in sorte\
-questo  la parola la ho avuto in sorte\
-questo e' quello che ho avuto in sorte\
-questo che cosa volete da me in sorte\
-questo cari morti che ho avuto in sorte\
-questo cari gia vissuti ho avuto in sorte\
-questo che cosa ci avete messo ho avuto in sorte\
-questo e' quello che dentro le parole ho avuto in sorte\
-questo e' quello che non c'e stato in sorte\
-questo e' quello che vi e' mancato in sorte\
-questo e' quello che ho avuto in sorte\
-questo e' vasto e profondo in sorte\
-questo e' cio che avete  svuotate in sorte\
-questo e' quello che ho avuto in sorte\
-questo se sieto morti ho avuto in sorte\
-questo e' per dementicarle ho avuto in sorte\
-questo non posso reimpervele ho avuto in sorte\
-questo e' quello che ho avuto in sorte\
-questo ma va bene lo stesso in sorte\
-questo mangero la mia arancia in sorte\
-questo alla vostra salute in sorte\
-questo e' quello che ho avuto in sorte\
-questo e' quello che ho avuto in sorte\
-questo e' quello che ho avuto in sorte\
-:::
-
----
-
-
----
+> *Тициано Скарпа (Tiziano Scarpa) родился в Венеции в 1963 году. Он поэт, драматург и эссеист, получал премии за свои произведения. Он написал ряд известных романов, включая «Глаза на гриле» и «Stabat Mater», которая была удостоена самой престижной литературной награды Италии — премии Стрега. Его радиопьеса «Попкорн» получила международное признание критиков и транслировалась на BBC и других европейских радиостанциях. Скарпа регулярно выступает на конференциях по творческому письму и пишет как журналист для национальных газет, он — один из самых выдающихся и самобытных голосов в итальянской поэзии 21-го века.*
 
 <br/>
 
@@ -254,7 +175,7 @@ ci sono due delfini e una vita sola\
 <br/>
 
 ::: italian
-**Certe volte che non sono morte #3**
+**Certe volte che non sono morto #3**
 
 la notte che volevo suicidarmi\
 ma seriamente, prima dell’esame\

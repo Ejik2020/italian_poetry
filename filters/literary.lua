@@ -160,6 +160,9 @@ function Pandoc(doc)
       flush(nil)
       index = index + 1
       poems:insert(cycle(b, index))
+    elseif b.t == 'Div' and b.classes:includes('collection-note') then
+      flush(nil)
+      poems:insert(b)
     elseif italian(b) then
       flush(b)
     elseif b.t == 'HorizontalRule' then
