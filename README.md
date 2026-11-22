@@ -2,7 +2,7 @@
 
 Quarto book of Alexander Feigin's translations, initially migrated from
 `Poetry Book.zip` in November 2026. Author-supplied additions and corrections are
-maintained in the Quarto source. The book currently contains 33 poet chapters,
+maintained in the Quarto source. The book currently contains 34 poet chapters,
 the introduction, and the purchase page. The v4 literary redesign updates the
 presentation layer; see [review notes](docs/redesign-review.md).
 
